@@ -1,0 +1,3830 @@
+PK_Players;player;points;position;move;gender
+1;Delfina Brea Senesi;18060;1;0;Women
+2;Gemma Triay Pons;18060;1;0;Women
+3;Paula Josemaria Martin;14720;3;0;Women
+4;Ariana Sanchez Fallada;14720;3;0;Women
+5;Claudia Fernandez Sanchez;13040;5;0;Women
+6;Beatriz Gonzalez Fernandez;13040;5;0;Women
+7;Sofia Araujo;7030;7;0;Women
+8;Andrea Ustero Prieto;6625;8;0;Women
+9;Marta Ortega Gallego;6435;9;0;Women
+10;Tamara Icardo Alcorisa;6050;10;0;Women
+11;Claudia Jensen;5405;11;0;Women
+12;Alejandra Alonso De Villa;5385;12;0;Women
+13;Alejandra Salazar Bengoechea;5110;13;0;Women
+14;Martina Calvo Santamaria;4745;14;0;Women
+15;Veronica Virseda;4190;15;0;Women
+16;Marina Guinart España;4035;16;0;Women
+17;Carmen Goenaga Garcia;3715;17;0;Women
+18;Beatriz Caldera Sanchez;3715;17;0;Women
+19;Aranzazu Osoro Ulrich;3640;19;0;Women
+20;Victoria Iglesias Segador;3420;20;0;Women
+21;Lucia Sainz Pelegri;2980;21;0;Women
+22;Patricia Llaguno Zielinski;2965;22;0;Women
+23;Jessica Castello Lopez;2480;23;0;Women
+24;Raquel Eugenio Barrera;2380;24;0;Women
+25;Martina Fassio Goyeneche;2370;25;0;Women
+26;Lorena Rufo Ortiz;2190;26;0;Women
+27;Marta Barrera De La Fuente;2185;27;0;Women
+28;Jimena Velasco Postiguillo;2115;28;0;Women
+29;Carolina Orsi;1960;29;0;Women
+30;Marta Caparros Maldonado;1885;30;0;Women
+31;Araceli Martinez;1845;31;0;Women
+32;Noa Canovas Paredes;1820;32;0;Women
+33;Ksenia Sharifova;1810;33;0;Women
+34;Alix Collombon;1765;34;0;Women
+35;Virginia Riera;1716;35;0;Women
+36;Maria Eulalia Rodriguez Abajo;1690;36;0;Women
+37;Nuria Rodriguez;1655;37;0;Women
+38;Lucia Martinez Gomez;1650;38;0;Women
+39;Julieta Evangelina Bidahorria;1575;39;0;Women
+40;Ana Catarina Nogueira;1565;40;0;Women
+41;Melania Merino Saez;1502;41;0;Women
+42;Lara Arruabarrena;1495;42;0;Women
+43;Agueda Perez Ortiz;1474;43;0;Women
+44;Marta Borrero;1472;44;0;Women
+45;Marta Talavan;1470;45;0;Women
+46;Sara Ruiz Soto;1315;46;0;Women
+47;Marina Lobo;1315;46;0;Women
+48;Letizia Maria Manquillo Alarza;1257;48;0;Women
+49;Laura Lujan Rodriguez;1250;49;0;Women
+50;Noemi Aguilar Carrillo;1244;50;0;Women
+51;Giorgia Marchetti;1234;51;0;Women
+52;Sofia Saiz Vallejo;1214;52;0;Women
+53;Julia Polo Bautista;1174;53;0;Women
+54;Barbara Las Heras;1148;54;0;Women
+55;Patricia Martinez Fortun;1126;55;0;Women
+56;Carolina Navarro Björk;1066;56;0;Women
+57;Teresa Navarro lopez-Barajas;1064;57;0;Women
+58;Jana Montes Cabruja;1046;58;0;Women
+59;Lucia Garcia Trella;1013;59;0;Women
+60;Carla Mesa Salazar;971;60;0;Women
+61;Lea Godallier;940;61;0;Women
+62;Esther Carnicero Martin;929;62;0;Women
+63;Marta Marrero;926;63;0;Women
+64;Amanda Lopez Moral;918;64;0;Women
+65;Sandra Bellver Fructuoso;899;65;0;Women
+66;Marta Arellano Navarro;876;66;0;Women
+67;Giulia Dal Pozzo;857;67;0;Women
+68;Ariadna Cañellas Rodero;763;68;0;Women
+69;Camila Fassio Goyeneche;763;68;0;Women
+70;Monica Gomez Rivas;747;70;0;Women
+71;Ana Dominguez Gracia;738;71;1;Women
+72;Natividad Lopez Diaz;730;72;-2;Women
+73;Rebeca Lopez Lopez;727;73;0;Women
+74;Alba Perez Momha;726;74;1;Women
+75;Aida Martinez Sanjuan;710;75;-2;Women
+76;Anna Ortiz Gasco;660;76;0;Women
+77;Lorena Vano;654;77;0;Women
+78;Carlotta Casali;610;78;0;Women
+79;Carla Touly;602;79;1;Women
+80;Marcella Koek;581;80;-1;Women
+81;Victoria Kurz;572;81;0;Women
+82;Lucia Peralta Exposito;559;82;0;Women
+83;Daiara Agustina Valenzuela;542;83;1;Women
+84;Lucia Micaela Fernandez Lopez;541;84;1;Women
+85;Ana Varo Ramos;539;85;1;Women
+86;Claudia Escacena Montero;531;86;-3;Women
+87;Camila Ramme Coellar;522;87;1;Women
+88;Aitana Garcia Roman;505;88;1;Women
+89;Maria Portillo Perez;494;89;1;Women
+90;Aimee Gibson;475;90;-3;Women
+91;Carla Fito Fernandez;462;91;1;Women
+92;Janine Hemmes;446;92;1;Women
+93;Catarina Santos Domingos;442;93;1;Women
+94;Rosalie Van Der Hoek;440;94;1;Women
+95;Maria Teresa Moriñigo Gomez;435;95;1;Women
+96;Bo Luttikhuis;433;96;-5;Women
+97;Raquel Piltcher;426;97;0;Women
+98;Brittany Dubins;406;98;0;Women
+99;Xenia Clasca Vidiella;390;99;0;Women
+100;Lucia Perez Parra;389;100;0;Women
+101;Patricia Araus Lopez;389;100;0;Women
+102;Ana Cristina Sanchez Perez;386;102;0;Women
+103;Martina Parmigiani;383;103;0;Women
+104;Caterina Maria Baldi;373;104;0;Women
+105;Emily Stellato;351;105;1;Women
+106;Ainize Santamaria Landa;349;106;1;Women
+107;Giorgia Rosi;348;107;1;Women
+108;Blanca Arriola Cerrejon;342;108;1;Women
+109;Clarissa Margherita Aima;339;109;1;Women
+110;Clarinha Santos;339;109;1;Women
+111;Sara Pujals Perez;338;111;1;Women
+112;Eugenia Guimet Bigas;336;112;5;Women
+113;Stephanie Weterings;331;113;0;Women
+114;Manuela Schuck Silva;329;114;0;Women
+115;Margarida Fernandes;329;114;0;Women
+116;Dora Andrejszki;328;116;0;Women
+117;Patricia Maria Ribeiro;321;117;1;Women
+118;Louise Bahurel;320;118;1;Women
+119;Carla Fernandez Gonzalez;315;119;3;Women
+120;Catherine Rose;315;119;-14;Women
+121;Giulia Sussarello;301;121;-1;Women
+122;Maria Laura Ferreyra;298;122;-1;Women
+123;Natalia Molinilla Paniagua;292;123;0;Women
+124;Nerea Guerra Santana;291;124;2;Women
+125;Camilla Livioni;291;124;0;Women
+126;Paula Ferrán;278;126;-1;Women
+127;Valeria Atencia Basilio;271;127;0;Women
+128;Marianela Montesi;270;128;0;Women
+129;Arantxa Soriano Perez;263;129;0;Women
+130;Tia Louisa Norton;262;130;0;Women
+131;Chiara Pappacena;260;131;0;Women
+132;Alba Gallardo Salvado;254;132;0;Women
+133;Dora Chamli;254;132;0;Women
+134;Bruna Albuquerque Melo;253;134;0;Women
+135;Maaike Betz;252;135;0;Women
+136;Angelina Neizvestnaya;242;136;0;Women
+137;Ana Maria Cabrejas Ruiz;240;137;0;Women
+138;Carla Serrano Gonzalez;239;138;0;Women
+139;Elsa Terranova;236;139;0;Women
+140;Karin Hechenberger;235;140;0;Women
+141;Lisa Rachel Phillips;223;141;2;Women
+142;Sara Foguer Lapuente;222;142;2;Women
+143;Camille Sireix;221;143;-2;Women
+144;Elena De La Rosa Ramos;216;144;-3;Women
+145;Melissa Martin;216;144;1;Women
+146;Anastasiia Ryzhova;212;146;0;Women
+147;Constança Gorito;211;147;0;Women
+148;Ainara Pozuelo Dominguez;210;148;0;Women
+149;Francesca Ligotti;209;149;0;Women
+150;Carmen Castillon Gamez;207;150;0;Women
+151;Maria Delgado Medina;206;151;0;Women
+152;Ivet Val Lopez;205;152;0;Women
+153;Alicia Blanco Rojo;203;153;0;Women
+154;Alexandra Silva;201;154;0;Women
+155;Nika Sluzhiteleva;200;155;0;Women
+156;Lorena Alonso De Lera;198;156;0;Women
+157;Renata Martinez Becerra;198;156;0;Women
+158;Luna Di Battista;195;158;0;Women
+159;Kae Tokumoto;194;159;0;Women
+160;Steffi Merah;193;160;0;Women
+161;Alena Vasileva;189;161;0;Women
+162;Nuria Vivancos;179;162;1;Women
+163;Cayetana Sanchez Vera;179;162;1;Women
+164;Marisol Fernandez Garcia;178;164;2;Women
+165;Liza Groenveld;176;165;2;Women
+166;Jessica Marie Agra;174;166;-4;Women
+167;Alba Vazquez Gracia;174;166;-3;Women
+168;Tess De Vocht;172;168;1;Women
+169;Puck Bernard;168;169;1;Women
+170;Daniela Catarino;165;170;1;Women
+171;Marie Amelie Dardaine;163;171;-3;Women
+172;Yoshino Kushima;159;172;1;Women
+173;Martina Vera Cebollero;156;173;1;Women
+174;Kotomi Ozawa;154;174;-3;Women
+175;Jimena Diaz De La Iglesia;153;175;24;Women
+176;Saki Tsukamoto;149;176;-1;Women
+177;Natalia Blanco;147;177;-1;Women
+178;Ainhoa Navarro Fernandez;147;177;-1;Women
+179;Claudia Ordoñez Romero;147;177;-1;Women
+180;Mafalda Marques Fernandes;147;177;-1;Women
+181;Clara Miret Llorach;146;181;0;Women
+182;Carmen Azcoitia Mazo;144;182;0;Women
+183;Leire Uriarte Medina;143;183;0;Women
+184;Jessica Ginier Barbier;143;183;0;Women
+185;Charlotte Soubrie;142;185;-9;Women
+186;Laura Buteau;142;185;1;Women
+187;Coral Alvarez Castro;141;187;-4;Women
+188;Cristina Cirne;138;188;0;Women
+189;Catalina Arancibia;138;188;0;Women
+190;Claudia Gaspar;138;188;0;Women
+191;Lucile Pothier;138;188;0;Women
+192;Kimberley Ahumada Carrasco;138;188;0;Women
+193;Carla Castillo Velarde;137;193;0;Women
+194;Maria Garin;137;193;0;Women
+195;Alicia Cañellas;134;195;0;Women
+196;Matilde Minelli;133;196;0;Women
+197;Emma Karen Reyes Baca;132;197;1;Women
+198;Aurora Buscaino;131;198;1;Women
+199;Letizia Dell'Agnese;131;198;-2;Women
+200;Sandra Oliveras Gonzalez;130;200;1;Women
+201;Candela Lucendo Millan;129;201;-14;Women
+202;Teresa Casero De La Casa;123;202;0;Women
+203;Lucia Vicente Mera;122;203;0;Women
+204;Lucia Dionisio Laureano;119;204;0;Women
+205;Maria Rasmussen;119;204;12;Women
+206;Vega Cano Ortin;119;204;0;Women
+207;Laura Virginia Afonso Maas;118;207;0;Women
+208;Luisa Roque De Pinho;118;207;0;Women
+209;Justine Pysson;118;207;0;Women
+210;Maria Arteaga Vilches;117;210;0;Women
+211;Camilla Ronchini;117;210;-6;Women
+212;Helena Rousselet Novillo;116;212;-1;Women
+213;Cristina Carrascosa Cazorla;115;213;25;Women
+214;Martina Minetti;115;213;-1;Women
+215;Dilara Torssell;114;215;-2;Women
+216;Jessica Lucinda Palma La Cruz;113;216;-2;Women
+217;Alessandra Abbud De Barros;112;217;-2;Women
+218;Chifumi Sato;108;218;-1;Women
+219;Valentina Tommasi;107;219;-1;Women
+220;Moura Hakim;107;219;-1;Women
+221;Florencia Lucila Berraz Vivas;106;221;-1;Women
+222;Nerea Derbis;106;221;-1;Women
+223;Michela Zaccagnini;105;223;-1;Women
+224;Chiara Giaquinta;105;223;-1;Women
+225;Abigail Tordoff;103;225;-1;Women
+226;Gema Flores Saucedo;102;226;-1;Women
+227;Leyre Montañez Marco;101;227;-1;Women
+228;Patricia Roman Aldea;101;227;-1;Women
+229;Nuria Molina Sanchez;101;227;-1;Women
+230;Laila El Nimr;101;227;-1;Women
+231;Jordana Ailen Lujan Ferreyra;100;231;-1;Women
+232;Narine Sargsyan;99;232;-1;Women
+233;Rodayna Fathy Elsayed;99;232;-1;Women
+234;Gabriela Roux Vidal;99;232;-1;Women
+235;Gianina Minieri;99;232;-1;Women
+236;Elena Martinez Brito;98;236;-1;Women
+237;Rita Vilaça;98;236;-1;Women
+238;Carlota Sanchez Gonzalez;92;238;1;Women
+239;Novela Putria;92;238;1;Women
+240;Simone Alipieva;92;238;17;Women
+241;Manon Marcarie;92;238;-1;Women
+242;Elisabeth Nogueras Lorenz;91;242;-1;Women
+243;Kimy Barla;89;243;-2;Women
+244;Micaela Para;88;244;-1;Women
+245;Amelie Detriviere;88;244;-1;Women
+246;Jessica Para;88;244;-1;Women
+247;Giulia Perusso Bettim;87;247;-1;Women
+248;Maria Francisca Santos;86;248;-1;Women
+249;Sara Pereira Alvarez;86;248;-1;Women
+250;Irene Jimenez;85;250;1;Women
+251;Carolina Petrelli;85;250;1;Women
+252;Daniela Banchero;85;250;1;Women
+253;Maria Martinez Perez;84;253;2;Women
+254;Lou Lambert Agosti;84;253;-6;Women
+255;Carla Medio Boto;83;255;-4;Women
+256;Raquel Almendros Garcia;83;255;2;Women
+257;Dafne Paola Peralta Sanchez;81;257;1;Women
+258;Erika Mesa Martinez;81;257;-10;Women
+259;Daniela Portilla Gomez;81;257;1;Women
+260;Ivana Perches Arredondo;81;257;1;Women
+261;Anna Cortiles;80;261;0;Women
+262;Isadora Siga Nunes;80;261;0;Women
+263;Candela Valverde;79;263;0;Women
+264;Fernanda Abarzua Branchi;78;264;0;Women
+265;Helena Wyckaert;78;264;0;Women
+266;Carina Costa;78;264;0;Women
+267;Covadonga Verdejo Saiz;78;264;0;Women
+268;Sofia Pastor Sebastian;78;264;0;Women
+269;Zhai Yu;77;269;0;Women
+270;Fiona Ligi;76;270;0;Women
+271;Maria Castro Quevedo Pereira;75;271;0;Women
+272;Maria Jose Montoya;75;271;0;Women
+273;Carmen Villar Gonzalez;74;273;0;Women
+274;Maria Cristina Lopez Fuertes;74;273;0;Women
+275;Ana Elliot garcia-Montaner;74;273;0;Women
+276;Marta Eugenio Barrera;74;273;0;Women
+277;Maria Del Carmen Gallego Castaño;73;277;0;Women
+278;Gabriela Menna Barreto;72;278;1;Women
+279;Hiu Wai Lau;71;279;1;Women
+280;Cristina Gonzalez Cidoncha;71;279;-2;Women
+281;Margarida Guerreiro;71;279;1;Women
+282;Maite Cano Pou;70;282;0;Women
+283;Allison Peralta Sanchez;70;282;0;Women
+284;Maria Guimarães Perry Ferreira;70;282;0;Women
+285;Susana Martin Marin;70;282;0;Women
+286;Ares Llobera Irun;70;282;0;Women
+287;Angela Lorenzo Martin;69;287;0;Women
+288;Adriana Corona;69;287;0;Women
+289;Giuditta Beltrami;68;289;0;Women
+290;Bojana Jovanovic;68;289;0;Women
+291;Beatriz Ferreira;68;289;0;Women
+292;Ainhoa Corrales Fernández;68;289;0;Women
+293;Marianne Vandaele;66;293;-4;Women
+294;Julia Gomes Giusti;66;293;1;Women
+295;Noemi Sermant;66;293;1;Women
+296;Tetyana Dychka;65;296;0;Women
+297;Fatma Al Nabhani;65;296;0;Women
+298;Olena Kyrpot;65;296;0;Women
+299;Mayar Tawfik;64;299;0;Women
+300;Nerea Gomez Blasquez;63;300;0;Women
+301;Elyne Boeykens;63;300;0;Women
+302;Joana Soares;63;300;0;Women
+303;Nadia Aida Acuña Lopez;61;303;-3;Women
+304;Alenna Dawn Magpantay;60;304;0;Women
+305;Anna Schmid;59;305;0;Women
+306;Marta Morga Alonso;59;305;0;Women
+307;Martina Rivera Serra;58;307;0;Women
+308;Alice Radu;58;307;0;Women
+309;Sayaka Yoshimoto;58;307;24;Women
+310;Nora Leinus;57;310;0;Women
+311;Vilena Petrova;57;310;0;Women
+312;Maria Mayoral Estrada;56;312;-5;Women
+313;Babette De Decker;56;312;0;Women
+314;Ekaterina Nikitina;56;312;0;Women
+315;Gitte Haxen;56;312;0;Women
+316;Mar Munera Vila;55;316;-1;Women
+317;Simone Simas;55;316;-1;Women
+318;Raquel Segura Aguilar;55;316;-1;Women
+319;Daria Kucheriavaia;54;319;-1;Women
+320;Farida El Halaby;54;319;-1;Women
+321;Alejandra Elizabeth Aguirre Corrales;53;321;0;Women
+322;Sandra Martinez Diaz;53;321;0;Women
+323;Francisca Bragança;53;321;0;Women
+324;Julia Isabella Wiese;53;321;0;Women
+325;Martina Mantova;52;325;0;Women
+326;Cristina Rodriguez Enrich;51;326;0;Women
+327;Alanoud Yamani;51;326;0;Women
+328;Nura Padilla Tomasa;51;326;0;Women
+329;Paula Del Rio Del Barrio;51;326;0;Women
+330;Quetzali Dafne Vazquez Montesinos;51;326;0;Women
+331;Alina Yeroshenko;50;331;0;Women
+332;Laura Daniela Arciniegas;50;331;0;Women
+333;Baharak Soleymani;50;331;0;Women
+334;Paola Ciabattoni;50;331;0;Women
+335;Hiu Laam Chan;49;335;1;Women
+336;Cassandra Senjean;49;335;-17;Women
+337;Maria Fontes Vaz Ferreira;48;337;1;Women
+338;Areej Khalil Fareh;48;337;1;Women
+339;Alexandra Alegre Ferré;47;339;-3;Women
+340;Rune Vierendeels;46;340;2;Women
+341;Sofia Carmo Machado;46;340;2;Women
+342;Gaëlle Rey;46;340;-2;Women
+343;Jemilett Cortes Figueroa;45;343;1;Women
+344;Merel Van Houten;45;343;1;Women
+345;Maria Vasileidi;44;345;1;Women
+346;Francesca Campigotto;44;345;1;Women
+347;Laura Rijkers;43;347;1;Women
+348;Sara Errani;43;347;-9;Women
+349;Fernanda Salazar Morales;42;349;0;Women
+350;Erika Zanchetta;41;350;0;Women
+351;Claudia Esteban Esposito;41;350;0;Women
+352;Karen Micaela Gomez Gonazlez;41;350;0;Women
+353;Roberta Liberti;41;350;0;Women
+354;Nelida Brito;41;350;0;Women
+355;Yixuan Wang;41;350;0;Women
+356;Yusra Mohamed Hegy;41;350;0;Women
+357;Hanna Maddock Gamez;40;357;0;Women
+358;Andrea Lima Ramirez;40;357;0;Women
+359;Maria De La Paz Hermida Vazquez;40;357;0;Women
+360;Lydia Silvan Ramiro;40;357;0;Women
+361;Elena Schiattelli;39;361;0;Women
+362;Flavia Coppola;39;361;0;Women
+363;Ruth Petit Segarra;39;361;0;Women
+364;Lea Jurkovi?;39;361;0;Women
+365;Wing Chun Law;39;361;0;Women
+366;Elisa Guiraud;39;361;0;Women
+367;Christina-Styliani Ntanou;39;361;0;Women
+368;Anna-Blue Houareau;39;361;0;Women
+369;Fiorella Agostina Propato San Martin;38;369;0;Women
+370;Dalal Al Qenaei;38;369;0;Women
+371;Kateryna Yegoreychenko;38;369;0;Women
+372;Valeria Montaño;38;369;0;Women
+373;Sara Garrido Rodríguez;38;369;0;Women
+374;Francesca Candelieri;37;374;0;Women
+375;Yik Yan Law;36;375;0;Women
+376;Laura Jackson;36;375;0;Women
+377;Iris Donate Murcia;36;375;0;Women
+378;Francielle Gaspar;36;375;0;Women
+379;Minghui Wu;36;375;0;Women
+380;Luisa Fernanda De La Peña Rosas;36;375;0;Women
+381;Maria Florencia Ernandorena;36;375;0;Women
+382;Cristina Musial Navarro;36;375;0;Women
+383;Sofía María González Lara;36;375;0;Women
+384;Giulia Cascapera;35;384;0;Women
+385;Tatyana Kutulaeva;35;384;0;Women
+386;Maria Constanza Vega;35;384;0;Women
+387;Greta Mokrousova;35;384;0;Women
+388;Carolina Martinho Santos;35;384;0;Women
+389;Zenab Sarkhoo;35;384;0;Women
+390;Paula Hoyos Miranda;35;384;0;Women
+391;Luana Trautwein;34;391;0;Women
+392;Maria Mora Sanz;34;391;0;Women
+393;Rieko Maruyama;33;393;0;Women
+394;Clara Mansart;33;393;0;Women
+395;Catarina Cardoso;33;393;0;Women
+396;Paula Canivell Varona;33;393;0;Women
+397;Ines Coelho;33;393;0;Women
+398;Maria Do Carmo Ribeiro;33;393;0;Women
+399;Anna Tulenkova;33;393;0;Women
+400;Gabriela Andrade;33;393;0;Women
+401;Maria Leonor Araujo Teixeira;33;393;0;Women
+402;Patricia Martin Ortiz;32;402;0;Women
+403;Raluca Sandu;32;402;0;Women
+404;Edanur Sahin;32;402;0;Women
+405;Sandra Gamez;32;402;0;Women
+406;Beatrice Gumulya;32;402;0;Women
+407;Noha Amr;32;402;0;Women
+408;Clara Sofia Martins Santos Faria Leite;32;402;0;Women
+409;Claudia Di Nicola;32;402;0;Women
+410;Angela Maria Dangond Villamizar;32;402;79;Women
+411;Adolfina Caballero Vico;31;411;0;Women
+412;Anahi Salas Almaraz;31;411;0;Women
+413;Christina Smith;31;411;0;Women
+414;Dalila Elshaer;31;411;0;Women
+415;Yiyun Chai;31;411;0;Women
+416;Debra Fernanda Gonzalez Preciado;31;411;0;Women
+417;Ana Julia Acunha De Oliveira;31;411;0;Women
+418;Diana Toledo Jovani;31;411;0;Women
+419;Alexandra Pils;31;411;0;Women
+420;Tatiana Correa;30;420;0;Women
+421;Maria Azul Llorens Gioda;30;420;0;Women
+422;Ariadna Suárez López;30;420;0;Women
+423;Francesca Ana Floriani;30;420;0;Women
+424;Melissa Rodriguez Mayen;30;420;0;Women
+425;Catarina Castro Vilela;30;420;0;Women
+426;Céline François;30;420;0;Women
+427;Hayano Natsuki;30;420;0;Women
+428;Silvia Trassinelli;30;420;0;Women
+429;Gimena Sol Perez;29;429;0;Women
+430;Noemi Bevilacqua;29;429;0;Women
+431;Tessa Nikkelen;29;429;0;Women
+432;Ana Fernandez De Osso Fuentes;29;429;0;Women
+433;Araceli Muñoz Sanchez;29;429;0;Women
+434;Daria Ovsiannikova;29;429;0;Women
+435;Ieva Ceilutkaite;29;429;0;Women
+436;Feity Lesmana;29;429;0;Women
+437;Nina Duernberger;29;429;0;Women
+438;Silvia Lopez Vidal;29;429;0;Women
+439;Candelaria Sedano Acosta;29;429;0;Women
+440;Aisha Alawadhi;29;429;0;Women
+441;Eloise Tait;29;429;0;Women
+442;Beatriz Gueiral;28;442;0;Women
+443;Jennifer Deguigne;28;442;0;Women
+444;Gabriele Strolyt?;28;442;0;Women
+445;Elodie Naegellen;28;442;0;Women
+446;Fiorella Cuccioli;28;442;0;Women
+447;Lorena Marruffo;28;442;0;Women
+448;Maria Magraner;28;442;0;Women
+449;Regina Estrada Dieguez;28;442;0;Women
+450;Martina Correa Rodrigues;28;442;0;Women
+451;Marina Cuadron Florez;28;442;0;Women
+452;Carla Sánchez Nombela;27;452;0;Women
+453;Johanna Hommy Falcon Manrique;27;452;0;Women
+454;Susana Leticia Alcaraz González;27;452;0;Women
+455;Sofia Piaskowy Santos;27;452;0;Women
+456;Sarah De Vleeschouwer;27;452;0;Women
+457;Iman Metwally;27;452;0;Women
+458;Maria Domingues Dos Reis Pascoal;27;452;0;Women
+459;Vladyslava Kaplina;27;452;0;Women
+460;Larissa Meyer;27;452;0;Women
+461;Irache Sanchez Castillo;27;452;0;Women
+462;Iryna Shemyakina;26;462;0;Women
+463;Abby Ombler-Truran;26;462;0;Women
+464;Daniela Valiente Escrich;26;462;0;Women
+465;Ana Betina Magalhães Alves De Sousa;26;462;0;Women
+466;Maryam Alhashimi;26;462;0;Women
+467;Victoria Fedorova;26;462;0;Women
+468;Emine Kutluca;26;462;0;Women
+469;Pascalle Thenoux;26;462;73;Women
+470;Ana Clara Duffort;26;462;0;Women
+471;Nihal Cetinkaya;26;462;0;Women
+472;Valentina Varazi;26;462;0;Women
+473;Sofia Formigal;26;462;0;Women
+474;Jauresse Kouamé;25;474;-1;Women
+475;Siri Dandu;25;474;-1;Women
+476;Marta Buendia;25;474;-1;Women
+477;Angela Navarro Garcia;25;474;-1;Women
+478;Sadjo Coulibaly;25;474;-1;Women
+479;Rosa Maria Carrasco Nunez;25;474;-1;Women
+480;Angelina Gordienko;25;474;-1;Women
+481;Padma Veda Manikonda;25;474;-1;Women
+482;Alejandra Arcis Flores;24;482;-1;Women
+483;Aukse Maciulaityte;24;482;-1;Women
+484;Paula Bartolome San Valeriano;24;482;-1;Women
+485;Valentina Scaringi;24;482;-1;Women
+486;Elvira Camacho Marente;24;482;-1;Women
+487;Claudia Zufia Laraudogoitia;24;482;-1;Women
+488;Jessy Rompies;24;482;-1;Women
+489;Fatma Abbas Janahi;24;482;-1;Women
+490;Alicia Alegre Masnou;24;482;-1;Women
+491;Lisa Andersson;23;491;0;Women
+492;Ana Caballero Vico;23;491;0;Women
+493;Amalia Bentjerodt Burgos;23;491;0;Women
+494;Noelle Nikki Camille Zoleta;23;491;0;Women
+495;Axelle Moens;23;491;0;Women
+496;Olivia Morales Llorente;23;491;0;Women
+497;Nour Faidallah;23;491;0;Women
+498;Filippa Vial;23;491;0;Women
+499;Irina Chernaya;23;491;0;Women
+500;Vittoria Giraldi;23;491;0;Women
+501;Anabela Salas Almaraz;23;491;0;Women
+502;Jana El Khadrawy;23;491;0;Women
+503;Emma Karlsrud;23;491;0;Women
+504;Katharina Hering;22;504;1;Women
+505;Estefania Fuentes Szymanski;22;504;1;Women
+506;An-Sophie Mestach;22;504;1;Women
+507;Lena Plümer;22;504;1;Women
+508;Diana Silva;22;504;1;Women
+509;Maria Torres Montesinos;22;504;1;Women
+510;Reem AlObaidli;22;504;1;Women
+511;Daniela Jurado Cerezo;22;504;1;Women
+512;Aroa Segura Alcover;22;504;1;Women
+513;Maria Martinez Martinez;22;504;1;Women
+514;Camila Acuña;22;504;1;Women
+515;Daniela Rodriguez Borjas Villegas;22;504;1;Women
+516;Chiara Catini;22;504;1;Women
+517;Laura Gamblin;22;504;1;Women
+518;Veronica Cepede Royg;22;504;1;Women
+519;Vlada Kutuzova;22;504;1;Women
+520;Morena Nicole Suarez;22;504;1;Women
+521;Alessia La Monaca;21;521;2;Women
+522;Benedetta Davato;21;521;2;Women
+523;Karen Wachowicz De Oliveira;21;521;2;Women
+524;Huiwen Liu;21;521;2;Women
+525;Maria Carracha;21;521;2;Women
+526;Lucrezia Piernera;21;521;2;Women
+527;Turkan Gurgan;21;521;2;Women
+528;Candela De Soroa Jimenez;21;521;2;Women
+529;Aitana Tejedor Garcia Rayo;21;521;2;Women
+530;Elysia Wan;21;521;154;Women
+531;Constanza Sampaio Kokorelis;21;521;-119;Women
+532;Maram Mohammed;21;521;2;Women
+533;Nuna Azevedo;21;521;2;Women
+534;Vittoria Rotondo;21;521;2;Women
+535;Aurelia Sara Argentieri;20;535;0;Women
+536;Joana Peneda Paiva Cubal De Almeida;20;535;0;Women
+537;Noor Hanis Zainul Azizan;20;535;0;Women
+538;Nerea Guerrero Gonzalez;20;535;0;Women
+539;Sara Galvao;20;535;0;Women
+540;Ai Liu;20;535;0;Women
+541;Jessica Lucas;19;541;1;Women
+542;Iara Filipa Pereira Rocha;19;541;1;Women
+543;Irina Ceresuela;19;541;1;Women
+544;Kenzy Mansour;19;541;1;Women
+545;Mariana Borges Altmayer;19;541;1;Women
+546;Elizabeth Rozin;19;541;1;Women
+547;Olivia Çiftçi;19;541;1;Women
+548;Erika Castillo Lopez;19;541;1;Women
+549;Catarina Campos;19;541;1;Women
+550;Alexia Dalley;19;541;1;Women
+551;Mar Burjats Guitart;19;541;1;Women
+552;Marie Lefevre;19;541;1;Women
+553;Lila Humaloja;19;541;1;Women
+554;Paula Gil Aguilar;19;541;1;Women
+555;Sofia Luini;19;541;1;Women
+556;Anna Marya;18;556;1;Women
+557;Alba Adrados Buades;18;556;1;Women
+558;Nereida Quero Jiménez;18;556;1;Women
+559;Egle Petrauskaite;18;556;1;Women
+560;Francesca Scrinzi;18;556;1;Women
+561;Milene Cruz;18;556;1;Women
+562;Aki Kitao;18;556;119;Women
+563;Teodora Mirosavljevic;18;556;1;Women
+564;Roberta Giulia Naicu;18;556;1;Women
+565;Sirui He;18;556;-65;Women
+566;Hanna Borjeson;18;556;1;Women
+567;Valeria Canosa Del Valle;18;556;1;Women
+568;Ines Ferreira Cerqueira;18;556;1;Women
+569;Marta Suñer Mas;18;556;1;Women
+570;Celia Martin;18;556;1;Women
+571;Avalon Segou Jonker;18;556;1;Women
+572;Sofia Victoria Adamowich Lebron;18;556;1;Women
+573;Elena Carboni;18;556;1;Women
+574;Jadeleen Lee;18;556;119;Women
+575;Jovana Knezevic;18;556;1;Women
+576;Berta Martinez Barrachina;18;556;1;Women
+577;Lisa Blake;18;556;1;Women
+578;Rio Yamada;18;556;119;Women
+579;Jasmine Dedakia;18;556;1;Women
+580;Jimena Huerta Villegas;17;580;-3;Women
+581;Noemi Ollero Ramirez;17;580;-3;Women
+582;Pamela López Cervantes;17;580;-3;Women
+583;Anouk Faure;17;580;-3;Women
+584;Viktoriya Prudnikova;16;584;-3;Women
+585;Lola Desque;16;584;-3;Women
+586;Ludivine Grondin;16;584;-3;Women
+587;Natalia Rohde;16;584;-3;Women
+588;Ranran Zheng;16;584;-3;Women
+589;Amelia De Parscau;16;584;-3;Women
+590;Giulia Pisano;16;584;-3;Women
+591;Ainhoa Rico Martin;16;584;-3;Women
+592;Claudia Mora Cuart;16;584;-3;Women
+593;Valentine Bousquet;16;584;-3;Women
+594;Lola Tena Ibañez;16;584;-3;Women
+595;Trinidad Del Real Bobadilla;16;584;-3;Women
+596;Anneleen De Cock;16;584;-3;Women
+597;Patricia Manglano Perez;16;584;-3;Women
+598;Nicoline Pihl;16;584;-3;Women
+599;Mayumi Jane Toribio;16;584;-3;Women
+600;Elisa Sararu;16;584;-3;Women
+601;Marina Miguel Chaves;16;584;-3;Women
+602;Ruonan Li;16;584;-3;Women
+603;Venla Andersson;16;584;-3;Women
+604;Emilie Saintot;16;584;-3;Women
+605;Ilenia Monti;16;584;-3;Women
+606;Emma Speziali;16;584;-3;Women
+607;Janice Tilbrook;16;584;-3;Women
+608;Margarida Gaia Braz;16;584;-3;Women
+609;Mariluz Rojo Domingo;16;584;-3;Women
+610;Anna Guryanova;16;584;-3;Women
+611;Chun Wing Jennifer Sher;16;584;-3;Women
+612;May Anne Stephanie Dela Torre Raquel;16;584;-3;Women
+613;Sian Payne;16;584;-3;Women
+614;Kimea Darmalingom;16;584;-3;Women
+615;Juliette Mouis;16;584;-3;Women
+616;Antria Tsangaridou;16;584;-3;Women
+617;Benedita Terroso;16;584;-3;Women
+618;Dina Aoulad Bouhmama;16;584;-3;Women
+619;Sandrine Leclercq;16;584;-3;Women
+620;Chloe De La Mare;15;620;-3;Women
+621;Karolina Balog;15;620;-3;Women
+622;Aina Valls Izquierdo;15;620;-3;Women
+623;Mara Lemes Lemes;15;620;-3;Women
+624;Alia Taher;15;620;-3;Women
+625;Asia Bicchi;15;620;-3;Women
+626;Isabella Nass;15;620;-3;Women
+627;Merituuli Saarela;15;620;-3;Women
+628;Ariadna Valls Izquierdo;15;620;-3;Women
+629;Ana Belec;15;620;-3;Women
+630;Clara Teresa Siverio Trujillo;15;620;-3;Women
+631;Martina Recuerda Corral;15;620;-3;Women
+632;Yvonne Flynn;15;620;-3;Women
+633;Maria Concepcion Liong;15;620;-3;Women
+634;Shermin Bayazidi;15;620;-3;Women
+635;Luiza Dutra Amador;15;620;-3;Women
+636;Celia Alarcón García;15;620;-3;Women
+637;Helen Crook;15;620;-3;Women
+638;Rosie Quirk;15;620;-3;Women
+639;Steisha Buddhala;14;639;-3;Women
+640;Agustina Berenice Giacomin;14;639;-3;Women
+641;Elsa Pellegrinelli;14;639;-3;Women
+642;Macarena Abigail Prieto;14;639;-3;Women
+643;Riviere Anaise;14;639;-3;Women
+644;Sarah Lochrie;14;639;-3;Women
+645;Lena Damergie;14;639;-3;Women
+646;Patricia Aburto;14;639;-3;Women
+647;Sofia Gulnova;14;639;-3;Women
+648;Marie Maligo;14;639;-3;Women
+649;Laura Chavanel;14;639;-3;Women
+650;Jennifer Demsey;14;639;-3;Women
+651;Fabiola Polvillo Camarero;14;639;-3;Women
+652;Livia Freitas;14;639;-3;Women
+653;Haruna Okunaga;14;639;-3;Women
+654;Cammy MacGregor;14;639;-3;Women
+655;Lana Büttner;14;639;-3;Women
+656;Claudia Oses Equiza;14;639;-3;Women
+657;Gwendoline Laurent;14;639;-3;Women
+658;Amarjot Kaur Bundhel;14;639;-3;Women
+659;Carole Tirel;14;639;-3;Women
+660;Claudia Manzanares Oton;14;639;-3;Women
+661;Sofia Treviño Garza;14;639;-3;Women
+662;Sara Almanza Martinez;14;639;-3;Women
+663;Ariadna Santana Trujillo;14;639;-3;Women
+664;Flore Poupart;14;639;-3;Women
+665;Laura Solà Grau;14;639;-3;Women
+666;Irene Frances Perez;14;639;-3;Women
+667;Carla Aguila Tello;14;639;-3;Women
+668;Siri Willems;14;639;-3;Women
+669;Michelle Van Mol;14;639;-3;Women
+670;Yoanne Laporte Ravelonarivo;14;639;-3;Women
+671;Judit Orriols Serras;14;639;-3;Women
+672;Mariam Fassahy;14;639;-3;Women
+673;Chiara Messina;14;639;-3;Women
+674;Karine Ghozayel;14;639;-3;Women
+675;Lucie Vichier;14;639;-3;Women
+676;Maria Luz Palmieri;14;639;-3;Women
+677;Caroline Brandão;13;678;-3;Women
+678;Xinyi Zhang;13;678;-3;Women
+679;Medina Muftic;13;678;-3;Women
+680;Wu Wei;13;678;-3;Women
+681;Ma. Clarence Victoria Clemente;13;678;-3;Women
+682;Marina Brandao;13;678;-3;Women
+683;Samantha Martinez;13;678;-3;Women
+684;Liis Org;13;678;-3;Women
+685;Gabriela Eufrasio;13;678;-3;Women
+686;Tatyana Chsherbakova;13;678;-3;Women
+687;Finina Isabel Lava;13;678;-3;Women
+688;Yuliya Hoske;13;678;-3;Women
+689;Marta Ortiz Montoya;13;678;-3;Women
+690;Valentina Fragomeni Bernasconi;13;678;-3;Women
+691;Pia Ana Maria Ugarte garcia-Morera;13;678;-3;Women
+692;Andrea Koch Benvenuto;13;678;-3;Women
+693;Shelli Heathcote;13;678;-3;Women
+694;Dawn Olsen;13;678;-3;Women
+695;Marcela Lopes;13;678;-3;Women
+696;Ji Arunrat Vichithong;13;678;-3;Women
+697;Sol Capello;13;678;-3;Women
+698;Alice Keddie;13;678;-3;Women
+699;Daniela Carolina Niella;13;678;-3;Women
+700;Marina Vilariño;13;678;-3;Women
+701;Sara Khonji;13;678;-3;Women
+702;Saana Saarteinen;13;678;-3;Women
+703;Amy Cairns;13;678;-3;Women
+704;Alessa Belbes;13;678;-3;Women
+705;Mariya Sinitsyna;13;678;-3;Women
+706;Catarina Almeida;13;678;-3;Women
+707;Maria Sysoeva;13;678;-3;Women
+708;Alise Cernecka;13;678;-3;Women
+709;Dorothy Van Miert;13;678;-3;Women
+710;Laila Nassar;13;678;-3;Women
+711;Maria Teeriaho;13;678;-3;Women
+712;Ainhoa Santin;13;678;-3;Women
+713;Sophia Horne Bang;13;678;-3;Women
+714;Maria Belen Mosca;13;678;-3;Women
+715;Rebeca Allen;13;678;-3;Women
+716;Kristina Vasina;13;678;-3;Women
+717;Marta Caballero Garcia;13;678;-3;Women
+718;Sara Dina;13;678;-3;Women
+719;Natalia Soledad Martinena;13;678;-3;Women
+720;Alicia Keppenne;11;721;1;Women
+721;Manoela Duarte;11;721;1;Women
+722;Vladyslava Zanosiienko;11;721;1;Women
+723;Jessica Isabelle Brycki;11;721;290;Women
+724;Flavia Macedo;11;721;1;Women
+725;Felicitas Darboure;11;721;1;Women
+726;Natalia Oxley Da Rosa;11;721;1;Women
+727;Eman Hameed Alzaimoor;11;721;1;Women
+728;Frida Torres;11;721;1;Women
+729;Aisha Shahdoor;11;721;1;Women
+730;Lorena Maddonni Gallardo;11;721;1;Women
+731;Willeke Pas;11;721;1;Women
+732;Luna Di Noto Fernandez;11;721;1;Women
+733;Kyra Heemskerk;11;721;1;Women
+734;Karin Marlies Lems;11;721;1;Women
+735;Evelyn Van Puyvelde;11;721;1;Women
+736;Lucy Jones;11;721;1;Women
+737;Ksenia Danko;11;721;1;Women
+738;Renata Silva;11;721;1;Women
+739;Paula Torres Fluxà;11;721;1;Women
+740;Fatma Hassan;11;721;1;Women
+741;Teresa Romero Yela;11;721;1;Women
+742;Irene Nieves Lopez;11;721;1;Women
+743;Latifa Suhail;11;721;1;Women
+744;Eva Jimenez De La Plata Vargas;11;721;1;Women
+745;Muneera Aldoseri;11;721;1;Women
+746;Rita Baptista;11;721;1;Women
+747;Huda Ali;11;721;1;Women
+748;Maria De Los Angeles Kilca Rojas;11;721;1;Women
+749;Fatema Alasoomi;10;750;2;Women
+750;Chiara Petrazzuolo;10;750;2;Women
+751;Hedda Fritzell;10;750;2;Women
+752;Gabriela Carolina Coglitore;10;750;2;Women
+753;Andrea Medina Tomas;10;750;2;Women
+754;Satu Salonen;10;750;2;Women
+755;Deborah Alquier;10;750;2;Women
+756;Bruna Brayer Silva;10;750;2;Women
+757;Naomi Vullers;10;750;2;Women
+758;Nanou Vereertbrugghen;10;750;2;Women
+759;Marietta Regina Antonieta Toribio;10;750;2;Women
+760;Iah Isobel Macazo;10;750;2;Women
+761;Sini Jokinen;10;750;2;Women
+762;Susie Azoulay;10;750;2;Women
+763;Ruth Gonzalez Martinez;10;750;2;Women
+764;Anastasia Ivanova;10;750;2;Women
+765;Micaela Moroni;10;750;2;Women
+766;Andrea Batlle Achando;10;750;2;Women
+767;Noelia Suarez Perez;10;750;2;Women
+768;Jana Mahdy;10;750;2;Women
+769;Adriana Matoses Dogaru;10;750;2;Women
+770;Carmen Ibañez Diaz;10;750;2;Women
+771;Maria Paula Amoreo;10;750;2;Women
+772;Aigerim Suleimen;10;750;2;Women
+773;Deborah Cruciani;10;750;2;Women
+774;Maria Eliza Margarita Camacho;10;750;2;Women
+775;Selima Fendri;10;750;2;Women
+776;Anne Sophie Tavan;10;750;2;Women
+777;Michelle Perez;10;750;2;Women
+778;Beatrice Varini;10;750;2;Women
+779;Marija Mirosavljevic;10;750;2;Women
+780;Signe Horenius;10;750;2;Women
+781;Bruna Dos Santos;10;750;2;Women
+782;Fatima Saeed;10;750;2;Women
+783;Ainhoa Garcia Yepes;10;750;2;Women
+784;Ella Mae Navarro;10;750;2;Women
+785;Anna Peres;10;750;2;Women
+786;Lolita Vakhrusheva;10;750;2;Women
+787;Noelia Lorenzo;10;750;2;Women
+788;Nada Majdoubi;10;750;2;Women
+789;Carla Pozuelo Salamanca;9;790;2;Women
+790;Fabiana Magalhães Gomes Da Costa Caldas;9;790;2;Women
+791;Amaia Arteta;9;790;2;Women
+792;Lucia Fernandez;9;790;2;Women
+793;Annika Sillanpää;9;790;2;Women
+794;Ingrid Salgado Morante;9;790;2;Women
+795;Layla Marco Lasala;9;790;2;Women
+796;Laura Hernández Crisantes;9;790;2;Women
+797;Dido Blonk;9;790;2;Women
+798;Fernanda Guillén Aguilar;9;790;2;Women
+799;Alexia Sosa Gonzalez;9;790;2;Women
+800;Suheil Lizana;9;790;2;Women
+801;Elena Boix Gonzalez;9;790;2;Women
+802;Crystal Leung;8;803;2;Women
+803;Boyer Ophelie;8;803;2;Women
+804;Linn Poels;8;803;2;Women
+805;Nina Lammens;8;803;2;Women
+806;Hafsah Sani;8;803;2;Women
+807;Vidhyani Jadala;8;803;2;Women
+808;Maryam Isa;8;803;2;Women
+809;Zoe Andersson;8;803;2;Women
+810;Gabrielle Paul;8;803;2;Women
+811;Tea Jezidzic;8;803;2;Women
+812;Alicja Domagalska;8;803;2;Women
+813;Maria Catalina Tenorio Cauvet;8;803;2;Women
+814;Afaf Byad;8;803;2;Women
+815;Laura Battistini;8;803;2;Women
+816;Capucine Rochet;8;803;2;Women
+817;Jaqueline Rocio Soto;8;803;2;Women
+818;Elena Dudina;8;803;2;Women
+819;Victoria Cabrera Goterris;8;803;2;Women
+820;Zena Chhatwal;8;803;2;Women
+821;Pamela Sannazzaro;8;803;2;Women
+822;Chenxi Sun;8;803;2;Women
+823;Carmen Maria Sos;8;803;2;Women
+824;Monika Veron Juan;8;803;2;Women
+825;Candela Tores Garcia;8;803;2;Women
+826;Tea Lovrekovi?;8;803;2;Women
+827;Maria Soledad Mosca;8;803;2;Women
+828;Leonie Geukens;8;803;2;Women
+829;Clémentine Guerin Dubourg;8;803;2;Women
+830;Alica Repcikova;8;803;2;Women
+831;Maiko Kutsuna;8;803;2;Women
+832;Maryam Alammadi;8;803;2;Women
+833;Victoria Milena Vilchez;8;803;2;Women
+834;Federica Bernardini;8;803;2;Women
+835;Wendy Hunt;8;803;2;Women
+836;Lucia Escalante Diz;8;803;2;Women
+837;Claudette Gilhespie;8;803;2;Women
+838;Elizaveta Dvoeglazova;8;803;2;Women
+839;Chloe Rochet;8;803;2;Women
+840;Maria Mizzi Rama;8;803;2;Women
+841;Alba Izquierdo Rodriguez;8;803;2;Women
+842;Marie Glandus;8;803;2;Women
+843;Isabel Rapisarda Calvo;8;803;2;Women
+844;Maria Lopez;8;803;2;Women
+845;Huan Liu;8;803;2;Women
+846;Xianqian Fan;8;803;2;Women
+847;Joelle Schad;8;803;2;Women
+848;Astrid Gehre;8;803;2;Women
+849;Flora Carrella;8;803;2;Women
+850;Ferdaous Bahri;8;803;2;Women
+851;Kerry White;8;803;2;Women
+852;Melina Bois;8;803;2;Women
+853;Camille Dejonghe;8;803;2;Women
+854;Romina Melonaro;8;803;2;Women
+855;Vaibhavi Deshmukh;8;803;2;Women
+856;Emma Pallas;8;803;2;Women
+857;Nanette Nylund;8;803;2;Women
+858;Serena Tu;8;803;2;Women
+859;Malak Amer;8;803;0;Women
+860;Ana Sofia Gonçalves;8;803;2;Women
+861;Elpida Malamou;8;803;2;Women
+862;Frederique Maillot;8;803;2;Women
+863;Giulia Pasini;8;803;2;Women
+864;Khadeejah Sani;8;803;2;Women
+865;Antonette Andersson;8;803;2;Women
+866;Farah Mzid;8;803;2;Women
+867;Laura Higueras;8;803;2;Women
+868;Alicia Piqueras;8;803;2;Women
+869;Sarah Sayegh;8;803;2;Women
+870;Ni Nyoman Sri Maryati Sri Maryati;8;803;2;Women
+871;Yuliya Yankavets;8;803;2;Women
+872;Anna Christine Patrimonio;8;803;2;Women
+873;Nayla Agameya;8;803;2;Women
+874;Martine Imary;8;803;2;Women
+875;Zoljargal Neumann;8;803;2;Women
+876;Valeria Soledad Zoya;8;803;2;Women
+877;Valentina Aimone;8;803;2;Women
+878;Ni Putu Armini;8;803;2;Women
+879;Evelyne Dom;8;803;2;Women
+880;Mariam Akkouch;8;803;2;Women
+881;Anca Anastasiu;8;803;2;Women
+882;Aurora Paz Candia Gonzalez;8;803;2;Women
+883;Wanda Henriette Antonia Håbrekke;8;803;2;Women
+884;Lisa-Marie Peleska;8;803;2;Women
+885;Romane Haddad;8;803;2;Women
+886;Alba Tejera Dominguez;8;803;2;Women
+887;Mayra Mega;8;803;2;Women
+888;Isabel Dominguez Munaiz;8;803;2;Women
+889;Carla Hernandez Borrego;8;803;2;Women
+890;Vinoothna Jadala;8;803;2;Women
+891;Bego Benjumeda Navas;8;803;2;Women
+892;Paloma Cortina;8;803;2;Women
+893;Nina Pudar;8;803;2;Women
+894;Oriana Sofia Medina;8;803;2;Women
+895;Paula Duro Garcia;8;803;2;Women
+896;Jana Bonnarens;8;803;2;Women
+897;Wang Ying;8;803;2;Women
+898;Caroline Hitimana;8;803;2;Women
+899;Zahraa Akrah;8;803;2;Women
+900;Ni Xiong;8;803;2;Women
+901;Ana Loaiza;8;803;2;Women
+902;Nicole Borzecka;8;803;2;Women
+903;Lavinia Mathys;8;803;2;Women
+904;Vandana Narayan;8;803;2;Women
+905;Annie Frida Arenas Mondragón;8;803;2;Women
+906;Alicia Lopez Arias De Saavedra;8;803;2;Women
+907;Anamaria Bodescu;8;803;2;Women
+908;Fayza Hojeij;8;803;2;Women
+909;Patricia Pinilla Torres;8;803;2;Women
+910;Maria Arribas Ballesteros;8;803;2;Women
+911;Teliana Pereira;8;803;2;Women
+912;Sandra Bolstad;8;803;2;Women
+913;Hana Elshalkany;8;803;2;Women
+914;Hayley Halsall-Randall;8;803;2;Women
+915;Liyun Jia;8;803;2;Women
+916;Amiina Bakunowicz;8;803;2;Women
+917;Celia Aboukhalil;8;803;2;Women
+918;Ma. Elmira Pagot;8;803;2;Women
+919;Melina Fawaz;8;803;2;Women
+920;Cristina Rayo Cardenas;8;803;2;Women
+921;Cornelia Lister;8;803;2;Women
+922;Lynn Vanhoof;8;803;2;Women
+923;Iunona Rozhdestvenskaia;8;803;2;Women
+924;Carla Vasquez Bocetti;8;803;2;Women
+925;Karine Ananie;8;803;2;Women
+926;Melati Anhar;8;803;2;Women
+927;Giulia Bortolin;8;803;2;Women
+928;Yaiza Gallego Martinez;8;803;2;Women
+929;Cristina Aiello;8;803;2;Women
+930;Zahraa Byad;8;803;2;Women
+931;Sandy Gumulya;8;803;2;Women
+932;Laura Navarro Garcia;8;803;2;Women
+933;Ella Sillanpää;8;803;2;Women
+934;Shooq Ali Ahmed Mohamed Alaseeri;8;803;2;Women
+935;Maria Fernanda Espinosa Gonzalez;8;803;2;Women
+936;Aurora Tasca;8;803;2;Women
+937;Bella Genkina;8;803;2;Women
+938;Isabelle Bourdenet;8;803;2;Women
+939;Marta Porras Sanchez;8;803;2;Women
+940;Valentina Mago;8;803;2;Women
+941;Tessa Van Puyvelde;8;803;2;Women
+942;Alba Eunice Gauna Badaro;8;803;2;Women
+943;Chandra Pamela Capozzi;8;803;2;Women
+944;Imane Omais;8;803;2;Women
+945;Ghaida Jeribi;8;803;2;Women
+946;Stephanie Collado;8;803;2;Women
+947;Nafees Bano Syed;8;803;2;Women
+948;Amanda Gabrielle Zoleta;8;803;2;Women
+949;Cyrine Hamrouni;8;803;2;Women
+950;Bao Chun;8;803;2;Women
+951;Esperanza Lamatta Vidal;8;803;2;Women
+952;Eva Michelle Brito Peña;8;803;2;Women
+953;Giorgia Venzi;8;803;2;Women
+954;Angela Wood;8;803;2;Women
+955;Paulina Luquín Chavoya;8;803;2;Women
+956;Alma Sofia Cordoba;8;803;2;Women
+957;Claire Manolou;8;803;2;Women
+958;Flaminia Olmo;8;803;2;Women
+959;Giulia Porzio;8;803;2;Women
+960;Michelle Skov Jensen;8;803;2;Women
+961;Lara Salloub;8;803;2;Women
+962;Celia Marin Rios;8;803;2;Women
+963;Araya Suksomrup;8;803;2;Women
+964;Selin Devrimci;8;803;2;Women
+965;Dong Xue Pang;8;803;2;Women
+966;Fadona Kusuma;8;803;2;Women
+967;Mie Skov;8;803;2;Women
+968;Guixue Li;8;803;2;Women
+969;Ophelie Michel;8;803;2;Women
+970;Maria Joao Fernandes;8;803;2;Women
+971;Nicole Ictech;8;803;2;Women
+972;Sophie Cousins;8;803;2;Women
+973;Natalia Rodriguez Laudelino;8;803;2;Women
+974;Marcielle Resurreccion;8;803;2;Women
+975;M Del Carmen Perez Alindado;8;803;2;Women
+976;Louise Seret;8;803;2;Women
+977;Paula Toscas Cruz;8;803;2;Women
+978;Yueyue Yang;8;803;2;Women
+979;Natalia Reynoso Frigolet;8;803;2;Women
+980;Martina Hossen;8;803;2;Women
+981;Camila Belassi;8;803;2;Women
+982;Rita Cura Machado Alves De Jesus;7;983;2;Women
+983;Ivana Vojvodic;7;983;2;Women
+984;Victoria Davies;7;983;2;Women
+985;Patricia Amador Fleitas;7;983;2;Women
+986;Natalia Cespedes Garcia;6;987;2;Women
+987;Sara Gutierrez Ruiz;6;987;2;Women
+988;Elizabeth Mandujano;6;987;2;Women
+989;Bashayer Alnaqeeb;6;987;2;Women
+990;Eva Vazquez Gracia;6;987;2;Women
+991;Noah Oostveen;6;987;2;Women
+992;Milka Pasanen;6;987;2;Women
+993;Irene Gomez Gomez;6;987;2;Women
+994;Adriana Lopez Lesende;6;987;2;Women
+995;Nerea Herrero Perez;6;987;2;Women
+996;Sofia Klimenko;6;987;2;Women
+997;Beatriz Rodriguez Perez;6;987;2;Women
+998;Virve Visakivi-Laine;6;987;2;Women
+999;Laura Dalmau Moreno;6;987;2;Women
+1000;Alba Payeras Soler;6;987;2;Women
+1001;Carlota Leandres Rovira;6;987;2;Women
+1002;Pilar Escarti Martínez;6;987;2;Women
+1003;Erika Buntiene;6;987;2;Women
+1004;Outi Helminen;6;987;2;Women
+1005;Mireia Carrasco Miñana;6;987;2;Women
+1006;Maria Repullo Sala;6;987;2;Women
+1007;Rasa Butrimaite;6;987;2;Women
+1008;Johnne Paula Benitez;5;1009;2;Women
+1009;Princess Jean Naquila;5;1009;2;Women
+1010;Leah Casañares;5;1009;2;Women
+1011;Mai Elbanna;5;1009;2;Women
+1012;Lucia Hernández Cobos;5;1009;2;Women
+1013;Masumi Kato;5;1009;2;Women
+1014;Michele Potter Dos Santos;5;1009;2;Women
+1015;Melissa Tan;5;1009;2;Women
+1016;Natalija Tumsevica- gregoriu;5;1009;2;Women
+1017;Yekaterina Gurova;5;1009;2;Women
+1018;Lumeng Wang;5;1009;2;Women
+1019;Emma Biagianti;5;1009;2;Women
+1020;Natasa Koraca;5;1009;2;Women
+1021;Inês Alexandra Abalada Do Val Bento;5;1009;2;Women
+1022;Llum Martorell Gruwez;5;1009;2;Women
+1023;Saranya Wongsajan;5;1009;2;Women
+1024;Gaelle Gautier;5;1009;2;Women
+1025;Florije Bergene;5;1009;2;Women
+1026;Alexandra Isabel Suarez;5;1009;2;Women
+1027;Celina Ermann;5;1009;2;Women
+1028;Marilena Christoforou;5;1009;2;Women
+1029;Carmen Vega Listan;5;1009;2;Women
+1030;Anna Wall;5;1009;2;Women
+1031;Ophelie Lefebvre;5;1009;2;Women
+1032;Laura Raya Capitan;5;1009;2;Women
+1033;Alexia Carlone;5;1009;2;Women
+1034;Khatia Gogaladze;5;1009;2;Women
+1035;Rachael Goh;5;1009;2;Women
+1036;Jimena Suarez Garcia;5;1009;2;Women
+1037;Leire Flores Santana;5;1009;2;Women
+1038;Joanne Ward;5;1009;2;Women
+1039;Laurine Bergaud;5;1009;2;Women
+1040;Iciar Gomez De Segura De Luis;5;1009;2;Women
+1041;Aimy Cassam Chenai;5;1009;2;Women
+1042;Louise Adrina;5;1009;2;Women
+1043;Carmen Rocio Diaz Vargas;5;1009;2;Women
+1044;Diana Ismailova;5;1009;2;Women
+1045;Maria Afonso Meneses;5;1009;2;Women
+1046;Francisca Danae Lopez Escobar;5;1009;2;Women
+1047;Ana Paula Ambrozio Becerra;5;1009;2;Women
+1048;Johanne Granger;5;1009;2;Women
+1049;Aikaterini Stavroulaki;5;1009;2;Women
+1050;Reinata Agnes Sidik;5;1009;2;Women
+1051;Agostina Dalmonego;5;1009;2;Women
+1052;Irene Avalle;5;1009;2;Women
+1053;Maíra Gonçalves;5;1009;2;Women
+1054;Gloria Maria Garcia Vacas;5;1009;2;Women
+1055;Cristiana Carvalho Telles Ferreira;5;1009;2;Women
+1056;Nerea Uclés Aceituno;5;1009;2;Women
+1057;Mariam Alsultan;5;1009;2;Women
+1058;Fiija Ketonen;5;1009;2;Women
+1059;Pepita Stonor;5;1009;-287;Women
+1060;Kanokwan Delelis;5;1009;2;Women
+1061;Jemma Peterswald;5;1009;378;Women
+1062;Valentina Osorio Vallana;5;1009;2;Women
+1063;Bianca Ferretti;5;1009;0;Women
+1064;Lili Ana Maldonado;5;1009;2;Women
+1065;Julie Razafindranaly;5;1009;2;Women
+1066;Elizabeta Tomic;5;1009;2;Women
+1067;Czarina Howells;5;1009;0;Women
+1068;Nathalia Bedin;5;1009;2;Women
+1069;Emma Eerola;5;1009;2;Women
+1070;Regina Kalimullina;5;1009;2;Women
+1071;Yingying Huang;5;1009;2;Women
+1072;Alicia Hazzard;5;1009;2;Women
+1073;Sarah Riise;5;1009;2;Women
+1074;Lucie Rey;5;1009;2;Women
+1075;Beatriz Koerich;5;1009;2;Women
+1076;Silvana Campus;5;1009;2;Women
+1077;Janine Koleta;5;1009;2;Women
+1078;Yasuko Inaoka;5;1009;2;Women
+1079;Laura Domínguez Moya;5;1009;2;Women
+1080;Luciana Ingaramo;5;1009;2;Women
+1081;Romina Belda;5;1009;2;Women
+1082;Daisi Oliveira Da Cunha;5;1009;2;Women
+1083;Yanyan Xia;5;1009;2;Women
+1084;Shanyu Jin;5;1009;2;Women
+1085;Margherita Gentile;5;1009;2;Women
+1086;Jo Waugh;5;1009;0;Women
+1087;Peach Lucienne Orbe;5;1009;2;Women
+1088;Milla Blaschke;5;1009;2;Women
+1089;Gabriella Bongiovanni;5;1009;0;Women
+1090;Diyana Miteva;5;1009;2;Women
+1091;Marina Ezzedine;5;1009;2;Women
+1092;Eliza Bosson;5;1009;2;Women
+1093;Delphine Francoise;5;1009;2;Women
+1094;Maria Perez Gavino;5;1009;2;Women
+1095;Charlotte Atkinson;5;1009;2;Women
+1096;Matilde Laura;5;1009;2;Women
+1097;Renata Escobar;5;1009;2;Women
+1098;Amy Flynn;5;1009;2;Women
+1099;Nadya Syarifah;5;1009;2;Women
+1100;Alexandra Fouquet;5;1009;2;Women
+1101;Julia Gallifa Beltri;5;1009;2;Women
+1102;Elisa Leona Benitez;5;1009;2;Women
+1103;Daniela Chagay Leiva;5;1009;2;Women
+1104;Laura Gomez Pando;5;1009;2;Women
+1105;Catalina Isaza Brockland;5;1009;2;Women
+1106;Emilia Feodorovici;5;1009;2;Women
+1107;Aspasia Kroustalaki;5;1009;2;Women
+1108;Linlin Zhao;5;1009;2;Women
+1109;Taly Merker;5;1009;2;Women
+1110;Fatima Awad;5;1009;2;Women
+1111;Noriko Toda;5;1009;2;Women
+1112;Gema Calvo Perez;5;1009;2;Women
+1113;Kelly Yamamoto;5;1009;2;Women
+1114;Ana Renda;5;1009;378;Women
+1115;Macarena Lobo Ramirez;5;1009;2;Women
+1116;Jennifer Denécheau;5;1009;2;Women
+1117;Camila De Santana;5;1009;2;Women
+1118;Agostina Szyller;5;1009;2;Women
+1119;Cecilie Li Hansen;5;1009;2;Women
+1120;Maria Siopacha;5;1009;2;Women
+1121;Nathalie Delaplace Grosset;5;1009;2;Women
+1122;Angela Caro Cantin;5;1009;2;Women
+1123;Maria Zurita Porras;5;1009;2;Women
+1124;Elizabeth Hernandez Silva;5;1009;2;Women
+1125;Laura Moreno Amor;5;1009;2;Women
+1126;Alise Vaidere;5;1009;2;Women
+1127;Milena Poffo Messas;5;1009;2;Women
+1128;Anna Zuka;5;1009;2;Women
+1129;Bogdan Elena;5;1009;2;Women
+1130;Fuman Xie;5;1009;2;Women
+1131;Gara Santana Gazol;5;1009;2;Women
+1132;Mariam Takniashvili;5;1009;2;Women
+1133;Julia Adrados Buades;5;1009;2;Women
+1134;Chutima Chitpitak;5;1009;2;Women
+1135;Elisa Mosos;5;1009;0;Women
+1136;Michelle Paz Coccio;5;1009;2;Women
+1137;Paula Fernandez Guzman;5;1009;2;Women
+1138;Mia Lopez;5;1009;2;Women
+1139;Maria Teresa Soto Arroyo;5;1009;2;Women
+1140;Irene Hervas Jimenez De Cisneros;5;1009;2;Women
+1141;Nthabeleng Mokalodise;5;1009;2;Women
+1142;Tara Jerika Cabullo;5;1009;2;Women
+1143;Martina Klimic;5;1009;2;Women
+1144;Samira Biyabani Zonouz;5;1009;2;Women
+1145;Sara Lopez Viejo;5;1009;2;Women
+1146;Urara Chihara;5;1009;2;Women
+1147;Yasmine Hojeij;5;1009;2;Women
+1148;Valeria Andrea Rothe;5;1009;2;Women
+1149;Jessica Tran;5;1009;0;Women
+1150;Juli Sarkar;5;1009;2;Women
+1151;Karine Duclos;5;1009;2;Women
+1152;Monica Andrea Barruffaldi;5;1009;2;Women
+1153;Luz Maria Diaz Lopez;5;1009;2;Women
+1154;Elena Draghicchio;5;1009;2;Women
+1155;Alba Bruna Corrales;5;1009;2;Women
+1156;Frederique Lagarde;5;1009;2;Women
+1157;Lingxiu Xu;5;1009;2;Women
+1158;Sonja Balic;5;1009;0;Women
+1159;Anastasia Anufrieva;5;1009;2;Women
+1160;Antonia Gonçalves;5;1009;2;Women
+1161;Mei Ling Young;5;1009;2;Women
+1162;Casty Manon;5;1009;2;Women
+1163;Karina Dimova;5;1009;2;Women
+1164;Ilena Matricardi;5;1009;2;Women
+1165;Diletta Mancinelli;5;1009;2;Women
+1166;Antonella Sol D'Angelo;5;1009;2;Women
+1167;Claudia Fraile;5;1009;2;Women
+1168;Rebeka Kalnozola;5;1009;2;Women
+1169;Liza Tsotsoria;5;1009;2;Women
+1170;Matilda Vainio;5;1009;2;Women
+1171;Marsa Laukkoski;5;1009;2;Women
+1172;Susan Mc Rann;5;1009;2;Women
+1173;Katie Nolan;5;1009;2;Women
+1174;Elsa Blom;5;1009;2;Women
+1175;Martina Pugliesi;5;1009;2;Women
+1176;Alexandra Rodicheva;5;1009;2;Women
+1177;Nattiya Hothong;5;1009;2;Women
+1178;Valeriia Bragina;5;1009;2;Women
+1179;Roxanna Agdas Keshavarz;5;1009;2;Women
+1180;Abrar Nema;5;1009;2;Women
+1181;Macarena Gomez;5;1009;2;Women
+1182;Noelle Conchita Corazon Manalac;5;1009;2;Women
+1183;Fatima Ezzeddine;5;1009;2;Women
+1184;Lea Subotic;5;1009;2;Women
+1185;Yiwen Zhang;5;1009;2;Women
+1186;Antonella Cavicchi;5;1009;2;Women
+1187;Julie Masson;5;1009;2;Women
+1188;Mariana Lavieri Silva;5;1009;2;Women
+1189;Birte Svenssen;5;1009;2;Women
+1190;Hana Youssef;5;1009;2;Women
+1191;Victoria Isaac;5;1009;2;Women
+1192;Lena Savva;5;1009;2;Women
+1193;Fuka Matsumoto;5;1009;2;Women
+1194;Wiktoria Rychlik;5;1009;2;Women
+1195;Hanni Sonkeri;5;1009;2;Women
+1196;Bozhena Berezhniak;5;1009;2;Women
+1197;Chinatsu Sawada;5;1009;2;Women
+1198;Leah Wong;5;1009;2;Women
+1199;Gracia Radovanovic;5;1009;2;Women
+1200;Livane Jouanlanne;5;1009;2;Women
+1201;Layan Najaf;5;1009;2;Women
+1202;Aina Maria Rotger Martorell;5;1009;2;Women
+1203;Gema Macias Trujillano;5;1009;2;Women
+1204;Asta Renemark;5;1009;2;Women
+1205;Anna Kurkul;5;1009;2;Women
+1206;Kieatsupa Tupanan;5;1009;2;Women
+1207;Ruixu Yang;5;1009;2;Women
+1208;Adriana Fugulin;5;1009;2;Women
+1209;Magdalini Adamopoulou;5;1009;2;Women
+1210;Piia Andsten;5;1009;2;Women
+1211;Farida Mohamed Ibrahim;5;1009;2;Women
+1212;Stephanie Anne;5;1009;2;Women
+1213;Jihane Assaf;5;1009;2;Women
+1214;Emilie Gullachsen;5;1009;2;Women
+1215;Marianne Robert Merrien;5;1009;2;Women
+1216;Yue Pan;5;1009;2;Women
+1217;Valentina Castro Diaz;5;1009;2;Women
+1218;Rubinia Antognoni;5;1009;2;Women
+1219;Maria Vargas;5;1009;2;Women
+1220;Juni Sjöland;5;1009;2;Women
+1221;Florencia Seguel Bas;5;1009;2;Women
+1222;Megan Ward;5;1009;2;Women
+1223;Elodie Lorion;5;1009;2;Women
+1224;Ana Renata Ursu;5;1009;2;Women
+1225;Brit Storhaug;5;1009;2;Women
+1226;Yilin Chen;5;1009;2;Women
+1227;Haruna Misago;5;1009;2;Women
+1228;Nagiho Nakamura;5;1009;2;Women
+1229;Dalal Malalla;5;1009;2;Women
+1230;Danning Liu;5;1009;2;Women
+1231;Celia Barthelemy;5;1009;2;Women
+1232;Elena Alacot Martinez;5;1009;2;Women
+1233;Lulia Vodislav;5;1009;2;Women
+1234;Aina Etxebarria;5;1009;2;Women
+1235;Giulia Conte;5;1009;2;Women
+1236;Olga Cosic;5;1009;2;Women
+1237;Emma Louise Windekilde Tranberg;5;1009;2;Women
+1238;Katja Hrka?;5;1009;2;Women
+1239;Tenielle Dunstall;5;1009;2;Women
+1240;Daria Makhortova;5;1009;2;Women
+1241;Denise Negro;5;1009;2;Women
+1242;Mika Ogawa;5;1009;2;Women
+1243;Dana Al Mudahka;5;1009;2;Women
+1244;Carola Gonzalez-King garibotti;5;1009;2;Women
+1245;Katrina Louise Santos;5;1009;2;Women
+1246;Patricia Manin;5;1009;2;Women
+1247;Dufau Lauriane;5;1009;2;Women
+1248;Albina Matveyeva;5;1009;2;Women
+1249;Sille Tranberg;5;1009;2;Women
+1250;Lucia Rosa Vadillo;5;1009;2;Women
+1251;Emilie Olsen;5;1009;2;Women
+1252;Paloma Sillero Carrillo;5;1009;2;Women
+1253;Isabelle Garsault;5;1009;2;Women
+1254;Adriana Barbic;5;1009;2;Women
+1255;Voni Darlina;5;1009;2;Women
+1256;Fei Meiling;5;1009;2;Women
+1257;Xinyi Xu;5;1009;2;Women
+1258;Carmen Miguel;5;1009;2;Women
+1259;Alsu Samigullina;5;1009;2;Women
+1260;Marianna Tsakkistou;5;1009;2;Women
+1261;Julianne Klaussen;5;1009;2;Women
+1262;Marija Lunova;5;1009;2;Women
+1263;Tatiana Sahagoff;5;1009;2;Women
+1264;Maja Aberg;5;1009;2;Women
+1265;Leiza Brabo;5;1009;2;Women
+1266;Janna Tanskanen;5;1009;2;Women
+1267;Oleksandra Mozharovska;5;1009;2;Women
+1268;Claudia Francisca Araneda Curtze;5;1009;2;Women
+1269;Alisa Reznichenko;5;1009;2;Women
+1270;Sofia Lozano;5;1009;2;Women
+1271;Maria Almagro Lara;5;1009;2;Women
+1272;April Salandanan;5;1009;2;Women
+1273;Anete Zabere;5;1009;2;Women
+1274;Dieuwertje Van Dijk;5;1009;2;Women
+1275;Zaineh Abed Alhameed;5;1009;2;Women
+1276;Brule Lylou;3;1280;1;Women
+1277;Daira Valle Luque;3;1280;1;Women
+1278;Laura Quintana;3;1280;1;Women
+1279;Kiyoka Murakami;3;1280;1;Women
+1280;Aysha Yateem;3;1280;1;Women
+1281;Judit Mas Bassas;3;1280;1;Women
+1282;Jonice Pangilinan;3;1280;1;Women
+1283;Jo Weisen;3;1280;1;Women
+1284;Moya Ryan;3;1280;1;Women
+1285;Maryam Alaali;3;1280;1;Women
+1286;Sonia Smith;3;1280;1;Women
+1287;Almaha Alhajri;3;1280;1;Women
+1288;Paula Gregorio Lopez;3;1280;1;Women
+1289;Muneerah Alyahya;3;1280;1;Women
+1290;Mizuki Takita;3;1280;1;Women
+1291;Daniela Tomas Cerezo;3;1280;1;Women
+1292;Catarina Zheng;3;1280;1;Women
+1293;Claudia Raya Capitan;3;1280;1;Women
+1294;Aleksandra Rosolska;3;1280;1;Women
+1295;Lucia Benitez Garcia;3;1280;1;Women
+1296;Heta Heinamaki;3;1280;1;Women
+1297;Raya Uzunova;3;1280;1;Women
+1298;Sofía Hernández;3;1280;1;Women
+1299;Clare Clarke;3;1280;1;Women
+1300;Theofaneia Katsiki;3;1280;1;Women
+1301;Eliza Skil;3;1280;1;Women
+1302;Michaella Krajicek;3;1280;1;Women
+1303;Anna Pribylova;3;1280;1;Women
+1304;Leyre Ballestero Berbegal;3;1280;1;Women
+1305;Mariella Minetti;3;1280;1;Women
+1306;Mari Forsell;3;1280;1;Women
+1307;Carla Carrasco Miñana;3;1280;1;Women
+1308;Kristin Price;3;1280;1;Women
+1309;Selinay Topal;3;1280;1;Women
+1310;Hessa Alnaama;3;1280;1;Women
+1311;Icah Silvestre;3;1280;1;Women
+1312;Zofia Piorkowska;3;1280;1;Women
+1313;Mia Smyth;3;1280;1;Women
+1314;Mar Garcia Carnicero;3;1280;1;Women
+1315;Amanda Vasquez Gonzalez;3;1280;1;Women
+1316;Marina Serrano Herrera;3;1280;1;Women
+1317;Desire Parn;3;1280;1;Women
+1318;Adriana More;3;1280;1;Women
+1319;Dalal Chahuan;3;1280;1;Women
+1320;Olivia Collins;3;1280;1;Women
+1321;Erika Asada;3;1280;1;Women
+1322;Mako Mizunuma;3;1280;1;Women
+1323;Elena Carrillo Gonzalez;3;1280;1;Women
+1438;Juanlu Esbri;2292;27;0;Men
+1324;Maria Villalba Elena;3;1280;1;Women
+1325;Sabrina Stevens;3;1280;1;Women
+1326;Ayumi Hanahata;3;1280;1;Women
+1327;Stephanie Gomperts;3;1280;1;Women
+1328;Hannah Stockton;3;1280;1;Women
+1329;Elena Esparcia Canada;3;1280;1;Women
+1330;Maria Farre Aguilera;3;1280;1;Women
+1331;Sohvi Vehko;3;1280;1;Women
+1332;Pilar Albarran Villalon;3;1280;1;Women
+1333;Aldryanna Ahmad Shah;3;1280;1;Women
+1334;Laura Çiftçi;3;1280;1;Women
+1335;Hala Alzayani;3;1280;1;Women
+1336;Skaiste Brazenaite Vasiliauskiene;3;1280;1;Women
+1337;Joyce Nouws;3;1280;1;Women
+1338;Leonor Silva Oliveira;3;1280;1;Women
+1339;Alba Montiel Miralles;3;1280;1;Women
+1340;Eloise Marais;3;1280;1;Women
+1341;Julie Hill;3;1280;1;Women
+1342;Walquiria Bley;3;1280;1;Women
+1343;Natasha Forrest;3;1280;1;Women
+1344;Liliana Cabezas;3;1280;1;Women
+1345;Sinead Lohan;3;1280;1;Women
+1346;Ligita Motiejauskaite;3;1280;1;Women
+1347;Caroline Francois;3;1280;1;Women
+1348;Linnea Granberg;3;1280;1;Women
+1349;Olga Velazquez Perez;3;1280;1;Women
+1350;Karime Betsabe Eberle;3;1280;1;Women
+1351;Ingrid Planas Puig;3;1280;1;Women
+1352;Sophie Bray;3;1280;-475;Women
+1353;Nayra Cantos Arencon;3;1280;1;Women
+1354;Tania Couto;3;1280;1;Women
+1355;Elsa Rossi Hens;3;1280;1;Women
+1356;Lola Mansfeldt;3;1280;1;Women
+1357;Indre Kastanauskaite;3;1280;1;Women
+1358;Kerttu Ryhänen;3;1280;1;Women
+1359;Lisa Keegan;3;1280;1;Women
+1360;Blanca Puig Caballero;3;1280;1;Women
+1361;Arianna Ceccaroni;3;1280;1;Women
+1362;Patrycja Kozluk;3;1280;1;Women
+1363;Hanin Shady;3;1280;1;Women
+1364;Izabela Kunat;3;1280;1;Women
+1365;Federica Di Iorio;3;1280;1;Women
+1366;Haruna Obata;3;1280;1;Women
+1367;Areel Alblehed;3;1280;1;Women
+1368;Ines Lozano Hortelano;3;1280;1;Women
+1369;Lolwa Al Hamad;3;1280;1;Women
+1370;Roxy Van Wonterghem;3;1280;1;Women
+1371;Roxane Lacroix;3;1280;1;Women
+1372;Iida Palo;3;1280;1;Women
+1373;Viktorija Banaityte;3;1280;1;Women
+1374;Natasha Feidt;3;1280;1;Women
+1375;Maryam Shahdoor;3;1280;1;Women
+1376;Marjorie Croke;3;1280;1;Women
+1377;Dai Alnaimi;3;1280;1;Women
+1378;Mariam Alsarraj;3;1280;1;Women
+1379;Catalina Wiedmaier Olivares;3;1280;1;Women
+1380;Egle Beige;3;1280;1;Women
+1381;Cagla Irmak Badem;3;1280;1;Women
+1382;Ines Frias Rojas;2;1386;1;Women
+1383;Biljana Billie Gajic;2;1386;1;Women
+1384;Lucia Lopez Muñoz;2;1386;1;Women
+1385;Carmen Camino;2;1386;1;Women
+1386;Carmen Medina Gallego;2;1386;1;Women
+1387;Marina Tudela Bonet;2;1386;1;Women
+1388;Matilde Del Col Balletto;2;1386;1;Women
+1389;Varvara Popova;2;1386;1;Women
+1390;Andrea Sanchez Carro;2;1386;1;Women
+1391;Lucila Guerrero;2;1386;1;Women
+1392;Irene García Del Moral;2;1386;1;Women
+1393;Milica Tesic;2;1386;1;Women
+1394;Laura Del Olmo Diaz;2;1386;1;Women
+1395;Alba Zanon Bodi;2;1386;1;Women
+1396;Tamara Obradovi?;2;1386;1;Women
+1397;Maria Breidy;2;1386;1;Women
+1398;Patricia Brandao Almeida;2;1386;1;Women
+1399;Neda Vukman;2;1386;1;Women
+1400;Vera Machado;2;1386;1;Women
+1401;Rovanny Conle Castillo;2;1386;1;Women
+1402;Joana Martins Brito Figueirôa Da Silva;2;1386;1;Women
+1403;Joana Zanatti;2;1386;1;Women
+1404;Rocío Martínez Collado;2;1386;1;Women
+1405;Elma Misanovic;2;1386;1;Women
+1406;Nerea Sanchez Batanero;2;1386;1;Women
+1407;Aysan Absalan;2;1386;1;Women
+1408;Neda Mohammad Taghipour;1;1412;8;Women
+1409;Gema Soriano Llorens;1;1412;8;Women
+1410;Sarah Lisa Aubertin;1;1412;8;Women
+1411;Marina Fedanova;1;1412;8;Women
+1412;Arturo Coello;19800;1;0;Men
+1413;Agustin Tapia;19800;1;0;Men
+1414;Alejandro Galan;17320;3;0;Men
+1415;Federico Chingotto;17320;3;0;Men
+1416;Franco Stupaczuk;7905;5;0;Men
+1417;Juan Lebron;7845;6;0;Men
+1418;Jorge Nieto;6322;7;0;Men
+1419;Miguel Yanguas;6322;7;0;Men
+1420;Francisco Navarro;6115;9;0;Men
+1421;Leandro Augsburger;5155;10;0;Men
+1422;Jon Sanz;5125;11;0;Men
+1423;Martin Di Nenno;5110;12;0;Men
+1424;Lucas Bergamini;4550;13;0;Men
+1425;Francisco Guerrero;4410;14;0;Men
+1426;Jeronimo Gonzalez;4350;15;0;Men
+1427;Javier Leal;3665;16;0;Men
+1428;Juan Tello;3330;17;0;Men
+1429;Eduardo Alonso;2955;18;0;Men
+1430;Leonel Daniel Aguirre;2870;19;0;Men
+1431;Gonzalo Gabriel Alfonso;2760;20;0;Men
+1432;Alejandro Ruiz;2570;21;0;Men
+1433;Javier Garrido;2528;22;0;Men
+1434;Javier Garcia;2500;23;0;Men
+1435;Javier Barahona;2475;24;0;Men
+1436;Pablo Cardona;2400;25;0;Men
+1437;Alejandro Arroyo;2354;26;0;Men
+1439;Lucas Campagnolo;2280;28;0;Men
+1440;Alex Chozas;2252;29;0;Men
+1441;Jairo Bautista;2201;30;0;Men
+1442;Carlos Daniel Gutierrez;2148;31;0;Men
+1443;Inigo Jofre;1941;32;0;Men
+1444;Jose Antonio Diestro;1935;33;0;Men
+1445;Victor Ruiz;1794;34;0;Men
+1446;David Gala Sanchez;1736;35;0;Men
+1447;Jose Jimenez Casas;1591;36;0;Men
+1448;Pablo Garcia Rodrigo;1580;37;0;Men
+1449;Javier Ruiz;1518;38;0;Men
+1450;Francisco Cabeza Teres;1507;39;0;Men
+1451;Pol Hernandez Alvarez;1506;40;0;Men
+1452;Guillermo Collado Losada;1463;41;0;Men
+1453;Gonzalo Rubio;1461;42;0;Men
+1454;Maximiliano Sanchez Blasco;1449;43;0;Men
+1455;Valentino Gabriel Libaak;1447;44;0;Men
+1456;Francisco Manuel Gil;1398;45;0;Men
+1457;Pablo Lijo;1390;46;1;Men
+1458;Diego Garcia Garcia;1379;47;-1;Men
+1459;Nuno Deus;1367;48;0;Men
+1460;Miguel Deus;1367;48;0;Men
+1461;Alvaro Cepero;1325;50;0;Men
+1462;Maximiliano Sanchez;1293;51;0;Men
+1463;Eduardo Agustin Torre;1209;52;0;Men
+1464;Juan Ignacio Rubini;1184;53;0;Men
+1465;Denis Tomas Perino;1181;54;0;Men
+1466;Ignacio Piotto Albornoz;1169;55;0;Men
+1467;Ignacio Sager;1145;56;0;Men
+1468;Luis Hernandez Quesada;1138;57;0;Men
+1469;Andres Fernandez Lancha;1104;58;0;Men
+1470;Maximiliano Arce Simo;1085;59;0;Men
+1471;Enrique Goenaga;1060;60;0;Men
+1472;Jose Luis Gonzalez;1060;60;0;Men
+1473;Facundo Dominguez;1040;62;0;Men
+1474;Antonio Fernandez;1024;63;0;Men
+1475;Enzo Jensen Sirvent;1003;64;0;Men
+1476;Aimar Goñi Lacabe;985;65;0;Men
+1477;Javier Martinez;982;66;0;Men
+1478;Juan Cruz Belluati;975;67;0;Men
+1479;Aris Patiniotis;965;68;0;Men
+1480;Alonso Rodriguez Martinez;964;69;0;Men
+1481;Mario Del Castillo;963;70;0;Men
+1482;Mario Huete Hernandez;962;71;0;Men
+1483;Marc Sintes Villalonga;954;72;0;Men
+1484;Marco Cassetta;953;73;0;Men
+1485;Mario Ortega;947;74;0;Men
+1486;Flavio Abbate;945;75;0;Men
+1487;Daniel Santigosa Sastre;942;76;0;Men
+1488;Emilio Sanchez Chamero;940;77;0;Men
+1489;Anton Sans;931;78;0;Men
+1490;Federico Mouriño;928;79;0;Men
+1491;Marc Quilez;911;80;0;Men
+1492;Teodoro Zapata;911;80;0;Men
+1493;Manuel Castaño Salguero;894;82;0;Men
+1494;Alvaro Montiel Caruso;878;83;0;Men
+1495;Javier Valdes;853;84;0;Men
+1496;Ramiro Jesus Valenzuela;848;85;0;Men
+1497;Agustin Gutierrez;839;86;0;Men
+1498;Álvaro Melendez Amaya;824;87;0;Men
+1499;Miguel Lamperti;818;88;0;Men
+1500;Salvador Oria;812;89;0;Men
+1501;Adam Axelsson;810;90;0;Men
+1502;Ignacio Vilariño Gestoso;772;91;0;Men
+1503;Clement Geens;744;92;0;Men
+1504;Jesus Moya;728;93;0;Men
+1505;Simone Cremona;709;94;3;Men
+1506;Alejandro Jerez Carnero;696;95;-1;Men
+1507;Simon Vasquez;694;96;-1;Men
+1508;Boris Castro Garcia;691;97;-1;Men
+1509;Jaume Romera Barcelo;646;98;0;Men
+1510;Nacho Moragues Moltò;616;99;0;Men
+1511;Luciano Capra;596;100;0;Men
+1512;Jose Rico;578;101;0;Men
+1513;Juan Ignacio De Pascual;571;102;0;Men
+1514;Ferran Insa Sotillo;569;103;0;Men
+1515;Mariano Agustin Gonzalez San Martin;567;104;0;Men
+1516;Juan Zamora Perez;565;105;0;Men
+1517;Adrian Marques Berdonce;549;106;0;Men
+1518;Alberto Garcia Jimenez;549;106;0;Men
+1519;Rafael Mendez;521;108;0;Men
+1520;Arnau Ayats;512;109;1;Men
+1521;Ramiro Moyano;502;110;2;Men
+1522;Javier Rico;500;111;2;Men
+1523;Guillem Figuerola Santiago;499;112;-3;Men
+1524;Simone Iacovino;489;113;1;Men
+1525;Rodrigo Coello Manso;487;114;1;Men
+1526;Manuel Aragon Herrera;485;115;2;Men
+1527;Pedro Melendez Amaya;484;116;2;Men
+1528;Christian Medina Murphy;477;117;2;Men
+1529;Pepe Aliaga;473;118;-2;Men
+1530;Roberto Belmont Pastor;469;119;-8;Men
+1531;Santiago Jose Pineda Cabello;460;120;0;Men
+1532;Diego Gil;455;121;0;Men
+1533;Thijs Roper;453;122;0;Men
+1534;Youp De Kroon;451;123;0;Men
+1535;Diego Dorta Diaz;450;124;0;Men
+1536;Johan Bergeron;444;125;0;Men
+1537;Bastien Blanque;441;126;0;Men
+1538;Lorenzo Di Giovanni;441;126;0;Men
+1539;Sten Richters;436;128;7;Men
+1540;Nicolas Suescun;435;129;-1;Men
+1541;Dylan Guichard;428;130;0;Men
+1542;Fran Ramirez Navas;427;131;0;Men
+1543;Giulio Graziotti;422;132;0;Men
+1544;Julian Prins;411;133;0;Men
+1545;Alvaro Pozo Marroyo;408;134;0;Men
+1546;Marcos Gonzalez Blanco;406;135;1;Men
+1547;Miguel Melero Bernal;401;136;1;Men
+1548;Gustavo Nunes;400;137;1;Men
+1549;Albert Roglan Pons;397;138;1;Men
+1550;Alberto Garcia Trabanco;394;139;1;Men
+1551;Pau Miñano Ortinez;389;140;1;Men
+1552;Diego Arredondo Garcia;387;141;7;Men
+1553;Martin Abud;387;141;1;Men
+1554;Christian Fuster;385;143;0;Men
+1555;Albin Olsson;384;144;0;Men
+1556;Julian Lacamoire;384;144;0;Men
+1557;Manuel Gayone;382;146;0;Men
+1558;Youssef Hossam;382;146;0;Men
+1559;Victor Tur Checa;375;148;-19;Men
+1560;Miguel Angel Solbes;372;149;0;Men
+1561;Miguel Gonzalez;370;150;0;Men
+1562;Victor Mena;370;150;0;Men
+1563;Miguel Benitez Lara;368;152;0;Men
+1564;Albert Trillas Garcia;365;153;0;Men
+1565;José Enrique Giménez Barcelona;364;154;0;Men
+1566;Nicolas Zurita;359;155;0;Men
+1567;Renzo Gabriel Nuñez;353;156;0;Men
+1568;Facundo Rodrigo Luis Lopez;352;157;1;Men
+1569;Pedro Araujo;351;158;1;Men
+1570;Pablo Sanchez Vicente;347;159;1;Men
+1571;Felipe Calleja;340;160;1;Men
+1572;Marcos Cordoba;338;161;-5;Men
+1573;Axel William Guevara;336;162;0;Men
+1574;Agustin Reca;335;163;0;Men
+1575;Adrian Naranjo Martinez;330;164;0;Men
+1576;Thomas Leygue;329;165;0;Men
+1577;Guillermo Fernandez Sanchez;329;165;0;Men
+1578;Joao Maria Caiano;328;167;0;Men
+1579;Jaime Munoz;328;167;0;Men
+1580;Alejandro Calvo Perez;324;169;1;Men
+1581;Antonio Luque;324;169;1;Men
+1582;Julien Seurin;324;169;0;Men
+1583;Facundo Dehnike;323;172;0;Men
+1584;Alvaro Lopez Luque;321;173;0;Men
+1585;Alfonso Sanchez Arriaga;320;174;0;Men
+1586;Menno Nolten;315;175;0;Men
+1587;Federico Chiostri;308;176;0;Men
+1588;Alejandro Merino Nieto;303;177;0;Men
+1589;Afonso Fazendeiro;302;178;0;Men
+1590;Sergio Icardo;301;179;0;Men
+1591;Diogo Jesus;290;180;1;Men
+1592;Adrian Ronco Lopez;286;181;1;Men
+1593;Sergio Tierno Herrero;286;181;1;Men
+1594;Daniel Windahl;279;183;1;Men
+1595;Ivan Ramirez;277;184;1;Men
+1596;Pablo Castillo Valverde;276;185;1;Men
+1597;Pablo Molina Tofanelli;275;186;1;Men
+1598;Timeo Fonteny;272;187;1;Men
+1599;Luciano Puppo;269;188;1;Men
+1600;Maxime Joris;268;189;0;Men
+1601;Joel Olivera Palos;267;190;-10;Men
+1602;Candido Jorge Alfaro;265;191;0;Men
+1603;Jairo Guerrero Escarcena;261;192;1;Men
+1604;Luis Oliver Artigas;260;193;10;Men
+1605;Philemon Raichman;260;193;-2;Men
+1606;Hector Vazquez Lopez;258;195;-1;Men
+1607;Gerard Arnaldos Serrano;258;195;-1;Men
+1608;Cristobal Martinez;258;195;-1;Men
+1609;Juan Pablo Dametto;258;195;-1;Men
+1610;Marcel Font;257;199;-1;Men
+1611;Jose Solano Marmolejo;254;200;-1;Men
+1612;Antonio Varo Ramos;249;201;-1;Men
+1613;Yoan Boronad;247;202;-1;Men
+1614;Bart Van Opstal;247;202;-1;Men
+1615;Toni Bueno;245;204;0;Men
+1616;Sergio Arias Aznar;245;204;0;Men
+1617;Cristian German Gutierrez;243;206;0;Men
+1618;Kevin Uriel Kviatkovski;242;207;0;Men
+1619;Pedro Graca;239;208;0;Men
+1620;Maximo Jesus Maldonado;233;209;0;Men
+1621;Franco Renato Dal Bianco;231;210;0;Men
+1622;Samuel Rivas Garcia;230;211;0;Men
+1623;Mattia Di Bari;227;212;0;Men
+1624;Oscar Matias Almada;225;213;0;Men
+1625;Pedro Perry;225;213;0;Men
+1626;Dylan Demian Cuello;223;215;0;Men
+1627;Pablo Reina Ambel;222;216;0;Men
+1628;Karlos Rodriguez Vidal;222;216;0;Men
+1629;Ignacio Archieri;221;218;0;Men
+1630;Jose Pablo Padilla;220;219;0;Men
+1631;Ramiro Pereyra;219;220;0;Men
+1632;Juan Manuel Argañaras;219;220;0;Men
+1633;Wagdy Raslan;219;220;0;Men
+1634;Jose Roman Martinez Sanchis;219;220;0;Men
+1635;Vinny Nahuel Di Francesco;214;224;0;Men
+1636;Miguel Morales Domenech;212;225;0;Men
+1637;Henrique Barbosa;212;225;0;Men
+1638;Borja Trujillo Chang;211;227;0;Men
+1639;Nicolas Crosio;210;228;0;Men
+1640;Antonio Palma;209;229;0;Men
+1641;Daniele Cattaneo;207;230;0;Men
+1642;Douglas Rutgersson;207;230;0;Men
+1643;Francisco Jurado Sosa;204;232;0;Men
+1644;Leonardo Yob;204;232;0;Men
+1645;Isaac Huysveld;203;234;0;Men
+1646;Zé Alexandre Meireles;203;234;0;Men
+1647;Vasco Pascoal;197;236;0;Men
+1648;Santino Giuliani Lombardo;195;237;0;Men
+1649;Andrea Mangiante;190;238;1;Men
+1650;Matteo Sargolini;188;239;1;Men
+1651;Thomas Panken;188;239;1;Men
+1652;Santiago Rolla;187;241;1;Men
+1653;Francisco Maier;186;242;1;Men
+1654;Carlos Marti;186;242;1;Men
+1655;Miguel Oliveira;183;244;1;Men
+1656;Joaquin Nicolas Escalona Linz;183;244;1;Men
+1657;Nicolas Rouanet;180;246;-8;Men
+1658;Willy Släryd;180;246;1;Men
+1659;Daniel Appelgren;178;248;0;Men
+1660;Georges Wakim;176;249;11;Men
+1661;Iago Fuertes Leonardo;176;249;0;Men
+1662;Arthur Hugounenq;175;251;-1;Men
+1663;Sergio Nieto Simon;173;252;0;Men
+1664;Pier Giulio Farabbi;172;253;-2;Men
+1665;Victor Ortega Garcia;172;253;1;Men
+1666;Sergi Guimet Bigas;169;255;8;Men
+1667;Mateo Rivero;169;255;0;Men
+1668;Adrian Rodriguez rodriguez-Manzaneque;168;257;-5;Men
+1669;Noe Sanchez Del Viejo;167;258;-2;Men
+1670;Pablo Cuesta Gomez;165;259;-2;Men
+1671;Jordi Casanova Bataller;163;260;-2;Men
+1672;Aly Zaghloul;160;262;-1;Men
+1673;Noa Bonnefoy;159;263;-1;Men
+1674;Jorrit Hazebroek;155;264;-1;Men
+1675;Nino Zweers;154;265;0;Men
+1676;Bohou Zhang;154;265;0;Men
+1677;Juan Cruz Forastello;153;267;0;Men
+1678;Roger Aromi Siquier;153;267;0;Men
+1679;Steve Piernicola Stracquadaini;150;269;1;Men
+1680;Matheus De Avila Simonato;150;269;1;Men
+1681;Bram Meijer;149;271;2;Men
+1682;Thomas Vanbauce;148;272;-2;Men
+1683;Giuseppe Fino;148;272;2;Men
+1684;Marc Lupon Martinez;147;274;-5;Men
+1685;Mateo Conte Gonzalez;147;274;1;Men
+1686;Octavio Alvarez;146;276;0;Men
+1687;Juan Jose Dominguez Cruz;146;276;0;Men
+1688;Carlos Perez Cabeza;144;278;0;Men
+1689;Diogo Correa Rodrigues;144;278;0;Men
+1690;Ignacio Alonso Chillaron;143;280;0;Men
+1691;Federico Galli;142;281;0;Men
+1692;Simone Vaccari;140;282;1;Men
+1693;Arnau Candelo Casas;139;283;1;Men
+1694;Lucas Cunha;139;283;1;Men
+1695;Mateo Alvarez;138;285;1;Men
+1696;Marc Bernils Garcia;137;286;1;Men
+1697;Joaquin De Astoreca;137;286;1;Men
+1698;Gaston Lazzarini;135;288;1;Men
+1699;Kai Groen;135;288;1;Men
+1700;Cristobal Garcia Blanco;134;290;1;Men
+1701;Joaquim Florensa Hernandez;134;290;1;Men
+1702;Riccardo Sinicropi;134;290;1;Men
+1703;Miguel Martin Cano;133;293;2;Men
+1704;Ivo Andenmatten Gudiño;133;293;2;Men
+1705;Rodrigo Manrique Nuño;131;295;2;Men
+1706;Eneko Arija Ochoa De Alda;131;295;2;Men
+1707;Max Bjorkman;130;297;-15;Men
+1708;Juan Ignacio Franco;129;298;2;Men
+1709;Jose Pedro Montalban Martin;126;299;2;Men
+1710;Adrian Molina Lopez;126;299;2;Men
+1711;Aleix Pozo Rius;125;301;-2;Men
+1712;Matteo Platania;124;302;1;Men
+1713;Pablo Pastor Landaburu;123;303;-12;Men
+1714;Matias Emiliano Gutierrez C.;122;304;0;Men
+1715;Jose David Sanchez;122;304;0;Men
+1716;Ferran Gonzalez Zamorano;121;306;0;Men
+1717;Jose Manuel Ortiz Llerena;120;307;0;Men
+1718;Juan Ignacio Balzola Galvani;119;308;0;Men
+1719;Miguel Muñoz Zurita;118;309;0;Men
+1720;Abraham Muñoz Zurita;117;310;0;Men
+1721;Nicolas Cordoba;117;310;0;Men
+1722;Aaron Garcia Rubio;117;310;0;Men
+1723;Juan Manuel Lasgoity;116;313;0;Men
+1724;Alejandro Prados;116;313;0;Men
+1725;Antonio Graupera;116;313;0;Men
+1726;Sergio Alba;115;316;0;Men
+1727;Sergi Nogueras Lorenz;115;316;0;Men
+1728;Arnau Carbonell Ortells;114;318;0;Men
+1729;Enzo Vista;114;318;0;Men
+1730;Daniel Martinez Otero;113;320;0;Men
+1731;Marco Antonio Quereda Moreno;112;321;0;Men
+1732;Bernardo Tavares;111;322;0;Men
+1733;Mashari Nawaf;111;322;0;Men
+1734;Nicolas Van Betuw;111;322;0;Men
+1735;Matias Soto;110;325;1;Men
+1736;Mats Groen;109;326;-4;Men
+1737;Jorrit Notenboom;108;327;1;Men
+1738;Manuel Vives;108;327;1;Men
+1739;Vasileios Sioulis;108;327;1;Men
+1740;Ali Dawani;107;330;1;Men
+1741;Nathan Courrin;107;330;-3;Men
+1742;Ruben Fernandez Sansano;106;332;3;Men
+1743;Benjamin Tison;106;332;3;Men
+1744;Sergio Esteban Barroso;104;334;-3;Men
+1745;Alejandro Guinaldo Martin;103;335;2;Men
+1746;Alexander Loughlan;103;335;2;Men
+1747;Plinio Ferrao;103;335;2;Men
+1748;Henrique Orge;102;338;2;Men
+1749;Salvador Ferreira Nunes Foios Simões;102;338;2;Men
+1750;Alejandro Blanco Sollet;101;340;2;Men
+1751;David Esteban Esposito;101;340;7;Men
+1752;Emiliano Martin Iriart;100;342;1;Men
+1753;Mauro Agustin Salandro;100;342;1;Men
+1754;Santiago Sebastian Strazzabopo Nieves;99;344;1;Men
+1755;Michele Brambilla;99;344;1;Men
+1756;Daniel Blanco Dopazo;98;346;1;Men
+1757;Louie Harris;97;347;2;Men
+1758;Juan Pablo Castillo;97;347;2;Men
+1759;Fabricio Ivan Peiron;97;347;2;Men
+1760;Marco Remolina Pablo;96;350;3;Men
+1761;Gonzalo Perez Arbona;96;350;3;Men
+1762;Tygho Schoonus;95;352;1;Men
+1763;Matias Emmanuel Del Moral;95;352;5;Men
+1764;Leon David Ruiz Shannon;95;352;1;Men
+1765;Rashed Nawaf;95;352;5;Men
+1766;Alvaro Martinez Espi;94;356;3;Men
+1767;Francisco Gomes;94;356;3;Men
+1768;Juan Figueroa Ayala;94;356;3;Men
+1769;Mohammed Saadon Alkuwari;93;359;3;Men
+1770;Adrian Baamonde;92;360;3;Men
+1771;Josep Aymerich Bellmunt;92;360;-11;Men
+1772;Nicolò Turchetti;92;360;3;Men
+1773;Daniele Catini;92;360;3;Men
+1774;Gonzalo Vera;91;364;2;Men
+1775;Joaquin Mazzeo Rubi;91;364;2;Men
+1776;Cameron Dollimore;90;366;26;Men
+1777;Tiago Valério;90;366;2;Men
+1778;Lorenzo Chionna;90;366;2;Men
+1779;Patricio Belluati;89;369;1;Men
+1780;Javier Del Cacho Cidoncha;88;370;1;Men
+1781;Bruno Ferreira Pedrosa;88;370;1;Men
+1782;Jan Masferrer;88;370;1;Men
+1783;Cristobal Molina;87;373;1;Men
+1784;Daniel Llorente Ruiz;87;373;1;Men
+1785;Pablo Acevedo Iturribarria;87;373;1;Men
+1786;Pablo Francisco Amora Hernandez;87;373;1;Men
+1787;Daniel Luna Peinado;87;373;1;Men
+1788;Lucas Mañero Cervo Baeza;86;378;1;Men
+1789;Harold Bernard;86;378;1;Men
+1790;Guillermo Vera Cebollero;85;380;-1;Men
+1791;Pol Alsina;85;380;-49;Men
+1792;Thijs De Kroon;85;380;4;Men
+1793;Max Sjovall;85;380;-49;Men
+1794;Kwan Lam Vincent Chau;84;384;-5;Men
+1795;Thomas Seux;84;384;-5;Men
+1796;Fabricio Parra Heck;84;384;2;Men
+1797;Alvaro Lopez Campos;83;387;-1;Men
+1798;Matteo Rosingana;83;387;1;Men
+1799;Teo Gamondi;83;387;1;Men
+1800;Facundo Erguy;83;387;1;Men
+1801;Ricardo Martins;83;387;1;Men
+1802;Alejandro Garcia Calahorro;82;392;0;Men
+1803;Roman Wink;81;393;1;Men
+1804;Bentahor Espino Mustafa;81;393;1;Men
+1805;Javier Garcia Caro;80;395;-1;Men
+1806;Jorge Correa Cordoba;80;395;2;Men
+1807;Merlijn De Krom;79;397;0;Men
+1808;Francesco Spurio;78;398;1;Men
+1809;Giorgio Saputo;78;398;1;Men
+1810;Filippo Rudelli;77;400;1;Men
+1811;Singgih Ario Suselo;77;400;14;Men
+1812;Martin Araujo De Lizarza;77;400;1;Men
+1813;Samuel Jones;77;400;1;Men
+1814;Gabriel Perez Carral;76;404;0;Men
+1815;Luis Soares Da Veiga;76;404;0;Men
+1816;Kazuki Tomita;76;404;14;Men
+1817;Stefano Indomenico;76;404;0;Men
+1818;Jose Angel Montoya;76;404;0;Men
+1819;Lorenzo Minighini;76;404;0;Men
+1820;Leonid Poliakov;75;410;-1;Men
+1821;Andres Graupera;75;410;-1;Men
+1822;Antonis Asimakopoulos;75;410;-1;Men
+1823;Nicholas Agritelley;75;410;-1;Men
+1824;Alejandro Caton Calvo;74;415;-1;Men
+1825;Imran Danill Van Dijk;74;415;-1;Men
+1826;Matteo Maria Sperati;73;418;0;Men
+1827;Zar Lasahido;73;418;0;Men
+1828;Gerard Gimeno Centelles;72;420;2;Men
+1829;Diego Agustin Marcial;71;421;2;Men
+1830;Alejandro Urzola Abad;71;421;2;Men
+1831;Maciej Naduk;71;421;2;Men
+1832;Henrique Brazao;71;421;2;Men
+1833;Abdulla Alhijji;69;425;3;Men
+1834;Javier Mena Moreno;69;425;3;Men
+1835;Gonzalo Camara Rodriguez;69;425;3;Men
+1836;Mostafa Hesham;69;425;3;Men
+1837;Higor Ensslin Alves;69;425;3;Men
+1838;Theodore Garton;68;430;38;Men
+1839;Lars Du Pree;68;430;3;Men
+1840;Aitor Garcia;68;430;3;Men
+1841;Jeremy Robert;68;430;3;Men
+1842;Mariano Cabrera;68;430;3;Men
+1843;Adrien Maigret;68;430;-12;Men
+1844;Kamel Mouimen;67;436;-3;Men
+1845;Nicolas Aguirre Sanchez;67;436;2;Men
+1846;Lorenzo Mancini;67;436;2;Men
+1847;Zè Pedro Ferreira;66;439;1;Men
+1848;Lorenzo Bogarin;66;439;1;Men
+1849;Joel Fernandez Muñoz;65;441;-1;Men
+1850;Ids Hannema;65;441;2;Men
+1851;Alessandro Tinti;65;441;2;Men
+1852;Francisco Britos;65;441;2;Men
+1853;Manuel Sousa;65;441;2;Men
+1854;Daniel Beneyto Sanchez;64;446;1;Men
+1855;Pavlos-Louis Balafas;64;446;1;Men
+1856;Arturo Miguel Hernando Nuñez;63;449;1;Men
+1857;Edu Altimires Ros;63;449;-65;Men
+1858;Manuel Valcarcel Sanchez;63;449;1;Men
+1859;Daniel Salinas Ordenes;63;449;1;Men
+1860;Jose Gabriel Jimenez Jimenez;63;449;1;Men
+1861;Matias Negrete Oliva;63;449;1;Men
+1862;Adrian Allemandi;63;449;1;Men
+1863;Mauricio Suarez Gonzalez;62;456;0;Men
+1864;Raul Marcos;62;456;0;Men
+1865;Martin Martinez Perez;62;456;0;Men
+1866;Andrea Bettineschi;61;459;0;Men
+1867;Ivan Boluda Pitarch;61;459;0;Men
+1868;Nicolas Peña Ruiz;61;459;0;Men
+1869;Pedro Sousa Martinez;61;459;0;Men
+1870;Alejandro Jimenez Juanas;61;459;0;Men
+1871;David Quiros Peiro;61;459;0;Men
+1872;Omar Salem;61;459;0;Men
+1873;Austin Varghese;61;459;0;Men
+1874;Rogrigo Tornelli Contreras;60;467;1;Men
+1875;Romain Sichez;60;467;1;Men
+1876;Alvaro Sola Sala;60;467;1;Men
+1877;Ethan Bardo;60;467;1;Men
+1878;Arturo Calzada Felici;59;471;2;Men
+1879;Mauricio Garcia Villalobos;59;471;2;Men
+1880;Ignacio Miguel Corbo;59;471;2;Men
+1881;Ricardo Martinez;59;471;2;Men
+1882;Daniel Maldonado Fornieles;59;471;2;Men
+1883;Alvaro Del Saz Garcia;58;476;2;Men
+1884;Yeray Conejero Cotillas;58;476;2;Men
+1885;Pietro Giovannini;58;476;2;Men
+1886;Yanis Muesser;58;476;2;Men
+1887;Nikhil Mohindra;58;476;2;Men
+1888;Antonio Garcia Fernandez;57;481;2;Men
+1889;Jorge Angles Ponce;57;481;2;Men
+1890;Guillermo Molina garcía-Muro;57;481;2;Men
+1891;Leonardo Bulgarini;57;481;2;Men
+1892;Mario Yohakim Prayanto;56;485;2;Men
+1893;Guilherme Coelho;56;485;2;Men
+1894;Xavi Rodriguez Vila;56;485;2;Men
+1895;Pablo Olmo Villa;56;485;2;Men
+1896;Naim Horacio Diaz;55;489;2;Men
+1897;Pedro Gonzalez Martin;55;489;2;Men
+1898;Sergio Jimenez Amozurrutia;55;489;2;Men
+1899;Kilian Jordan;55;489;2;Men
+1900;Hugo Lorenzo Serrano;55;489;2;Men
+1901;Gonzalo Federico Lopez;55;489;2;Men
+1902;Joao Pedro Flores;54;495;4;Men
+1903;Ivo Agustin Nuñez;54;495;4;Men
+1904;Gabriel Bili?ski;54;495;4;Men
+1905;Adrian Maria Miranda;54;495;4;Men
+1906;Rayan Abdulla Aljufairi;54;495;4;Men
+1907;Lucas Pillon;53;500;4;Men
+1908;Manuel Ramirez Perez;53;500;-9;Men
+1909;Thomas Basso;53;500;4;Men
+1910;Leonardo Abbate;53;500;4;Men
+1911;Juan Manuel Romanazzi;53;500;4;Men
+1912;Alonso Villavicencio Mancilla;52;505;3;Men
+1913;Izan Marin;52;505;3;Men
+1914;Julien Biron;52;505;3;Men
+1915;Jerzy Janowicz;52;505;3;Men
+1916;Jose Alberto Funes Ontivero;52;505;3;Men
+1917;Chun Ho Chow;51;510;3;Men
+1918;Fabian Oviedo Berazategui;51;510;3;Men
+1919;Olivier Guy De Chamisso;51;510;3;Men
+1920;Matias Segura;51;510;3;Men
+1921;Nathan Lambrechts;51;510;3;Men
+1922;Mohammed Al Khanji;51;510;3;Men
+1923;Jaime Lobo Wordsworth;51;510;3;Men
+1924;Relis Ferreyra;51;510;3;Men
+1925;Giulio Lovascio;50;520;3;Men
+1926;Maximiliano Montaño;50;520;3;Men
+1927;Luca Santino Cortese;50;520;3;Men
+1928;Maxime Forcin;50;520;-61;Men
+1929;Ruben Cuevas Tornero;50;520;3;Men
+1930;Jort Nolten;50;520;3;Men
+1931;Lucas Orduña Dejoz;49;526;4;Men
+1932;Mauricio A Rivero;49;526;4;Men
+1933;Michal Skonieczny;49;526;4;Men
+1934;Francisco Coirini;49;526;4;Men
+1935;Iago Gonzalez Niño;49;526;4;Men
+1936;Karol Krawczy?ski;49;526;4;Men
+1937;Giulio Lucchetti;49;526;4;Men
+1938;Pedro Navas Platero;49;526;4;Men
+1939;Jake Bewley;48;534;4;Men
+1940;Lucas Danuzzo;48;534;4;Men
+1941;Joaquin Terceros;48;534;4;Men
+1942;Javier Mesa Arenas;48;534;-11;Men
+1943;Alan Gabriel Ibarrola;48;534;4;Men
+1944;Skirmantas Macinskas;48;534;4;Men
+1945;Simon Wagner;48;534;-11;Men
+1946;Carlos Mateo Gallego;48;534;4;Men
+1947;Nojus Poska;48;534;4;Men
+1948;Fares Al Janahi;48;534;4;Men
+1949;Michal Bartusek;48;534;4;Men
+1950;Andres Calzada Felici;47;545;2;Men
+1951;Moritz Eiersebner;47;545;2;Men
+1952;Majed Al Janahi;46;547;2;Men
+1953;Angel Torres;46;547;2;Men
+1954;Shungo Kusakabe;46;547;2;Men
+1955;Axel Waris;46;547;2;Men
+1956;Amr Mohammed Hassan;45;551;2;Men
+1957;Vicente Andrades Caro;45;551;2;Men
+1958;Pedro Carlos Garcia-Consuegra gutierrez;45;551;2;Men
+1959;Pablo Nicolas Egea;45;551;2;Men
+1960;Pedro Alonso;45;551;2;Men
+1961;Ulises Martinez Avila;45;551;2;Men
+1962;Alejandro Zaragoza Madrid;44;557;2;Men
+1963;Juan Pablo Andrada;44;557;2;Men
+1964;Victor Forsberg;44;557;-66;Men
+1965;Maneea Allah Almaqaleh;43;560;1;Men
+1966;Martim Gomes;43;560;1;Men
+1967;Bruno Zem Nunes;43;560;1;Men
+1968;Ricardo Gomez martinez-Campos;43;560;1;Men
+1969;Alberto Micali;43;560;1;Men
+1970;Joaquin Bastos Veltri;43;560;1;Men
+1971;Raul Rosas;43;560;1;Men
+1972;Filippo Nicocia;43;560;1;Men
+1973;Gabriele Karol Maria Stracquadaini;43;560;1;Men
+1974;Francesco Berta;43;560;1;Men
+1975;Juan Carlos Gutierrez Guerrero;42;570;1;Men
+1976;Martim Solano;42;570;1;Men
+1977;Gerardo Irarrazabal Alvarez;41;573;2;Men
+1978;Tomas Luco;41;573;2;Men
+1979;Rafael Marquet;41;573;-2;Men
+1980;Hassan Adel Waly;41;573;2;Men
+1981;Jorge Jimenez;40;577;1;Men
+1982;Martin Araguete Sales;40;577;1;Men
+1983;Lautaro Rodrigo Guevara;40;577;1;Men
+1984;Guillermo Lahoz Rodriguez;40;577;1;Men
+1985;Hayato Nakayashiki;40;577;1;Men
+1986;Vasco Mensurado;40;577;1;Men
+1987;Moises Rafael Rivero;40;577;1;Men
+1988;Daniele De Paolis;40;577;1;Men
+1989;Himar Acosta Suárez;40;577;1;Men
+1990;Matias Jimenez Colombres;40;577;1;Men
+1991;Guillermo Espinoza Concha;40;577;1;Men
+1992;Nikander Damianos;40;577;1;Men
+1993;Jose Maria Alvarez Torres;40;577;1;Men
+1994;Sean Zachary Lo Escoto;40;577;1;Men
+1995;Diogo Veiga Pereira;39;593;1;Men
+1996;Johannes Lindmeyer;39;593;1;Men
+1997;Max Moral Mullol;39;593;1;Men
+1998;Matthias Wunner;39;593;1;Men
+1999;Hugo Girona Diaz;39;593;1;Men
+2000;Ko Momokawa;39;593;38;Men
+2001;Javier Nuñez Lopez;39;593;-166;Men
+2002;Andres Britos;39;593;1;Men
+2003;Emilio Juan De Dios Benitez Arrien;38;601;-1;Men
+2004;Luciano Perez Gentile;38;601;-1;Men
+2005;Samuel Pontes;38;601;-1;Men
+2006;Alejo Gimenez;38;601;-1;Men
+2007;Jose Antonio De Armas;37;605;-1;Men
+2008;Diego Pascual Simon Tomas;37;605;-1;Men
+2009;Islam Ghunaim;37;605;-1;Men
+2010;Exequiel Mouriño;37;605;-1;Men
+2011;Mohamed Kassem;37;605;-1;Men
+2012;Moises Rafael Castillo Contreras;37;605;-1;Men
+2013;Patricio Opazo Arias;37;605;-1;Men
+2014;Gabriele Laurino;36;612;-1;Men
+2015;Tommaso Forneris;36;612;-1;Men
+2016;Jose Alban Paz De La Llave;36;612;-1;Men
+2017;Sherif Mohamed Makhlouf;36;612;-1;Men
+2018;Christian Didier Chin Zao Quan;36;612;-1;Men
+2019;Luis Enrique Barrientos Garcia;36;612;-1;Men
+2020;Carlos Miguel Pelaez Suarez;36;612;-1;Men
+2021;Daniel Nino;36;612;-1;Men
+2022;Saveliy Tulupov;35;620;0;Men
+2023;Pablo Navarro Almagro;35;620;0;Men
+2024;Christian Orduña Guzman;35;620;0;Men
+2025;Ignacio Tellez Rodriguez;35;620;0;Men
+2026;Leon Aurelius Taira Hoy;35;620;0;Men
+2027;Lucas Filippini;35;620;0;Men
+2028;Martin Noschese;35;620;0;Men
+2029;Ariel Cabaral;35;620;0;Men
+2030;Javier Rodriguez Marquez;35;620;0;Men
+2031;Tomas Azocar;34;631;0;Men
+2032;Ben Phillips;34;631;0;Men
+2033;Karim Beltagi;34;631;0;Men
+2034;Gaston Diaz;34;631;0;Men
+2035;Jaime Martin Cano;34;631;0;Men
+2036;Salvador Atencia Basilio;34;631;0;Men
+2037;Hugo Jimenez Reina;34;631;0;Men
+2038;Mainard Mendel Sahagun;34;631;0;Men
+2039;Marin Santiago Alejo;33;639;1;Men
+2040;Federico Alejandro Fleitas;33;639;1;Men
+2041;Mohamed El Garhy;33;639;1;Men
+2042;Alvaro Salgado Soriano;33;639;1;Men
+2043;Ignacio Tato Cantalapiedra;33;639;1;Men
+2044;Egmond Van Heerden;33;639;1;Men
+2045;Diogo Moreira;33;639;1;Men
+2046;Anthony Hyjazi;33;639;1;Men
+2047;Erwan Wiyono;33;639;1;Men
+2048;Hassan Tarek Shaheen;33;639;1;Men
+2049;Issa Zayed;32;649;4;Men
+2050;Tomas Martinez Pezoa;32;649;4;Men
+2051;Vinayak Shrivastav;32;649;4;Men
+2052;Alejandro Correa;32;649;4;Men
+2053;Matteo Mancini;32;649;4;Men
+2054;Lucas Miranda Santos;32;649;111;Men
+2055;Izan Ranera Pedrero;32;649;-9;Men
+2056;Juan Carlos Vargas Vera;32;649;4;Men
+2057;Sebastian Muñoz Campos;32;649;4;Men
+2058;Omar Sabry;32;649;4;Men
+2059;Jaime Fermosell Delgado;32;649;4;Men
+2060;Wenceslao Osorio Flores;32;649;4;Men
+2061;Mario Rodriguez Marcos;32;649;4;Men
+2062;Cosmin Constantin Bardan;32;649;-9;Men
+2063;Orlando Juarez Cano;31;663;1;Men
+2064;Manuel Muñoz Lozano;31;663;1;Men
+2065;Gonçalo Valente;31;663;1;Men
+2066;Pavel Karpushkin;31;663;1;Men
+2067;Matias Vicencio Labarca;31;663;1;Men
+2068;Ignacio Jara Saez;31;663;1;Men
+2069;Yevgeniy Danilov;31;663;1;Men
+2070;Lluis Miró Garrido;31;663;1;Men
+2071;Bernardo Bastos;31;663;1;Men
+2072;Felix Gonzalez Rodriguez;31;663;1;Men
+2073;Philip Orloff;30;674;1;Men
+2074;Neils Koesoemahadi;30;674;40;Men
+2075;Luis Facundo Sayes;30;674;1;Men
+2076;Omar Makhlouf;30;674;1;Men
+2077;Daniel Luengo Calado;30;674;1;Men
+2078;Lucas Franco Rodriguez;30;674;1;Men
+2079;Javier Navarro Perez;30;674;1;Men
+2080;Pablo Vacarezza Kuhlmann;30;674;1;Men
+2081;Alvaro Bermejo De Alamo;30;674;1;Men
+2082;Izan Gil Sampere;30;674;1;Men
+2083;Simon Charaf Jones;29;684;0;Men
+2084;Quintin Vos;29;684;0;Men
+2085;Adrian Martinez Galindo;29;684;0;Men
+2086;Jarrett Laabs;29;684;48;Men
+2087;Marwan Fayad;29;684;0;Men
+2088;Javier Lopez Garcia;29;684;0;Men
+2089;Tristan Piombo;29;684;0;Men
+2090;Javier Bolumar Orti;29;684;0;Men
+2091;Alejandro Chaveli Canovas;29;684;0;Men
+2092;Alejandro Alcaraz Gonzalez;29;684;0;Men
+2093;Marco Mismetti;29;684;0;Men
+2094;Murilo Weber;29;684;0;Men
+2095;Omar Zaher;28;697;-1;Men
+2096;Jairo Ajenjo Gomez;28;697;-1;Men
+2097;Abdulla Alaqili;28;697;-1;Men
+2098;Mohamed El-Hamamy;28;697;-1;Men
+2099;Richard Ashforth;28;697;-1;Men
+2100;Tom Farquharson;28;697;-1;Men
+2101;Gonzalo Escobar;28;697;-1;Men
+2102;Alessandro Pirrotta;28;697;-1;Men
+2103;Thiago Pinto;28;697;-1;Men
+2104;Ariff Suffian Bin Zainal Abidin;28;697;-1;Men
+2105;Tiago Fernandes;28;697;-1;Men
+2106;Lautaro Mambrini;28;697;-1;Men
+2107;Alex Tur Checa;28;697;-1;Men
+2108;Andres Ortuño De Pablo;28;697;-1;Men
+2109;Samuel Rodriguez;28;697;-1;Men
+2110;Alberto Simon Garcia;28;697;-1;Men
+2111;Theo Bernardo Dos Santos;27;715;-1;Men
+2112;Eleftherios Theodorou;27;715;-1;Men
+2113;Matias Damian Gonzalez;27;715;-1;Men
+2114;Samy Charni;27;715;-1;Men
+2115;Carlos Del Pico Torres;27;715;-1;Men
+2116;Yohan Borgel;27;715;-1;Men
+2117;Matias Karelovic;27;715;-1;Men
+2118;Wojciech Szczesny;27;715;-1;Men
+2119;Carlos Fernandez-Cañadas paredes;27;715;-1;Men
+2120;Bernardo Roque;27;715;-1;Men
+2121;Henrique Marsiglia;27;715;-1;Men
+2122;Sebastian Nair Rodriguez;27;715;-1;Men
+2123;Hampus Drakenberg;27;715;-1;Men
+2124;Pierre Perez Le Tiec;27;715;-1;Men
+2125;Mateusz Lipinski;27;715;-1;Men
+2126;Alejandro Tasa Van Beek;27;715;-1;Men
+2127;Alfonso Diaz Ponce;26;731;1;Men
+2128;Hassan Barakat;26;731;1;Men
+2129;Manuel Correia;26;731;1;Men
+2130;Hussein Gomaa;26;731;1;Men
+2131;Jairo Rueda;26;731;1;Men
+2132;Nicolas Lujan Torres;26;731;1;Men
+2133;Alvaro Sola Alba;26;731;1;Men
+2134;Guillermo Guerreño Pigola;26;731;1;Men
+2135;Josh Gilbert;26;731;1;Men
+2136;Mohamed Aboulkassem;26;731;1;Men
+2137;Pierre Petit Fernandez;26;731;1;Men
+2138;Sergis Kyratzis;26;731;1;Men
+2139;Yannick Verwater;26;731;1;Men
+2140;Pablo Rojas;26;731;1;Men
+2141;Marcelo Vidaurreta Villanueva;26;731;1;Men
+2142;Tomas Dos Santos Nunes;26;731;1;Men
+2143;Pedro Sequeira;26;731;1;Men
+2144;Elias Nasif;25;748;3;Men
+2145;Andrea Di Martino;25;748;3;Men
+2146;Enzo Silva;25;748;3;Men
+2147;I Putu Anandana Adi Guna;25;748;3;Men
+2148;Alvaro Gonzalez Figueroa;25;748;3;Men
+2149;Carlos Flores Peñate;25;748;3;Men
+2150;Pierre Vincent;25;748;-137;Men
+2151;Ludovic Hutzemakers;25;748;3;Men
+2152;Fredrik Lonnqvist;25;748;3;Men
+2153;Pelayo Bucero Sanchez;24;757;3;Men
+2154;Martim Nunes;24;757;3;Men
+2155;Jose Antonio Crespo Sanchez;24;757;3;Men
+2156;Linus Frost;24;757;3;Men
+2157;Lucas Landais;24;757;3;Men
+2158;Abdullah Ahli;24;757;3;Men
+2159;Adrian Garcia Caballero;24;757;3;Men
+2160;Zhanibek Umbetov;24;757;3;Men
+2161;Ignacio Andres Lehyt Sances;24;757;3;Men
+2162;Stefano Wirawan;24;757;3;Men
+2163;Lorenzo Romano;24;757;3;Men
+2164;Shashank Narde;24;757;69;Men
+2165;Andre Veiga Trindade;24;757;3;Men
+2166;Bruno Costa;24;757;3;Men
+2167;Thiago Henrique Gasparin Santos;24;757;3;Men
+2168;Cayan Chiodi Appel;24;757;3;Men
+2169;Belar Vera Lopez;24;757;3;Men
+2170;Toni Neykov;24;757;3;Men
+2171;Xie Zongnan;23;776;3;Men
+2172;Diego Arnoldo Ruiz Espinosa;23;776;3;Men
+2173;Argel Alexandro Albanes;23;776;3;Men
+2174;Ahmed El Derwy;23;776;3;Men
+2175;Aimar Lopez Catalan;23;776;3;Men
+2176;Pavel Tatarnikov;23;776;3;Men
+2177;Antonio Alamillo Alcaide;23;776;3;Men
+2178;Pablo Chacon Diaz;23;776;3;Men
+2179;Ivan Del Águila Navarro;23;776;3;Men
+2180;Florian Vandelanotte;23;776;3;Men
+2181;Emmanuel Riesgo Méndez;23;776;-16;Men
+2182;Sebastian Lagos Cerezo;23;776;3;Men
+2183;Angelo Rizza;23;776;3;Men
+2184;Raul Ruiz Alvarez;23;776;3;Men
+2185;Diego Nino;22;790;2;Men
+2186;Abdulrahman Alazzam;22;790;2;Men
+2187;Jorge Ruiz;22;790;2;Men
+2188;Tameem Salloum;22;790;2;Men
+2189;Oscar Mozo Garcia;22;790;2;Men
+2190;Gonçalo Costa Liberato;22;790;2;Men
+2191;Abdullah Alabdulla;22;790;2;Men
+2192;Qassem Alobidan;22;790;2;Men
+2193;Pablo Marqués Gonzalez;22;790;2;Men
+2194;Eduardo Herrero Del Riego;22;790;2;Men
+2195;Edoardo Lecchi;22;790;2;Men
+2196;Omar Matias Ortiz;22;790;2;Men
+2197;Faisal Alrebdi;22;790;2;Men
+2198;Enric Sanmarti Beleta;22;790;2;Men
+2199;Hassan Sabry;22;790;2;Men
+2200;Vicente Jofre Venegas;22;790;2;Men
+2201;Abdullah Alabdullah;22;790;2;Men
+2202;Sebastian Solenghi;22;790;2;Men
+2203;Damien Lozano;22;790;2;Men
+2204;Fernando Gonzalez;22;790;2;Men
+2205;Aaron Segura;22;790;2;Men
+2206;Adria Mercadal;22;790;-150;Men
+2207;Guillermo Closa Pucernau;22;790;2;Men
+2208;Antonio Terzo;22;790;2;Men
+2209;Sebastien Garcia Ortega;22;790;2;Men
+2210;Maxime Deloyer;22;790;2;Men
+2211;Alvaro Moreno Herrera;22;790;2;Men
+2212;Matias Gonzalez;22;790;2;Men
+2213;Roberto Rodriguez Alonso;21;820;-28;Men
+2214;Mohamed Al Janahi;21;820;6;Men
+2215;Jeronimo Escalante Diz;21;820;6;Men
+2216;Eduardo Barbosa Sessim Da Silva;21;820;6;Men
+2217;Alberto Gasca Romero;21;820;6;Men
+2218;Noah Cecchi;21;820;6;Men
+2219;Manav Sreekumar;21;820;6;Men
+2220;Maheno Fontaine;21;820;6;Men
+2221;Bilal Duprat;21;820;-28;Men
+2222;Daniil Bobokhanov;21;820;6;Men
+2223;Amadeo Catala Lopez;21;820;6;Men
+2224;Javier Vazquez Bennassar;21;820;6;Men
+2225;Matteo Greco;21;820;6;Men
+2226;Mikel Blanco Dorao;21;820;6;Men
+2227;Breno Oliveira Enke;21;820;6;Men
+2228;Tomas Cunietti;21;820;6;Men
+2229;Ahmed Alaa Marzouk;21;820;6;Men
+2230;Leonardo Becker;21;820;6;Men
+2231;Renato De Aguiar Chuirki;21;820;6;Men
+2232;Pablo Villaroya Lazaro;21;820;6;Men
+2233;Aley Shokeir;21;820;6;Men
+2234;Ahmed Mostafa Nazir;21;820;6;Men
+2235;Fabio Da Costa Araujo;21;820;6;Men
+2236;Julio Cesar Julianoti;21;820;6;Men
+2237;Marcos Bersch Da Cruz;21;820;6;Men
+2238;Petros Chrysochos;21;820;6;Men
+2239;Asier Gago Martinez;21;820;-88;Men
+2240;Pere Miralles Galiana;20;848;4;Men
+2241;Gonzalo Valdivieso Comesaña;20;848;4;Men
+2242;Erick Eduardo Martínez Torres;20;848;4;Men
+2243;Mauricio Alvarez;20;848;4;Men
+2244;Xander De Wever;20;848;4;Men
+2245;Diego Alejandro Cosio Posadas;20;848;4;Men
+2246;Jorge Hernan Tupayachi Llanos;20;848;4;Men
+2247;Raul Peralta Corredor;20;848;4;Men
+2248;Mohammed Ragab;20;848;4;Men
+2249;Robert Moore;20;848;4;Men
+2250;Bram Coene;20;848;-56;Men
+2251;Gabriel Lara Morejon;20;848;4;Men
+2252;Manfredi La Punzina;20;848;4;Men
+2253;Adria Lopez Caldentey;20;848;-56;Men
+2254;German Rodriguez Quesada;20;848;4;Men
+2255;Daniel Pashayan;19;863;2;Men
+2256;Joaquin Gaitan Bernardi;19;863;2;Men
+2257;Gabriele Derosas;19;863;2;Men
+2258;Asier Martinez Lopez;19;863;2;Men
+2259;Alvaro Jauregui Sadaba;19;863;2;Men
+2260;Victor Miguel Saenz De Navarrete Martin;19;863;2;Men
+2261;Vasco Estevens Barbosa;19;863;2;Men
+2262;Beihang Fu;19;863;2;Men
+2263;Mahmoud Moharam;19;863;2;Men
+2264;Simon Yitbarek;19;863;2;Men
+2265;Tomas Posse;19;863;2;Men
+2266;Isidoro Salamanca Fernandez;19;863;2;Men
+2267;Matteo Quatrana;19;863;2;Men
+2268;Maximo Cornejo Gonzalez;18;878;2;Men
+2269;Hugo Estebanez Estevez;18;878;2;Men
+2270;Luis Alfonso Chacon Gilo;18;878;2;Men
+2271;Bernardo De Marco Rigon;18;878;2;Men
+2272;Jacopo Bulgarelli;18;878;2;Men
+2273;Valentino Acosta Kremnitzer;18;878;2;Men
+2274;Antonio Pedro Pragana;18;878;2;Men
+2275;Oscar Diaz Jauregui;18;878;2;Men
+2276;Louis Jover;18;878;2;Men
+2277;Isak William Bäckman;18;878;2;Men
+2278;David Villalta Aguilar;18;878;2;Men
+2279;Jose Pablo Garza De La Peña;18;878;2;Men
+2280;Warren Kuhn;18;878;2;Men
+2281;Antonio Corpas Bermudez;18;878;2;Men
+2282;Alfons Lopez;18;878;2;Men
+2283;Gabriel Londero Almeida;18;878;2;Men
+2284;Asier Cabana Martin;18;878;2;Men
+2285;Renan Lobo Bosco;18;878;2;Men
+2286;Antti Kampman;18;878;2;Men
+2287;Antonio Borja Mulet;18;878;2;Men
+2288;Artem Matus;18;878;2;Men
+2289;Fernando Agustin Vega;18;878;2;Men
+2290;Ke Zhao;18;878;2;Men
+2291;Adam Van Harte;18;878;2;Men
+2292;Agustin Gallardo;18;878;2;Men
+2293;Pablo Cenoz;18;878;2;Men
+2294;Santiago Castro Recio;18;878;2;Men
+2295;Iker Rodriguez Sanchez;17;907;2;Men
+2296;Nicolas Brusa;17;907;2;Men
+2297;Erik Thomaidis;17;907;2;Men
+2298;Sam Macneil;17;907;2;Men
+2299;Denis Merkulov;17;907;2;Men
+2300;André Monteiro Maia;17;907;2;Men
+2301;Alejandro Navas Balaguer;17;907;2;Men
+2302;Jose Antonio Arcos;17;907;2;Men
+2303;Saif Alhammadi;17;907;2;Men
+2304;Youssef Abdelbadie;17;907;2;Men
+2305;Maximilian Brent;17;907;2;Men
+2306;Adilyar Muzdybayev;17;907;2;Men
+2307;Maximiliano Labbè;17;907;2;Men
+2308;Oliver Hayday;17;907;2;Men
+2309;Shengkai Yang;17;907;2;Men
+2310;Amilcar Gaston Bejarano;17;907;2;Men
+2311;Theo Suzanna;17;907;2;Men
+2312;Armand Baboian;17;907;2;Men
+2313;Javier Eloy Perez Perez;17;907;2;Men
+2314;Artemii Besedin;17;907;2;Men
+2315;Julio Pulido Alegre;17;907;2;Men
+2316;Xander Aue;16;931;2;Men
+2317;Tiago Lourenço Santos;16;931;2;Men
+2318;Nicolas Fernandez Lozon De Cantelmi;16;931;-139;Men
+2319;Miguel Vieira;16;931;2;Men
+2320;Erik Nordström;16;931;2;Men
+2321;Marc Monturiol Cordoba;16;931;2;Men
+2322;Gustav Eriksson;16;931;2;Men
+2323;Jaime Pérez Martín;16;931;2;Men
+2324;Vladimir Nifontov;16;931;2;Men
+2325;Santino Contreras;16;931;2;Men
+2326;Nachi Blazquez Domínguez;16;931;2;Men
+2327;Jasha Saas;16;931;2;Men
+2328;Pedro Yañez Guevara;16;931;2;Men
+2329;Amr Adel;16;931;2;Men
+2330;Gerard Marti Morales;16;931;2;Men
+2331;Colin Marshall;16;931;2;Men
+2332;Guillermo Lozano García De Paredes;16;931;2;Men
+2333;Guillaume Ledrap;16;931;2;Men
+2334;Miguel Ines Vaz;16;931;2;Men
+2335;Leonardo Ariel Torres;16;931;2;Men
+2336;Jabor Al-Mutawa;16;931;2;Men
+2337;Borja Sierra Del Val;16;931;2;Men
+2338;Thomas Saiani;15;959;0;Men
+2339;Kirill Kolganov;15;959;0;Men
+2340;Alessandro Ferrero;15;959;0;Men
+2341;Samuel Martinez Soriano;15;959;0;Men
+2342;Jeremy Scatena;15;959;0;Men
+2343;Pablo Simon Garcia;15;959;0;Men
+2344;Alfonso Patacho;15;959;0;Men
+2345;Francisco Javier Vergillos Alonso;15;959;0;Men
+2346;Amin Tiago Leiva;15;959;0;Men
+2347;David Fernandes;15;959;0;Men
+2348;Juan Pedro Ramirez Ruiz;15;959;0;Men
+2349;Hugo Jorquera Santos;15;959;0;Men
+2350;Alvaro Llaneza Garcia;15;959;0;Men
+2351;Federico Andres Sarmiento;15;959;0;Men
+2352;Paulo Hillal;15;959;0;Men
+2353;Pau Monclus Jubany;15;959;0;Men
+2354;Alberto Bagarello;15;959;0;Men
+2355;Christian Paolo;15;959;0;Men
+2356;Alessandro Antoniazzi;15;959;0;Men
+2357;Alvaro Vila Obregon;15;959;0;Men
+2474;Valentin Durand;12;1105;0;Men
+2358;Fernando Matias Albornoz;15;959;0;Men
+2359;Daniel Rubio Galtsova;15;959;0;Men
+2360;Diego Garcia Brito;15;959;0;Men
+2361;Christian De Sanctis;14;984;2;Men
+2362;Andres Macchiavello;14;984;2;Men
+2363;Jose Miguel Montes Diaz;14;984;2;Men
+2364;Joaquin Alan Giorgi Bustos;14;984;2;Men
+2365;Rodrigo Lopez Santin;14;984;2;Men
+2366;Izan Violero Lloret;14;984;2;Men
+2367;Max Bendel;14;984;2;Men
+2368;Tade Jensen;14;984;2;Men
+2369;Anastasios Mandalenakis;14;984;2;Men
+2370;Ethan Miguel Gonzalez Herrera;14;984;2;Men
+2371;Wenjie Wang;14;984;2;Men
+2372;Francis Eduard Parangan;14;984;2;Men
+2373;Yousif Ghunaim;14;984;2;Men
+2374;Maximiliano Jael Cejas;14;984;2;Men
+2375;Jose Mari Liong;14;984;2;Men
+2376;Pablo Gonzalez Neria;14;984;2;Men
+2377;Manuel Maira;14;984;2;Men
+2378;Edoardo Zecchinelli;14;984;2;Men
+2379;Joris De Weerdt;14;984;2;Men
+2380;Ionian Antonelly Carballo Hernandez;14;984;2;Men
+2381;Ashish Kumar;14;984;2;Men
+2382;Paulo Bravo;14;984;2;Men
+2383;Prakhyath Kc;14;984;2;Men
+2384;Abraham Rodriguez Gomez;14;984;2;Men
+2385;Enol Delgado Martinez;14;984;2;Men
+2386;Andre Freitas;14;984;2;Men
+2387;Ali Abdelaziz;14;984;2;Men
+2388;Kun Ye;14;984;2;Men
+2389;Antonio Campo;14;984;2;Men
+2390;Mohammed Atif Hyder;14;984;2;Men
+2391;Alonso Calvache;14;984;2;Men
+2392;Pedro Jesus Robles Rodriguez;14;984;2;Men
+2393;Mickey Guerin;14;984;2;Men
+2394;Nicolas Arno;14;984;2;Men
+2395;Moos Sporken;14;984;2;Men
+2396;Chunxiao Qu;14;984;2;Men
+2397;Tommy Smith;14;984;2;Men
+2398;Diogo Alves;14;984;2;Men
+2399;Javier Collantes Guijo;14;984;2;Men
+2400;Matas Poska;14;984;2;Men
+2401;Ulises Correa;14;984;2;Men
+2402;Daniel Muñoz Romero;14;984;2;Men
+2403;Kasparas Poska;14;984;2;Men
+2404;Sebastian Castaneda;13;1030;5;Men
+2405;Pablo Nicolas Silberman;13;1030;5;Men
+2406;Alberto Cerrocchi;13;1030;5;Men
+2407;Paul Henri Teyssedre;13;1030;5;Men
+2408;Lucas Fernandes;13;1030;5;Men
+2409;Pablo Humberto Montoya Ramirez;13;1030;5;Men
+2410;Carlos Garcia-Alix alarcon;13;1030;5;Men
+2411;Tobias Pintos Castro;13;1030;5;Men
+2412;Christopher Verdura;13;1030;5;Men
+2413;Julian Rodrigo Caceres Rodriguez;13;1030;5;Men
+2414;Federico Alejandro Vega;13;1030;5;Men
+2415;Joao E. Moraes Maneck;13;1030;5;Men
+2416;Silvain Moreau;13;1030;5;Men
+2417;Oscar Dominguez Montes De Oca;13;1030;5;Men
+2418;Ismael Linero;13;1030;5;Men
+2419;Mike Tanoso;13;1030;5;Men
+2420;Ronan Bruandet;13;1030;5;Men
+2421;Lautaro Chartron;13;1030;5;Men
+2422;Tomas Barros Queiroz De Mesquita Guimarães;13;1030;5;Men
+2423;Daan Jans;13;1030;5;Men
+2424;David Perez Sanz;13;1030;5;Men
+2425;Mario Alberto Yañez Tapia;13;1030;5;Men
+2426;Alessandro Zaccagnino;13;1030;5;Men
+2427;Victor Ribes Tierno;13;1030;5;Men
+2428;Jan Wajgt;13;1030;5;Men
+2429;Valentinus Wibawa;13;1030;5;Men
+2430;Chris Salisbury;13;1030;5;Men
+2431;Baptiste Maitre;13;1030;5;Men
+2432;Juan Pablo Perez Damian;13;1030;5;Men
+2433;Daniel Casanova Bataller;13;1030;5;Men
+2434;Nasa Hatakeyama;13;1030;5;Men
+2435;Lilian Foure;13;1030;-44;Men
+2436;Anlin Chen;13;1030;5;Men
+2437;Gabriel Eduardo Molina;13;1030;5;Men
+2438;Marc Monné Cuevas;13;1030;5;Men
+2439;Diego Alejandro Picotto;13;1030;5;Men
+2440;Robin Sietsma;13;1030;5;Men
+2441;Bernardo Monteiro;13;1030;5;Men
+2442;Mickael Grenier;13;1030;5;Men
+2443;Ariel Williams Carrasco Paricollo;13;1030;5;Men
+2444;Loick Bruandet;13;1030;5;Men
+2445;Mario Belizón Barrionuevo;13;1030;-71;Men
+2446;Romain Gutstein;13;1030;5;Men
+2447;Sebastian Domínguez Remis;13;1030;5;Men
+2448;Agustin De Miguel Nicolau;13;1030;5;Men
+2449;Tiaan Erasmus;13;1030;5;Men
+2450;Tom Biotti;13;1030;5;Men
+2451;Juan Maria Ramirez Carrasco;13;1030;5;Men
+2452;Timur Khabibulin;13;1030;5;Men
+2453;Jorge Senoran Fructuoso;13;1030;5;Men
+2454;Tsz Yan Adrian Yao;13;1030;5;Men
+2455;Ziqiang Wei;13;1030;5;Men
+2456;Carlos Huerta;13;1030;5;Men
+2457;Sebastian Saggiorato;13;1030;5;Men
+2458;Oliver Quarry;13;1030;169;Men
+2459;Manuel Perez Gonzalez;13;1030;5;Men
+2460;Leonardo Pontes;13;1030;5;Men
+2461;Geremias Caluva;13;1030;5;Men
+2462;Antonio Jose Alarcon Garcia;13;1030;5;Men
+2463;Juan Rodenas Rodriguez;13;1030;5;Men
+2464;Romain Grenet Laffont;13;1030;5;Men
+2465;Seif Mahdi;13;1030;5;Men
+2466;Eduardo Fischer;13;1030;5;Men
+2467;Daniel Warren;13;1030;5;Men
+2468;Khaled Nagy;13;1030;5;Men
+2469;Pieter Hermus;12;1105;0;Men
+2470;Ryan Wyatt;12;1105;0;Men
+2471;Juan Moro Klusek;12;1105;0;Men
+2472;Maxime De Roose;12;1105;-119;Men
+2473;Christian Boehnke;12;1105;0;Men
+2475;Matheus Cadinelli De Farias;12;1105;0;Men
+2476;Nuno Sa;12;1105;0;Men
+2477;Benjamin Niv;12;1105;0;Men
+2478;Tibo De Vylder;12;1105;0;Men
+2479;Gonzalo Duarte Arricau;12;1105;0;Men
+2480;Alvaro Jurado Cerezo;12;1105;0;Men
+2481;Edoardo Riso;12;1105;0;Men
+2482;Sergi Perez Calle;12;1105;0;Men
+2483;Juan Hernandez Gaitan;12;1105;-119;Men
+2484;Ramiro Gaston Perez;12;1105;0;Men
+2485;Oliver Hodos;12;1105;0;Men
+2486;Hirokazu Kitao;12;1105;366;Men
+2487;Taiga Sherr-Oshima;12;1105;0;Men
+2488;Francesco Giuseppe Angelini;12;1105;0;Men
+2489;Cameron Gomes;12;1105;0;Men
+2490;Genaro Manuel Campuzano Vazquez;12;1105;0;Men
+2491;Derek Gerson;12;1105;0;Men
+2492;Francisco Moura Couto Nunes Correia;11;1128;-1;Men
+2493;Javier Redondo Mendez;11;1128;-1;Men
+2494;Tremayne Mitchell;11;1128;-1;Men
+2495;Mohamed Amr Menissy;11;1128;-1;Men
+2496;Mohamed Moussa;11;1128;-1;Men
+2497;Yannick Faucard;11;1128;-1;Men
+2498;Felipe Xose Fernandez Meaca;11;1128;-1;Men
+2499;Joa Takala;11;1128;-1;Men
+2500;Javier Antonio Cincotta;11;1128;-1;Men
+2501;Khalid Saadon Alkuwari;11;1128;-1;Men
+2502;Haoxuan He;11;1128;-1;Men
+2503;Ahmed Saleh;11;1128;-1;Men
+2504;Nathan De Barros Duval;11;1128;-1;Men
+2505;Javier Rodriguez Navarro;11;1128;-1;Men
+2506;Diego Torres Torres;11;1128;-1;Men
+2507;Horia Vladimir Nedelcu;11;1128;-1;Men
+2508;Marc Romans Roca;11;1128;-1;Men
+2509;Jorge Cordoba Lugo;11;1128;-1;Men
+2510;Antonio Castillo Valverde;11;1128;-1;Men
+2511;Hugo Marcille;11;1128;-1;Men
+2512;Joaquin Granados Villodre;11;1128;-1;Men
+2513;Santiago Manuel Colombo Romero;11;1128;-1;Men
+2514;Alejandro Cañete Rodriguez;11;1128;-1;Men
+2515;Alvaro Abad Diaz;11;1128;-1;Men
+2516;Thomas Delahaye;11;1128;-1;Men
+2517;Tomas Ziza;11;1128;-1;Men
+2518;Giovanni Romeo;11;1128;-1;Men
+2519;Jacopo Crini;11;1128;-1;Men
+2520;Lucas Gonzalez Bueno;11;1128;-1;Men
+2521;Julien Guillery;11;1128;-1;Men
+2522;Zhakas Kozbak;11;1128;-1;Men
+2523;Noe Navarro Porras;11;1128;-1;Men
+2524;Antonio Gonzalez;11;1128;-1;Men
+2525;Gonzalo Sassano;11;1128;-1;Men
+2526;Yan Brek;11;1128;-1;Men
+2527;Louis Bastard;11;1128;-1;Men
+2528;Henrik Aarnio;11;1128;-1;Men
+2529;Nahuel Pineda;11;1128;-1;Men
+2530;Gabriel Morbey Basso;11;1128;-1;Men
+2531;John Michael Tamayo;11;1128;-1;Men
+2532;Soli Colah;11;1128;-1;Men
+2533;Lucca Berenguer;11;1128;-1;Men
+2534;Mario Guerrero Martinez;11;1128;-1;Men
+2535;Manuel Damian;11;1128;-1;Men
+2536;Jose Manuel Lopez Machado;11;1128;-1;Men
+2537;Pablo Gonzalez Torres;11;1128;-1;Men
+2538;Luciano Ignacio Leyton De Vincenzi;11;1128;-1;Men
+2539;Dheo Talatayod;11;1128;-1;Men
+2540;Pierre Guiraud;11;1128;-1;Men
+2541;Jaimes McKee;11;1128;-1;Men
+2542;Robert Coman;11;1128;-1;Men
+2543;Lucca Carlesso;11;1128;-1;Men
+2544;Joao Paulo Reck Boeira;11;1128;-1;Men
+2545;Hugo Portillo;11;1128;-23;Men
+2546;Joaquin Zerpa;11;1128;-1;Men
+2547;Matias Nicoletti;11;1128;-1;Men
+2548;Adit Patel;11;1128;-1;Men
+2549;Iran Nagimtay;11;1128;-1;Men
+2550;Arturo Azocar Salinas;11;1128;-1;Men
+2551;Aidan Carrazedo;11;1128;-1;Men
+2552;Nikita Filatov;11;1128;-1;Men
+2553;Mateo Torres-Jacobs;11;1128;-1;Men
+2554;Tomoaki Murasawa;11;1128;-93;Men
+2555;Francis Langan;11;1128;-1;Men
+2556;Johann Benson Lo Escoto;11;1128;-1;Men
+2557;Maniel Bains;10;1199;0;Men
+2558;Tsubasa Kato;10;1199;0;Men
+2559;Julian Leite;10;1199;0;Men
+2560;Matteo Coni;10;1199;0;Men
+2561;Oscar Guiral Mallart;10;1199;0;Men
+2562;Marc Fontanet;10;1199;0;Men
+2563;Rodion Pak;10;1199;0;Men
+2564;Aaron Cortes Alcaraz;10;1199;0;Men
+2565;Edgar Barria;10;1199;0;Men
+2566;Matias Ilardia Meyer;10;1199;0;Men
+2567;Felipe Ignacio Bermudez Aros;10;1199;0;Men
+2568;David Pedroso Hennemann;10;1199;0;Men
+2569;Bautista Romero Lang;10;1199;0;Men
+2570;Ian Walker;10;1199;0;Men
+2571;Ahmed Amr;10;1199;0;Men
+2572;Bernardo Corrochano Cid;10;1199;0;Men
+2573;Vincent Bakunowicz;10;1199;0;Men
+2574;Aday Sanchez Leon;10;1199;0;Men
+2575;Olly Cull;10;1199;0;Men
+2576;Pedro Toccafondo Neto;10;1199;0;Men
+2577;Hugo Saintot;10;1199;0;Men
+2578;Adil Kalyanpur;10;1199;0;Men
+2579;Charles Marot;10;1199;0;Men
+2580;Antonio Tricarico;10;1199;0;Men
+2581;Javier Serer Gutierrez;10;1199;0;Men
+2582;Ignacio Melgarejo Darnaude;10;1199;0;Men
+2583;Lei Xing;10;1199;0;Men
+2584;Quentin Anelli;10;1199;0;Men
+2585;Bartolomeo Zagaria;10;1199;0;Men
+2586;Giorgos Kakkouras;10;1199;0;Men
+2587;Artem Shcherbachenko;10;1199;0;Men
+2588;Umberto Prezioso;10;1199;0;Men
+2589;Arnaud Meessen;10;1199;0;Men
+2590;Giorgio Ranieri;10;1199;0;Men
+2591;Timothy Berry;10;1199;0;Men
+2592;Nicolas Dereeper;10;1199;0;Men
+2593;Asao Igarashi;10;1199;0;Men
+2594;Vinicius Dos Santos Borges;10;1199;0;Men
+2595;Matteo Franceschetti;10;1199;0;Men
+2596;Felipe Alberto Quintana Palma;10;1199;0;Men
+2597;Juan Agustin Ordoñez;10;1199;0;Men
+2598;Valentin Cilli;10;1199;0;Men
+2599;Atsushi Maeda;10;1199;0;Men
+2600;Darío Gabriel Agustin Vergara;10;1199;0;Men
+2601;Alexandre Pichon De Bury;10;1199;0;Men
+2602;Leo Perez;10;1199;0;Men
+2603;Fernando Dominguez Cruz;10;1199;0;Men
+2604;Antonis Efthymiou;10;1199;0;Men
+2605;Florian Guerin;10;1199;0;Men
+2606;Ricardo Fernandez;10;1199;0;Men
+2607;Alejandro Ochoa Garcia;10;1199;0;Men
+2608;Hamza Berrahou;10;1199;0;Men
+2609;Pavel Fedorov;10;1199;0;Men
+2610;Marius Miežis;10;1199;0;Men
+2611;Lok Pui Lawrence Lo;10;1199;0;Men
+2612;Kouga Yasuda;10;1199;416;Men
+2613;Israel Valero Martinez;10;1199;0;Men
+2614;Long Si;10;1199;0;Men
+2615;Mori Ignacio Sáez Lagos;10;1199;0;Men
+2616;George Weller;10;1199;0;Men
+2617;Fabrizio González Arrigunaga;10;1199;0;Men
+2618;Dongbo Peng;10;1199;0;Men
+2619;Jad Jaafar;10;1199;0;Men
+2620;Mohamed Elzayat;10;1199;0;Men
+2621;Fakih Najib;10;1199;0;Men
+2622;Tommaso Arcangeli;9;1276;1;Men
+2623;Savvas Anthis;9;1276;1;Men
+2624;Christian Paul Del Amo Lauder;9;1276;1;Men
+2625;Yeldos Mussabekov;9;1276;1;Men
+2626;Panos Katsaris;9;1276;1;Men
+2627;Axel Hein;9;1276;1;Men
+2628;Agustin Greco;9;1276;1;Men
+2629;Eran Sai Teja;9;1276;1;Men
+2630;Ramiro Nehuen T. Contreras;9;1276;1;Men
+2631;Edgar Perez Garcia;9;1276;1;Men
+2632;Zhaslan Omarov;9;1276;1;Men
+2633;Arnau Anglarill Urbano;9;1276;1;Men
+2634;Josimar Casanova;9;1276;1;Men
+2635;Makar Makogon;9;1276;1;Men
+2636;Jorge Morales Rocino;9;1276;1;Men
+2637;Stan Hunt;9;1276;1;Men
+2638;Franco Ceretani Hegi;9;1276;1;Men
+2639;Rodolphe Pouliquen;9;1276;1;Men
+2640;Alayli Rami;9;1276;1;Men
+2641;Rishabh Kishore;9;1276;1;Men
+2642;Federico Salaro;9;1276;1;Men
+2643;Javier Navas;9;1276;1;Men
+2644;Nikhil Sai Kodali;9;1276;1;Men
+2645;Rickard Kjellberg;9;1276;1;Men
+2646;Matias Aviles;9;1276;1;Men
+2647;Dmitry Myagkov;9;1276;1;Men
+2648;Minghui Hui;9;1276;1;Men
+2649;Andre Ferreira Van Holstein;9;1276;52;Men
+2650;Luca Fontana;9;1276;1;Men
+2651;Iker Mercader Franco;9;1276;1;Men
+2652;David Antolin Solla;9;1276;1;Men
+2653;Luca Formigheri;9;1276;0;Men
+2654;Agustin Sanchez;9;1276;1;Men
+2655;Brian Ortiz;9;1276;1;Men
+2656;Yann Auradou;9;1276;1;Men
+2657;Daniel Perdomo Marrero;9;1276;1;Men
+2658;Sergio Borrero Fernandez De La Puente;9;1276;1;Men
+2659;Vicente Soto Herrera;9;1276;1;Men
+2660;Lukman Hakim Bin Abdul Aziz Abdul Aziz;9;1276;1;Men
+2661;Andrea Melisi;9;1276;246;Men
+2662;Angelos Dionysiou;9;1276;1;Men
+2663;Aldiyar Zhexebayev;9;1276;1;Men
+2664;Manuel Buil Baldellou;9;1276;1;Men
+2665;Bruno Ferreira;9;1276;1;Men
+2666;Bung Liu;9;1276;1;Men
+2667;Lucas Bareño Nieto;9;1276;1;Men
+2668;Rahat Achanta;9;1276;1;Men
+2669;Alfonso Velasco Prieto;9;1276;1;Men
+2670;Martin Rubini;9;1276;1;Men
+2671;Timothy Stalgis;9;1276;246;Men
+2672;Felipe Camargo;8;1330;-2;Men
+2673;Daniel Elohim Fernandez Guerra;8;1330;-2;Men
+2674;Victor Lethuilier;8;1330;-2;Men
+2675;Nikhil Narwani;8;1330;-2;Men
+2676;Jeronimo Jose Campora;8;1330;-2;Men
+2677;Norifumi Kawakita;8;1330;-2;Men
+2678;Nicolas Xiviller;8;1330;-2;Men
+2679;Marcos Gonzalez Gil;8;1330;-2;Men
+2680;Manuel Rocafort Lores;8;1330;-2;Men
+2681;Rafael Reyes Moreno;8;1330;-2;Men
+2682;Thibaud Pech;8;1330;-2;Men
+2683;Esteban Santibanez Luna;8;1330;-2;Men
+2684;Hamood Samah;8;1330;-2;Men
+2685;Carl Axel Ricardo Holmkvist Cabo;8;1330;-2;Men
+2686;Kohei Saito;8;1330;-2;Men
+2687;Kanagat Nugusbayev;8;1330;-2;Men
+2688;Juan Carlos Gama Gonzalez;8;1330;-2;Men
+2689;Enrique Martos Lopez;8;1330;-2;Men
+2690;Vilgot Persson;8;1330;-2;Men
+2691;Sebastien Maunier;8;1330;-2;Men
+2692;Jorge Farid Sat;8;1330;-2;Men
+2693;Marc Pastor Montserrat;8;1330;-2;Men
+2694;Benoit Theard;8;1330;-2;Men
+2695;Sebastian Mauricio Muñoz Martinez;8;1330;-2;Men
+2696;Gian Andrea Farabbi;8;1330;-2;Men
+2697;Alejandro Portillo Lara;8;1330;-2;Men
+2698;Lucas Cohen Bacrie;8;1330;-2;Men
+2699;Federico Sferco;8;1330;-2;Men
+2700;Fernando Juan Tous Gelabert;8;1330;-2;Men
+2701;Jorge Ortigosa Martin;8;1330;-2;Men
+2702;Isa Albinali;8;1330;-2;Men
+2703;Dhanush Gowda;8;1330;-2;Men
+2704;Saska Huttunen;8;1330;-2;Men
+2705;Eskar Revilla;8;1330;-2;Men
+2706;Saul Serna Rafael;8;1330;-53;Men
+2707;Antoine Leo Gontard;8;1330;-2;Men
+2708;Ludovic Cancel;8;1330;-2;Men
+2709;Nawaf Alkhayyat;8;1330;-2;Men
+2710;Anthony Hok Yin Lau;8;1330;-2;Men
+2711;Jeremias Rufino;8;1330;-2;Men
+2712;Vinay Kothari Kotha;8;1330;-2;Men
+2713;Cristian Daniel Ozan;8;1330;-2;Men
+2714;Dean Georgiu;8;1330;-2;Men
+2715;Hector Rapallo Nuñez;8;1330;1385;Men
+2716;Jacobo Blanco;8;1330;-2;Men
+2717;Bourahli Djemel;8;1330;-2;Men
+2718;Axel Scheistel;8;1330;-2;Men
+2719;Ronald Osmar Rolandi;8;1330;-2;Men
+2720;Adil Yeltayev;8;1330;-2;Men
+2721;Ricard Manchon Zugasti;8;1330;-2;Men
+2722;Joao Vicente Fonte;8;1330;-2;Men
+2723;Mauricio Rivera Caballero;8;1330;-2;Men
+2724;Agustin Hernandez;8;1330;-2;Men
+2725;Dimitris Chalavazis;8;1330;-2;Men
+2726;Yassin Daadour;8;1330;-2;Men
+2727;Daniil Anisimov;8;1330;-2;Men
+2728;Jan Cano Felix;8;1330;-131;Men
+2729;Ghaddar Nael;8;1330;-2;Men
+2730;Joel Losana;8;1330;-2;Men
+2731;Alessandro Volpin;8;1330;-2;Men
+2732;Jesus Rico Hontoria;8;1330;-2;Men
+2733;Carlos Gilabert Mulet;8;1330;-2;Men
+2734;Carlos Eugenio Barrera;8;1330;-2;Men
+2735;Luis Guzman;8;1330;-2;Men
+2736;Aaron Lewis Joseph Besnainou;8;1330;-2;Men
+2737;Manuel Begines Calvo;8;1330;-2;Men
+2738;Cayetano Rocafort Lores;8;1330;-2;Men
+2739;Lorenzo Aste;8;1330;-2;Men
+2740;Marcos Galan Zori;8;1330;-2;Men
+2741;Linus Isaksson;8;1330;-2;Men
+2742;Ignacio Alejandro Opazo Ortega;8;1330;-2;Men
+2743;Tobias Raffaele;8;1330;-2;Men
+2744;Joel Rubio Moreno;8;1330;-2;Men
+2745;Diego Garcia Villalobos Blanco;8;1330;-2;Men
+2746;Kwok Kee Chu;8;1330;-2;Men
+2747;Guillermo Demianiuk Carou;8;1330;-2;Men
+2748;Johan Peloux Marchini;8;1330;-2;Men
+2749;Alejandro Diaz Estupiñan;8;1330;-2;Men
+2750;Raoul Teroy;8;1330;-2;Men
+2751;Joshua Benjamin Van Rensburg;8;1330;-2;Men
+2752;Anastasios Kourepinis;8;1330;-2;Men
+2753;David Saintot;8;1330;-2;Men
+2754;Gerard Sola Grau;8;1330;-2;Men
+2755;Filip Olech;8;1330;-2;Men
+2756;Jeremy Charton;8;1330;-2;Men
+2757;Juan Calleja Periset;8;1330;-2;Men
+2758;Johan Fors;8;1330;-2;Men
+2759;Charlie Andrews;8;1330;-2;Men
+2760;Ashfaq Ahmed;8;1330;-2;Men
+2761;Ali Alarif;8;1330;-2;Men
+2762;Oussama Zebakh Laakel;8;1330;-2;Men
+2763;Rodrigo Banzer;8;1330;-2;Men
+2764;Felipe Baraçal;8;1330;-2;Men
+2765;Ziad Barakat;8;1330;-2;Men
+2766;Eduardo Nieto De Orduña;8;1330;-2;Men
+2767;Joan Fede;8;1330;-2;Men
+2768;Adrian Yew Hock;8;1330;-2;Men
+2769;Shubham Sharma;8;1330;-2;Men
+2770;Jorge Chacon Sanz;8;1330;-2;Men
+2771;Marcos Alejo Mardones;8;1330;-2;Men
+2772;Riccardo Chiaradia;8;1330;-2;Men
+2773;Afonso Quentin;8;1330;-2;Men
+2774;Tomas Javier Poblaciones Soto;8;1330;-2;Men
+2775;Maxime Poitevin;8;1330;-2;Men
+2776;Renzo Del Bue;8;1330;-2;Men
+2777;Nelson Dario Gutierrez;8;1330;-2;Men
+2778;Deepak Arora;8;1330;-2;Men
+2779;Ramazan Yessengeldinov;8;1330;-2;Men
+2780;Mathias Gavelin;8;1330;-2;Men
+2781;Juuso Tapanainen;8;1330;-2;Men
+2782;Miguel Briega Ramos;8;1330;-2;Men
+2783;Leon Ortega Ibanez;8;1330;-2;Men
+2784;Hami Golestan;8;1330;-2;Men
+2785;Manuel Jesús Fernández Prieto;8;1330;-2;Men
+2786;Pyry Hyrkkönen;8;1330;-2;Men
+2787;Franklin Ovalles;8;1330;-2;Men
+2788;Sebastian Molina;8;1330;-2;Men
+2789;Arturo Cejas;8;1330;-2;Men
+2790;Georgios Tofinis;8;1330;-2;Men
+2791;Janne Wuorinen;8;1330;-2;Men
+2792;Luke Power;8;1330;-2;Men
+2793;Ruben Alamo Cruz;8;1330;-2;Men
+2794;Luke Gomes;7;1477;-6;Men
+2795;Francisco Lihuel Acosta;7;1477;-6;Men
+2796;Sergey Yelnik;7;1477;-6;Men
+2797;Sherif Khattab;7;1477;-6;Men
+2798;Ivan Lopez Muñoz;7;1477;-6;Men
+2799;Gilles Stas;7;1477;-6;Men
+2800;Oscar Camacho Ortiz;7;1477;-6;Men
+2801;Pablo Avina;7;1477;0;Men
+2802;Erik Paljakka;7;1477;-6;Men
+2803;Mariano Danei Linaza;7;1477;-6;Men
+2804;Agustin Maximiliano Parisi;7;1477;-6;Men
+2805;Juan Ramon Peña Soto;7;1477;-6;Men
+2806;Savvas Papadopoulos;7;1477;-6;Men
+2807;Simon Garforth-Bles;7;1477;-6;Men
+2808;George Argyrou;7;1477;-6;Men
+2809;Alessandro Ciaccia;7;1477;-6;Men
+2810;Jimmy Barbieux;7;1477;-6;Men
+2811;Andreas Stavrou;7;1477;-6;Men
+2812;Pedro Bosio Fuentes;7;1477;-6;Men
+2813;Junhao Zhang;7;1477;-6;Men
+2814;Martim Sousa;7;1477;-6;Men
+2815;Andrew Brigham;7;1477;-6;Men
+2816;Pedro Vera;7;1477;-6;Men
+2817;Yixin Yang;7;1477;-6;Men
+2818;Bassel Guindi;7;1477;-6;Men
+2819;Francisco Goncalves Da Silva;7;1477;-6;Men
+2820;Titouan Sarrat;7;1477;-6;Men
+2821;Ningwei Yang;7;1477;-6;Men
+2822;Nawaf Alsaeed;7;1477;-6;Men
+2823;Konstantinos Machattos;7;1477;-6;Men
+2824;Ivo Rodrigues;7;1477;-6;Men
+2825;Guilherme Alves;7;1477;-6;Men
+2826;Yuanqin Du;7;1477;-6;Men
+2827;Pedro Parada;7;1477;-6;Men
+2828;Jesus Alvarez Hornillo;7;1477;-6;Men
+2829;Nick Merten;7;1477;-6;Men
+2830;Marcelo Espinosa Garrido;7;1477;-6;Men
+2831;David Torregrosa Baena;7;1477;-6;Men
+2832;Gustavo Santos;7;1477;-6;Men
+2833;Daniel Domenech;7;1477;-6;Men
+2834;Hugo Caparros Basterra;7;1477;-6;Men
+2835;Joao Gabriel Acunha;7;1477;-6;Men
+2836;Raul Rodriguez Fuentes;7;1477;-6;Men
+2837;Alexey Abazov;7;1477;-6;Men
+2838;Sarcuto Pompeo;7;1477;-6;Men
+2839;Parker Rhodes;7;1477;-6;Men
+2840;Valentin San Juan;7;1477;-6;Men
+2841;Mikael Martikainen;6;1527;-5;Men
+2842;Oliver Koch;6;1527;-5;Men
+2843;Guangmin Ma;6;1527;-5;Men
+2844;Pablo Burdeos Larruy;6;1527;-5;Men
+2845;Jerome Peeters;6;1527;-56;Men
+2846;Simone Codovini;6;1527;-5;Men
+2847;Gerry Gunawan Saputra;6;1527;-5;Men
+2848;Nicolas Trancart;6;1527;-5;Men
+2849;Juan Vicente Alcala;6;1527;-5;Men
+2850;Pablo Gabilondo;6;1527;-5;Men
+2851;Lykle Roosjen;6;1527;-5;Men
+2852;Hugo Cazaban;6;1527;-5;Men
+2853;Guillermo Ibañez Delgado;6;1527;-5;Men
+2854;Florent Prelot;6;1527;-5;Men
+2855;Adam Whiting;6;1527;-5;Men
+2856;Victor Macchiavello Karmy;6;1527;-5;Men
+2857;Juan Ramirez Prieto;6;1527;-5;Men
+2858;Karl-Johan Mattsson;6;1527;-5;Men
+2859;Tomas Youlton Cerda;6;1527;-5;Men
+2860;Talal Mohsen El Shaarani;6;1527;-5;Men
+2861;Alejandro Ruben Kania Flores;6;1527;-5;Men
+2862;Isidro Tormos Carrascosa;6;1527;-5;Men
+2863;Javier Mora Cuart;6;1527;-5;Men
+2864;Alan Brinol;6;1527;-5;Men
+2865;Alejo Gabriel Stella;6;1527;-5;Men
+2866;Adrian Mayor Pastor;6;1527;-5;Men
+2867;Liam De La Mare;6;1527;-5;Men
+2868;Jaouad Zoubaa;6;1527;-5;Men
+2869;Hamad Alkokhardi;6;1527;-5;Men
+2870;Martin Materassi;6;1527;-5;Men
+2871;Ahmed Nooruddin;6;1527;-5;Men
+2872;Augusto Cornejo;6;1527;-5;Men
+2873;Jason Kostaridis;6;1527;-5;Men
+2874;Ilya Grinshteyn;6;1527;-5;Men
+2875;Tommaso Rivellini;6;1527;-5;Men
+2876;Jarno Kevarinmäki;6;1527;-5;Men
+2877;Rodolphe Lonjaret;6;1527;-5;Men
+2878;Hing Lung Weldon Chan;6;1527;-5;Men
+2879;Diego Benito;6;1527;-5;Men
+2880;Jorge Asencio Ambrona;6;1527;-5;Men
+2881;Jaime Esteve Medina;6;1527;-5;Men
+2882;Pablo Calleja Pulido;6;1527;-5;Men
+2883;Daniel Saavedra Ortega;6;1527;-5;Men
+2884;Hugo Houedessou;6;1527;-5;Men
+2885;Yuanjia Ding;6;1527;-5;Men
+2886;Kiril Dimitrov;6;1527;-5;Men
+2887;Alvaro Matador Garcia De Vinuesa;6;1527;-5;Men
+2888;Mario Rodriguez Garcia;6;1527;-5;Men
+2889;Mehdi Ketfi;6;1527;-5;Men
+2890;Rudinei Kalil;6;1527;-5;Men
+2891;Eduardo Saratt;6;1527;-5;Men
+2892;Eduardo Castillo;6;1527;-5;Men
+2893;Raul Jerez Miranda;6;1527;-5;Men
+2894;Alex Cinca Hernandez;6;1527;-5;Men
+2895;Pedro Garcia;6;1527;-5;Men
+2896;Pablo Muñoz Garcia;6;1527;-5;Men
+2897;Fahad Alhooli;6;1527;-5;Men
+2898;Sebastian Wade;6;1527;-5;Men
+2899;Oscar Vazquez Fernandez;6;1527;-5;Men
+2900;Matteo Viviano;6;1527;-5;Men
+2901;Marcos Antonio Cheung Modesto;6;1527;-5;Men
+2902;Daniele Galloppa;6;1527;-5;Men
+2903;Arthaud Dumoulin;6;1527;-5;Men
+2904;Emilis Jaskunas;6;1527;-5;Men
+2905;Lazaro Leite;6;1527;-5;Men
+2906;Manuel Avina;6;1527;-5;Men
+2907;Dimitris Skalidakis;6;1527;-5;Men
+2908;Francois Castejon;6;1527;-5;Men
+2909;Saul Verdugo;6;1527;-5;Men
+2910;Federico Di Giuseppe;6;1527;-5;Men
+2911;Alejandro Canovas Ferrando;6;1527;-5;Men
+2912;Gabriele De Angelis;6;1527;-5;Men
+2913;Hallak Hussein;6;1527;-5;Men
+2914;David Gomez Fernandez;6;1527;-5;Men
+2915;Hussein Hallal;6;1527;-5;Men
+2916;Federico Nicolas Galarza;6;1527;-5;Men
+2917;Ali Alasfoor;6;1527;-5;Men
+2918;Armando Emilio Moya;6;1527;-5;Men
+2919;Andrew Ma;5;1616;-1;Men
+2920;Anselmo Guerrero Alvarez;5;1616;-1;Men
+2921;Dante Gustavo Luchetti;5;1616;-1;Men
+2922;Lucas De La Rosa Brotons;5;1616;-1;Men
+2923;Hasan Alqattan;5;1616;-1;Men
+2924;Riccardo Menon;5;1616;-1;Men
+2925;Roland Kosche;5;1616;-1;Men
+2926;David Daniel;5;1616;-1;Men
+2927;Ferran Bueno Gomez;5;1616;-1;Men
+2928;Yuliang Yan;5;1616;-1;Men
+2929;Abdulla Mohamed Ahmed Mohamed;5;1616;-1;Men
+2930;Yuen Hong Yau;5;1616;-1;Men
+2931;Rashid Walid;5;1616;-1;Men
+2932;Leandro Favoretto;5;1616;-1;Men
+2933;Thomas Barateau;5;1616;-1;Men
+2934;Silviu Mircea Popescu;5;1616;-1;Men
+2935;Jason Tamayo;5;1616;-1;Men
+2936;Josue Pazos Galeote;5;1616;-1;Men
+2937;Sergio Mauricio Herrera;5;1616;-1;Men
+2938;Alvaro Padilla;5;1616;-1;Men
+2939;Antonio Atencia Urbaneja;5;1616;-1;Men
+2940;Andreas Martell Beuzit;5;1616;-1;Men
+2941;Juan Jose Iguaran Melo;5;1616;-1;Men
+2942;Francisco Javaloy;5;1616;-1;Men
+2943;Alejandro Montesdeoca Afonso;5;1616;-1;Men
+2944;Daniel Lingen;5;1616;-1;Men
+2945;Shaun Leagas;5;1616;-1;Men
+2946;Pierluigi Musiari;5;1616;-1;Men
+2947;Adel Mahmoud Elsahn;5;1616;-1;Men
+2948;Henrik Sillanpää;5;1616;-1;Men
+2949;Hadi Hadi;5;1616;-1;Men
+2950;Manuel Arrizabalaga Eugenio;5;1616;-1;Men
+2951;Pedro Salas;5;1616;-1;Men
+2952;Muddassir Hussain;5;1616;-1;Men
+2953;Witold Konopko;5;1616;-1;Men
+2954;Galien Devillers;5;1616;-1;Men
+2955;Fernando Serrano Gonzalez;5;1616;-1;Men
+2956;Ahmed Alfedhala;5;1616;-1;Men
+2957;Anthony Maury;5;1616;-1;Men
+2958;Matias Angel Paredes;5;1616;-1;Men
+2959;Kashyap Ashok;5;1616;-1;Men
+2960;Luan Krige;5;1616;-1;Men
+2961;Till Gygax;5;1616;-1;Men
+2962;David Tudela;5;1616;-1;Men
+2963;Jeremy Garcia;5;1616;-1;Men
+2964;Marcelo Antonio Godoy;5;1616;-1;Men
+2965;Tommaso Forini;5;1616;-1;Men
+2966;Diego Garcia;5;1616;-1;Men
+2967;Lucas Perez Marin;5;1616;-1;Men
+2968;Rafael Vega Otaolaurruchi;5;1616;-1;Men
+2969;Osvaldo Estevanez Jimenez;5;1616;-1;Men
+2970;Jad Slaibi;5;1616;-1;Men
+2971;Felipe Furghestti;5;1616;-1;Men
+2972;Aryan Hemdev;5;1616;-1;Men
+2973;Oscar Bazaley;5;1616;783;Men
+2974;Guillem Gañan Alegre;5;1616;-1;Men
+2975;Francisco Cunietti;5;1616;-1;Men
+2976;Agustin Garcia Carabasa;5;1616;-1;Men
+2977;Antonio Gallego;5;1616;-1;Men
+2978;Meiram Zhardayev;5;1616;-1;Men
+2979;Domenico Cutuli;5;1616;-1;Men
+2980;Sebastian Santibanez;5;1616;-1;Men
+2981;Samuel Alos Boal;5;1616;-1;Men
+2982;Marcos Sanchez Pestaña;5;1616;-1;Men
+2983;Marcio Andre Crizel;5;1616;-1;Men
+2984;Ahmed Mohamed;5;1616;-1;Men
+2985;Simonas Zukauskas;5;1616;-1;Men
+2986;Lenon Flain;5;1616;-1;Men
+2987;Melik Feler;5;1616;-1;Men
+2988;Nick Faessen;5;1616;-1;Men
+2989;Diego Lopez Aviles;5;1616;-1;Men
+2990;Jorge Catalan Zamorano;5;1616;-1;Men
+2991;Carlos Malia;5;1616;-1;Men
+2992;Riaz Ravate;5;1616;-1;Men
+2993;Anton Mickelsson;5;1616;-1;Men
+2994;Diib Peruzzi Hammad;5;1616;-1;Men
+2995;Hector Pino;5;1616;-1;Men
+2996;Manuel Bragança;5;1616;-1;Men
+2997;Jeremias Pucheta;5;1616;-1;Men
+2998;Shankai Guo;5;1616;-1;Men
+2999;Ari Amsellem;5;1616;-1;Men
+3000;Javier Reyes Gonzalez;5;1616;-1;Men
+3001;Daniel Benz;5;1616;-1;Men
+3002;Tiger Bitanga;5;1616;-1;Men
+3003;Pablo Andres Toro Loaiza;5;1616;-1;Men
+3004;Omar Esperon Acuna;5;1616;-1;Men
+3005;Vittorio Mascarello;5;1616;-1;Men
+3006;Joao Vinagre;5;1616;-1;Men
+3007;Gabriele Ciampichetti;5;1616;-1;Men
+3008;Nauzet Rafael Guedes Hernandez;5;1616;-1;Men
+3009;Daniel Concepcion Vaquer;5;1616;-1;Men
+3010;Hector Ruiz Cadenas;5;1616;-1;Men
+3011;Andrea Giarrusso;5;1616;-1;Men
+3012;Jiabao Guo;5;1616;-1;Men
+3013;Hugo Sihr;5;1616;-1;Men
+3014;Chenhao He;5;1616;-1;Men
+3015;Bernard Quentin;5;1616;-1;Men
+3016;Petr Maltsev;5;1616;-1;Men
+3017;Germano Giacalone;5;1616;-1;Men
+3018;Lucas De Souza Teixeira;5;1616;-1;Men
+3019;Pablo Carretero;5;1616;-1;Men
+3020;Divyang Kumar;5;1616;-1;Men
+3021;Francisco Mendieta Ruiz;5;1616;0;Men
+3022;Acoran Martin;5;1616;-1;Men
+3023;Mark Bogatyrenko;5;1616;-1;Men
+3024;Christopher Koutrouzas;5;1616;-1;Men
+3025;Denis Ignacio Caluva;5;1616;-1;Men
+3026;Carlos Gimeno Valero;5;1616;-1;Men
+3027;Lalloum Sonny;5;1616;-1;Men
+3028;Nicolas Saracho;5;1616;-1;Men
+3029;Carlos Enrique Diaz Otero Lopez;5;1616;-1;Men
+3030;Abdulla Almehza;5;1616;-1;Men
+3031;Santiago Veglia;5;1616;-1;Men
+3032;Lucien Van Doorn;5;1616;-1;Men
+3033;Anton Gora;5;1616;-1;Men
+3034;Mariano Nicolas Lopez;5;1616;-1;Men
+3035;Riccardo Minighini;5;1616;-1;Men
+3036;Romain Lavit;5;1616;-1;Men
+3037;Nicolas Lujan Castaneda;5;1616;-1;Men
+3038;Alex Escamilla Pueyo;5;1616;-1;Men
+3039;Hao Li;5;1616;-1;Men
+3040;Andres Izurieta;5;1616;-1;Men
+3041;Benjamin Palm;5;1616;-1;Men
+3042;Marc Casals Roige;5;1616;-1;Men
+3043;Abdalla Erfan;5;1616;-1;Men
+3044;Omar Ezzat;5;1616;-1;Men
+3045;Pablo Jiménez-Blanco bravo;5;1616;-1;Men
+3046;Maicol Cabrera Perez;5;1616;-1;Men
+3047;Javier Bandera Galisteo;5;1616;-1;Men
+3048;Werner Lootsma;5;1616;-1;Men
+3049;Berro Khodr Karim;5;1616;-1;Men
+3050;Alex Rodriguez Tuch;5;1616;-1;Men
+3051;Ilan Conan;5;1616;-1;Men
+3052;Juan Pablo Chavez Valdes;5;1616;-1;Men
+3053;Leandro Javier Roldan;5;1616;-1;Men
+3054;Alvaro Velasco Palma;5;1616;-1;Men
+3055;Andres Valenzuela;5;1616;-1;Men
+3056;Jurie Johannes Ingram;5;1616;-1;Men
+3057;Chris Da Cruz Pereira;5;1616;-1;Men
+3058;Alberto Franco Villaran;5;1616;-1;Men
+3059;David Payet;5;1616;-1;Men
+3060;Daniel Hinojosa Arroyo;5;1616;-1;Men
+3061;Javier Bravo Alvarez;5;1616;-1;Men
+3062;Hugo Martinez Toral;5;1616;-1;Men
+3063;Baorong Zhang;5;1616;-1;Men
+3064;Muhamad Zaid Patel;5;1616;-1;Men
+3065;Karan Ramchandani;5;1616;-1;Men
+3066;Daniyar Sherkan;5;1616;-1;Men
+3067;Jan Reyzon Amondoron;5;1616;-1;Men
+3068;Amerikos Argyriou;5;1616;-1;Men
+3069;German Jesus Clavijo Ortiz;5;1616;-1;Men
+3070;Pablo Herreros;5;1616;-1;Men
+3071;Vicente Pinochet Gorichon;5;1616;-1;Men
+3072;Cheng Yong Wang;5;1616;-1;Men
+3073;Antonio Ramírez Muñoz;5;1616;-1;Men
+3074;Santiago Gonzalez;5;1616;-1;Men
+3075;Raul Harjani Sajnani;5;1616;-1;Men
+3076;Felipe Urrutia;5;1616;-1;Men
+3077;Yuri Nath;5;1616;-1;Men
+3078;Chan Marco Kwun Nam;5;1616;-1;Men
+3079;Jason Hewitt;5;1616;-1;Men
+3080;Jose Laurenti;5;1616;-1;Men
+3081;Augusto Romero Lang;5;1616;-1;Men
+3082;Marcelo Kieffer Luiz;5;1616;-1;Men
+3083;Elliot Selby;5;1616;-1;Men
+3084;Seif Elkhayat;5;1616;-1;Men
+3085;Christian Ventura;5;1616;0;Men
+3086;Nicolas Garcia Perez;5;1616;-1;Men
+3087;Lalloum Lyrone;5;1616;-1;Men
+3088;Kevin Gomez;5;1616;-1;Men
+3089;Agustin Perez;5;1616;-1;Men
+3090;Bruno Nakid;5;1616;-1;Men
+3091;Bristan Bogdan-Alin;5;1616;-1;Men
+3092;Alejandro Wesbrooks;5;1616;-1;Men
+3093;Pablo González Díaz;5;1616;-1;Men
+3094;Felipe Braga Jorge;5;1616;-1;Men
+3095;Rishi Reddy;5;1616;-1;Men
+3096;Qiu Anan;5;1616;-1;Men
+3097;Christos Asimakopoulos;5;1616;-1;Men
+3098;Juan Cruz Bordoli;5;1616;-1;Men
+3099;Damien Bayard;5;1616;-1;Men
+3100;Yikai Wang;5;1616;-1;Men
+3101;Javier Serrats;5;1616;-1;Men
+3102;Luca Maria Laguzza;5;1616;-1;Men
+3103;Angel Deza Torrecilla;5;1616;-1;Men
+3104;Fanrizio Fioretti;5;1616;-1;Men
+3105;Steven Loock;5;1616;-1;Men
+3106;George Tsirigotis;5;1616;-1;Men
+3107;Jaime Menendez;5;1616;-1;Men
+3108;Philipp Grechukha;5;1616;-1;Men
+3109;Addison Baptistella;5;1616;-1;Men
+3110;Christian Ramos Abad;5;1616;-1;Men
+3111;Federico Ciriello;5;1616;-1;Men
+3112;Kohei Hisatome;5;1616;-1;Men
+3113;Zhijun Mu;5;1616;-1;Men
+3114;Arata Saito;5;1616;-1;Men
+3115;Xusheng Wang;5;1616;-1;Men
+3116;Cenith Adrian Castillo Chavez;5;1616;-1;Men
+3117;Javier Hazouri Celorio;5;1616;-1;Men
+3118;Ziguang Song;5;1616;-1;Men
+3119;Isa Alqattan;5;1616;-1;Men
+3120;Leandro Honorato;5;1616;-1;Men
+3121;Cleiton Brustulin;5;1616;-1;Men
+3122;Nicolas De Marco;5;1616;-1;Men
+3123;Arthur De Greef;5;1616;-1;Men
+3124;Klim Kozyrev;5;1616;-1;Men
+3125;Valentin Volpe Bravo;5;1616;-1;Men
+3126;Jose Daniel Sanchez Pardo;5;1616;-1;Men
+3127;Eliott Verraghen;5;1616;-1;Men
+3128;Santiago Carmona Vidal;5;1616;-1;Men
+3129;Harry Jiggins;5;1616;-1;Men
+3130;Franco Emanuel Rios Duarte;5;1616;-1;Men
+3131;Paulius Matulevicius;5;1616;-1;Men
+3132;Gustav Hefer;5;1616;-1;Men
+3133;Iker Rodriguez Soto;5;1616;-1;Men
+3134;Roque Silveira;5;1616;-1;Men
+3135;Sai Krishna Showrya Tirnati;5;1616;-1;Men
+3136;Alvaro Alcalde Sanchez;5;1616;-1;Men
+3137;Sebastian Chylinski;5;1616;-1;Men
+3138;Kazuki Shimizu;5;1616;-1;Men
+3139;Aitor Rodriguez Rodriguez Manzaneque;5;1616;-1;Men
+3140;Aurelio De Diego Barrera;5;1616;-1;Men
+3141;Sergei Poliakov;5;1616;-1;Men
+3142;Nurzhan Saidakhmet;5;1616;-1;Men
+3143;Nam Nguyen;5;1616;-1;Men
+3144;Dario Donati;5;1616;-1;Men
+3145;Kunal Chadha;5;1616;-1;Men
+3146;Filippo Necchi;5;1616;-1;Men
+3147;Thomas Deschamps;5;1616;-1;Men
+3148;Sebastian Brokmann;5;1616;-1;Men
+3149;Omar Qaed;5;1616;-1;Men
+3150;Mark Giulio Menotti;5;1616;0;Men
+3151;Xavier Beneito Molina;5;1616;-1;Men
+3152;Maxim De Peuter;5;1616;-1;Men
+3153;Alex Leira Gavilán;5;1616;-1;Men
+3154;Wanbin Li;5;1616;-1;Men
+3155;Hugo Jay;5;1616;-1;Men
+3156;Louis De Rouck;5;1616;-1;Men
+3157;Adrian Gerardo Daus;5;1616;-1;Men
+3158;Jorge Sanchez Marquez;5;1616;-1;Men
+3159;Bruno Alfaro;5;1616;-1;Men
+3160;Omar Bahrouzyan;5;1616;-1;Men
+3161;Gabriel Pontiz;5;1616;-1;Men
+3162;Iker Jimenez Figuerola;5;1616;-1;Men
+3163;Manuel Jesus Arias Ortiz;5;1616;-1;Men
+3164;Joris Zumelzu;5;1616;-1;Men
+3165;Yi Feng;5;1616;-1;Men
+3166;Yuanzhi Pang;5;1616;-1;Men
+3167;Kobe Cuppens;5;1616;-1;Men
+3168;Francisco Jose Escalante;5;1616;-1;Men
+3169;Daniel Koehler;5;1616;-1;Men
+3170;Sameer Varun Reddy Sivareddy;5;1616;-1;Men
+3171;Jorge Marcelo Daud;5;1616;-1;Men
+3172;David Lopez Cruz;5;1616;-1;Men
+3173;Pablo Tejero Delgado;5;1616;-1;Men
+3174;Hugo Olivier;5;1616;-1;Men
+3175;Anshuman Rath;5;1616;-1;Men
+3176;Evert Verbesselt;5;1616;-1;Men
+3177;Jiahao Dong;5;1616;-1;Men
+3178;Michal Wargocki;5;1616;-1;Men
+3179;Raul Medina Rico;5;1616;-1;Men
+3180;Bruno Perescu;5;1616;-1;Men
+3181;James Southwood;5;1616;-1;Men
+3182;Sergio Merchán González;5;1616;-1;Men
+3183;Thomas Cartledge;5;1616;-1;Men
+3184;Enzo Correia;5;1616;-1;Men
+3185;Yorgo Molina Pizarro;5;1616;-1;Men
+3186;Mahmoud Koronfiely;5;1616;-1;Men
+3187;Lautaro Angelini;5;1616;-1;Men
+3188;Rodrigo Amaral;5;1616;-1;Men
+3189;Riyaadh Farid Motani;5;1616;-1;Men
+3190;Khalifa Rashdan;5;1616;-1;Men
+3191;Craig De Silva;5;1616;-1;Men
+3192;Cheevan Davids;5;1616;-1;Men
+3193;Juan Manuel Vergara;5;1616;-1;Men
+3194;Zaizhen Li;5;1616;-1;Men
+3195;Simone Setti;5;1616;-1;Men
+3196;Antoni Pi Alarcon;5;1616;0;Men
+3197;Luis Vilchez Trapero;5;1616;-1;Men
+3198;Noel Antonio Agra;5;1616;-1;Men
+3199;Wuyingjun Wu;5;1616;-1;Men
+3200;Romà Busquets Picañol;5;1616;-1;Men
+3201;Arturo Sosa;5;1616;-1;Men
+3202;Mattia Faseli;5;1616;-1;Men
+3203;Agustin Ignacio Collosso;5;1616;-1;Men
+3204;Yuki Iwamoto;5;1616;-1;Men
+3205;Philippos Andreou Fernandez;5;1616;-1;Men
+3206;Franco Saenz;5;1616;-1;Men
+3207;Julien Motz;5;1616;-1;Men
+3208;Ziad Sherif Hussein;5;1616;-1;Men
+3209;Salvador Simões;5;1616;-1;Men
+3210;Daniel Alberto Chelar;5;1616;-1;Men
+3211;Nicolas Cortijo Sanchez;5;1616;-1;Men
+3212;Juan Ramiro Irigoitia;5;1616;-1;Men
+3213;Alejandro Basso;5;1616;0;Men
+3214;Samar Malhotra;5;1616;-1;Men
+3215;Adarsh Kontham;5;1616;-1;Men
+3216;Javier Rodriguez Acosta;5;1616;-1;Men
+3217;Jerome Inzerillo;5;1616;-417;Men
+3218;Valentin Wenger;5;1616;-1;Men
+3219;William Agritelley;5;1616;-1;Men
+3220;Lucian Eugen Perescu;5;1616;-1;Men
+3221;Oskar Nurmio;5;1616;-1;Men
+3222;Igor Souto;5;1616;-1;Men
+3223;Guilherme Fachin Da Cunha;5;1616;-1;Men
+3224;Alvaro Cañasveras Boza;5;1616;-1;Men
+3225;Oscar Govik;5;1616;-1;Men
+3226;Sebastiao Mendonça;5;1616;-1;Men
+3227;Nick Braet;4;1974;-7;Men
+3228;Alberto Moreno Andrei;4;1974;-7;Men
+3229;Charles Desmet;4;1974;0;Men
+3230;Abdulrahman Alyafei;4;1974;-7;Men
+3231;Raul Pérez Lozano;4;1974;-7;Men
+3232;Joshua Kashdan;4;1974;-359;Men
+3233;Marcos Diaz De La Lastra;4;1974;-7;Men
+3234;Bastian Dario Barrueto Marzan;4;1974;-7;Men
+3235;Andrea Rosa Fauzza;4;1974;-7;Men
+3236;Yuta Ichikawa;4;1974;-7;Men
+3237;Enzo Fuentealba;4;1974;-7;Men
+3238;Martim Silva;4;1974;-7;Men
+3239;Sattam Alshahrani;4;1974;-7;Men
+3240;Iker Zamora Garcia;4;1974;-7;Men
+3241;Jose Ariel Rivera Puebla;4;1974;-7;Men
+3242;Diego Pedrero;4;1974;-7;Men
+3243;Jassim Alharami;4;1974;-7;Men
+3244;Benjamin Benavente;4;1974;-7;Men
+3245;Pablo Manuel Diaz Weisser;4;1974;-7;Men
+3246;Alfonso Chavez Canales;4;1974;-7;Men
+3247;Luciano Miguel Piñero;4;1974;-7;Men
+3248;Brian Cabrera;4;1974;-7;Men
+3249;Sergio Cornejo Valenzuela;4;1974;-7;Men
+3250;Michel Diniz;4;1974;-7;Men
+3251;Weiliang Chen;4;1974;-7;Men
+3252;Rio Hanif;4;1974;-7;Men
+3253;Abdulla Alsada;4;1974;-7;Men
+3254;Ali Attiie;3;2001;-6;Men
+3255;Bob Rolink;3;2001;-6;Men
+3256;Biel Camacho Serra;3;2001;-6;Men
+3257;Michael Leonard Sungkono;3;2001;-6;Men
+3258;Carlos Pena Rodriguez;3;2001;-6;Men
+3259;Fritz Chris Verdad;3;2001;-6;Men
+3260;Weston Wai Ming Yu;3;2001;-6;Men
+3261;Giorgio Soemarno;3;2001;-6;Men
+3262;Mathias Gonzalez Lambert;3;2001;-6;Men
+3263;Carlos Mackenna Muñoz;3;2001;-6;Men
+3264;Ruchir Mahajan;3;2001;-6;Men
+3265;Mohammed Almannai;3;2001;-6;Men
+3266;Rassulov Nabi;3;2001;-6;Men
+3267;Evgeny Korotaev;3;2001;-6;Men
+3268;Justus Ranta;3;2001;-6;Men
+3269;Jorge Gabriel Rosales Castro;3;2001;-6;Men
+3270;Facundo Quiroga;3;2001;-6;Men
+3271;Craig Stewart;3;2001;-6;Men
+3272;Shinnosuke Nakamura;3;2001;-6;Men
+3273;Angelos Vlatakis;3;2001;-6;Men
+3274;Milton Jonsson;3;2001;-6;Men
+3275;Siraj Choukair;3;2001;-6;Men
+3276;Silvestre Paris;3;2001;0;Men
+3277;Hans Van Der Meulen;3;2001;398;Men
+3278;Basem Alsharji;3;2001;-6;Men
+3279;Alfredo Miranda;3;2001;-6;Men
+3280;Thiago Mayerna;3;2001;-6;Men
+3281;Cole Fiegel;3;2001;-6;Men
+3282;Lucas Miguel Caceres Rodriguez;3;2001;-6;Men
+3283;David Ibañez Martinez;3;2001;-6;Men
+3284;Mark Veldmate;3;2001;-6;Men
+3285;Arya Ashok;3;2001;-6;Men
+3286;Aleksei Golovachev;3;2001;-6;Men
+3287;Clemente Vasquez Gonzalez;3;2001;-6;Men
+3288;Ignacio Arias Quintana;3;2001;-6;Men
+3289;Miguel Rodriguez Revillas;3;2001;-6;Men
+3290;Takafumi Tominaka;3;2001;-6;Men
+3291;Gonzalo Ferrero Bayarri;3;2001;-6;Men
+3292;Andres Blancas Olvera;3;2001;-6;Men
+3293;Christopher Stanford;3;2001;-6;Men
+3294;Johannes Christiaan Pieterse;3;2001;-6;Men
+3295;Jerry Johan Echter;3;2001;-6;Men
+3296;Niccolò Abbrescia;3;2001;-6;Men
+3297;Thomas Reynolds;3;2001;-6;Men
+3298;Ryan Rymarczyk;3;2001;-6;Men
+3299;Zhansultan Chembotayev;3;2001;-6;Men
+3300;Enrique Cepas;3;2001;-6;Men
+3301;Paolo Trabalza;3;2001;-6;Men
+3302;Dado Dietel;3;2001;-6;Men
+3303;Abdulrahman Janahi;3;2001;-6;Men
+3304;Burzio Matteo;3;2001;-6;Men
+3305;Miguel Ángel Medina Mateu;3;2001;-6;Men
+3306;Marcelo Ignacio Plaza Valenzuela;3;2001;-6;Men
+3307;Gilang Mahendra;3;2001;-6;Men
+3308;Evangelos Bogris;3;2001;-6;Men
+3309;Wiggo Johansson;3;2001;-6;Men
+3310;Radu Traian Ionescu;3;2001;-6;Men
+3311;Salman Alkhalifa;3;2001;-6;Men
+3312;Famaz Shanavas;3;2001;-6;Men
+3313;Kevin Romero Bocanegra;3;2001;-6;Men
+3314;Felipe Jose Villaça;3;2001;-6;Men
+3315;Yuhui Wang;3;2001;-6;Men
+3316;Antonios Markantonakis;3;2001;-6;Men
+3317;Ekaitz Gorostiaga;3;2001;-6;Men
+3318;Marcos Moreno;3;2001;-6;Men
+3319;Jeremie Euphrasie;3;2001;-6;Men
+3320;Agustin Cervera Valdivieso;3;2001;-6;Men
+3321;Noah Robert;3;2001;-6;Men
+3322;Lucas Benjamin Falco;3;2001;-6;Men
+3323;Iker Rabinad Vila;3;2001;-6;Men
+3324;Luis Otavio Pires;3;2001;-6;Men
+3325;Ralph Adel Tohme;3;2001;-6;Men
+3326;Tristin Pretorius;3;2001;-6;Men
+3327;Andres Martinez Cuquerella;3;2001;-6;Men
+3328;Octavio Nicolas Corzo;3;2001;-6;Men
+3329;Yusuke Okubo;3;2001;-6;Men
+3330;Arturo Reyes;3;2001;-6;Men
+3331;Jeremy Gala;3;2001;-6;Men
+3332;Ruan Lategan;3;2001;-6;Men
+3333;Mihai Crapatureanu;3;2001;-6;Men
+3334;Ivan Ortigosa Comas;3;2001;-6;Men
+3335;Pasquale Giardiello;3;2001;-6;Men
+3336;Cristobal Nuñez;3;2001;-6;Men
+3337;Daniel Sardina Serrano;3;2001;-6;Men
+3338;Diego Del Percio;3;2001;-6;Men
+3339;William Johansson;3;2001;-6;Men
+3340;Riemer Sijbring;3;2001;-6;Men
+3341;Teruaki Ando;3;2001;-6;Men
+3342;Oscar Guerrero Pascual;3;2001;-6;Men
+3343;Luis Ricardo Aguirre;3;2001;-6;Men
+3344;Mika Heikkinen;3;2001;-6;Men
+3345;Javier Perez Morillas;3;2001;-6;Men
+3346;Sergi Alvarado Marquez;3;2001;-6;Men
+3347;Sebastian Miguel Guzman;3;2001;-6;Men
+3348;German Neuburger;3;2001;-6;Men
+3349;Benjamin Lespes;3;2001;-6;Men
+3350;Alberto Cost Torralba;3;2001;-6;Men
+3351;Tomas Castro;3;2001;-6;Men
+3352;Osama Salah Mubarak;3;2001;-6;Men
+3353;Nikola Tuparov;3;2001;-6;Men
+3354;Ferran Luarna Montilla;3;2001;-6;Men
+3355;Alvaro Pizarro;3;2001;-6;Men
+3356;Jose Manuel Lillo Albertos;3;2001;-6;Men
+3357;Jose Adrian Prieto Nuñez;3;2001;-6;Men
+3358;Arnau Vidal Miro;3;2001;-6;Men
+3359;Ludvig Jönsson;3;2001;-6;Men
+3360;Carl Isaac Wiman;3;2001;-6;Men
+3361;David Cañizares Illescas;3;2001;-6;Men
+3362;Calin Motorga;3;2001;-6;Men
+3363;Polychronios Sirpos;3;2001;-6;Men
+3364;Jorge Soto;3;2001;-6;Men
+3365;Martin Stolt;3;2001;-6;Men
+3366;Daniel Espiño Rodriguez;3;2001;-6;Men
+3367;Octavio Guardia Domínguez;3;2001;-6;Men
+3368;Oscar Moya Gaitan;3;2001;-6;Men
+3369;Andreas Psaltis;3;2001;-6;Men
+3370;Mikhail Drachuk;3;2001;-6;Men
+3371;Damian Schlebusch;3;2001;-6;Men
+3372;Juan Pereiro Gonzalez;3;2001;-6;Men
+3373;Khar Keon Wong;3;2001;-6;Men
+3374;Lasse Sundell;3;2001;-6;Men
+3375;Cristian Lopez Sanchis;3;2001;-6;Men
+3376;Frederico De Marco Rigon;3;2001;-6;Men
+3377;Emiliano Ruben Bustos;3;2001;-6;Men
+3378;Leverdez Brice;3;2001;-6;Men
+3379;Nooh Haji;3;2001;-6;Men
+3380;Husain Dawani;3;2001;-6;Men
+3381;Aman Behar;3;2001;-6;Men
+3382;Jose Antonio Macia Herrera;3;2001;-6;Men
+3383;Ben Kogel;3;2001;-6;Men
+3384;Ignacio Perez Alonso;3;2001;-6;Men
+3385;Alibek Yessenov;3;2001;-6;Men
+3386;Victor Escorihuela Dealbert;3;2001;-6;Men
+3387;Joao Magalhaes;3;2001;-6;Men
+3388;Joey Chua Tiong Hoey;3;2001;-6;Men
+3389;Laurent Baese;3;2001;-6;Men
+3390;Luis Simoes;3;2001;-6;Men
+3391;Martin Ariel Andornino;3;2001;-6;Men
+3392;Joaquin Saura Padilla;3;2001;-6;Men
+3393;Olivier Roux;3;2001;-6;Men
+3394;Pedro Izquierdo Cuerda;3;2001;0;Men
+3395;Mauro Bertone;3;2001;-6;Men
+3396;Filippo Simeoni;3;2001;-6;Men
+3397;Alvaro Lopez Navarro;3;2001;-6;Men
+3398;Rafael Gonzalez Guerrero;3;2001;-6;Men
+3399;Thomas Main;3;2001;-6;Men
+3400;Ivan Freire Ruiz;3;2001;-6;Men
+3401;Faustas Kuliušas;3;2001;-6;Men
+3402;Jose De La Riva Huerta;3;2001;-6;Men
+3403;Hugo Garcia Martinez;3;2001;-6;Men
+3404;Adrian Garcia Gonzalez;3;2001;-6;Men
+3405;Mohamed Al-Nusuf;3;2001;-6;Men
+3638;Tomas Marques;2;2428;-29;Men
+3406;Chandan Matada Renukacharya;3;2001;-6;Men
+3407;Alvaro Meras De Teresa;3;2001;-6;Men
+3408;Sylvain Seynaeve;3;2001;-6;Men
+3409;Stanislas mathias jean-Francois Hug;3;2001;-6;Men
+3410;Andrea Zikic;3;2001;-6;Men
+3411;Aidan Khairuddin;3;2001;-6;Men
+3412;Alberto Lastortres Mancilla;3;2001;-6;Men
+3413;Braulio Cortes Maldonado;3;2001;-6;Men
+3414;Aaran Eastwood;3;2001;-6;Men
+3415;Tomy Salas;3;2001;-6;Men
+3416;Carlos Eduardo Delgado Muñoz;3;2001;-6;Men
+3417;Mohamed Alansari;3;2001;-6;Men
+3418;Didier Tanous;3;2001;-6;Men
+3419;Bru Veciana Coronado;3;2001;-6;Men
+3420;Iker Sevilla;3;2001;-6;Men
+3421;Luca Di Maggio;3;2001;-6;Men
+3422;Matteo Iafisco;3;2001;-6;Men
+3423;Federico Morano;3;2001;-6;Men
+3424;Francisco Marquez Arenas;3;2001;-6;Men
+3425;Alejandro Santaella Torcello;3;2001;-6;Men
+3426;Mario Barcelo;3;2001;-6;Men
+3427;Leonardo Zarate;3;2001;-6;Men
+3428;Victor Rodriguez Gauthier;3;2001;-6;Men
+3429;Dominique Coene;3;2001;-6;Men
+3430;Antonio Luis Ruiz Casero;3;2001;-6;Men
+3431;Gustavo Garcia Jimenez;3;2001;-6;Men
+3432;Omar Nadim;3;2001;-6;Men
+3433;Adrian Casanova Marrero;3;2001;-6;Men
+3434;Stoyan Dinchiiski;3;2001;-6;Men
+3435;Mohamed Sultan;3;2001;-6;Men
+3436;Muath Almuaili;3;2001;-6;Men
+3437;Alex Casas Solsona;3;2001;-6;Men
+3438;Stanislas Barbe;3;2001;0;Men
+3439;Eleftherios Neos;3;2001;-6;Men
+3440;Tim Milton;3;2001;-6;Men
+3441;Gonzalo Diez;3;2001;-6;Men
+3442;Alejandro Fernandez Mora;3;2001;-6;Men
+3443;Nicolas Pablo Rodriguez;3;2001;-6;Men
+3444;Manel Tabuena Lopez;3;2001;-6;Men
+3445;Curtis Chung Ting Yu;3;2001;-6;Men
+3446;Yong Zhang;3;2001;-6;Men
+3447;Mark Stillerman;3;2001;-6;Men
+3448;Jingfeng Zhang;3;2001;-6;Men
+3449;Bader Mohamed;3;2001;-6;Men
+3450;Agustin Medina;3;2001;-6;Men
+3451;Gonzalo Izquierdo Lopez;3;2001;-6;Men
+3452;Enrique Uribe;3;2001;-6;Men
+3453;Giuseppe Federico;3;2001;-6;Men
+3454;Antonio Manzano Valcarcel;3;2001;-6;Men
+3455;Ralph Boekema;3;2001;-6;Men
+3456;Tommaso Donda;3;2001;-6;Men
+3457;Dinu Serbanescu;3;2001;-6;Men
+3458;Jassim Mohammed Alzeyara;3;2001;-6;Men
+3459;Mantas Gricius;3;2001;-6;Men
+3460;Guillem Medina Cuadradas;3;2001;-6;Men
+3461;Raphael Bittencourt;3;2001;-6;Men
+3462;Alejandro Eugenio Reino Brehcist;3;2001;-6;Men
+3463;Jesse Lohr;3;2001;-6;Men
+3464;Alvaro Ruiz Cotorro Sagastizabal;3;2001;0;Men
+3465;Ignacio Carbonero;3;2001;-6;Men
+3466;Juan Torres Palacios;3;2001;-6;Men
+3467;Thomas Lorin;3;2001;-6;Men
+3468;Iago Blanco Negro;3;2001;-6;Men
+3469;Rajneesh Bhandari;3;2001;-6;Men
+3470;Vincent Lam;3;2001;-6;Men
+3471;Rumen Goranov;3;2001;-6;Men
+3472;Gabriel Perdomo Gascon;3;2001;-6;Men
+3473;Wee Ming Hock Vincent Jones Jr;3;2001;-6;Men
+3474;Daniel Gonzalez Dominguez;3;2001;-6;Men
+3475;Khoo Teng Seng Julian;3;2001;-6;Men
+3476;Ben Reimond Libao;3;2001;-6;Men
+3477;Daniel Bressel Ambrossi;3;2001;-6;Men
+3478;Tomas Vaiš?;3;2001;-6;Men
+3479;Linus Ingvar Holthey;3;2001;-6;Men
+3480;Giovanni Cassano;3;2001;-6;Men
+3481;Javier Merino Nieto;3;2001;0;Men
+3482;Manatsu Arakawa;3;2001;-6;Men
+3483;Yann Francoise;3;2001;-6;Men
+3484;Alonso Garcia Sicilia;3;2001;-6;Men
+3485;Edward Stoner;3;2001;-6;Men
+3486;Nicholas Keevy;3;2001;-6;Men
+3487;Pablo Figueroa;3;2001;-6;Men
+3488;Sgadat Ayap;3;2001;-6;Men
+3489;Asier Mas Urkizu;3;2001;-6;Men
+3490;Viktor Nyström;3;2001;0;Men
+3491;Hussain Kazerooni;3;2001;-6;Men
+3492;Mathieu Fung;3;2001;-6;Men
+3493;Kareem Abdelgawad;3;2001;-6;Men
+3494;Hayato Okubo;3;2001;-6;Men
+3495;Stefano Tricarico;3;2001;-6;Men
+3496;Andrew Borwick;3;2001;-6;Men
+3497;Pablo Crespo Bernal;3;2001;-6;Men
+3498;Rashed Alhammadi;3;2001;-6;Men
+3499;Pavel Lavrikov;3;2001;-6;Men
+3500;Victor Teboul;3;2001;-6;Men
+3501;Thibault De Galbert;3;2001;-6;Men
+3502;Jun Ming Liang;3;2001;-6;Men
+3503;Kyle Olivier;3;2001;-6;Men
+3504;Emilis Baltrimaitis;3;2001;-6;Men
+3505;Jaime Gonzalez Diaz;3;2001;-6;Men
+3506;Yannik Molina;3;2001;-6;Men
+3507;Noah Johansen;3;2001;-6;Men
+3508;Kamel Zarour;3;2001;-6;Men
+3509;Ignacio Ybañez Cuerda;3;2001;0;Men
+3510;Callum Ward;3;2001;-6;Men
+3511;Victor Gomez Juan;3;2001;-6;Men
+3512;Manuel Jordi Fulla Silva;3;2001;-6;Men
+3513;Aakash Lalith Kumar Nanu;3;2001;-6;Men
+3514;Xavier Vilaseca Lucas;3;2001;-6;Men
+3515;Pau García Bartual;3;2001;-6;Men
+3516;Laurent Girbal;3;2001;-6;Men
+3517;Tomas Aniceto Solé Molina;3;2001;-6;Men
+3518;Jie Han Chai;3;2001;-6;Men
+3519;Sebastian Courbis Laciart;3;2001;-6;Men
+3520;Connor Taylor;3;2001;-6;Men
+3521;Pol Espinal Rey;3;2001;-6;Men
+3522;Adrian Sanchez Contreras;3;2001;-6;Men
+3523;Marc Sempere Cardona;3;2001;-6;Men
+3524;Jose Domingo Martinez Garcia;3;2001;-6;Men
+3525;Marco Dal Mas;3;2001;-6;Men
+3526;Gianmarco Gherardi;3;2001;-6;Men
+3527;Leonel Zapata;3;2001;-6;Men
+3528;Maxime Mora;3;2001;-34;Men
+3529;Kazbek Shalbassov;3;2001;-6;Men
+3530;Tomas Diaz Dominguez;3;2001;-6;Men
+3531;Alex Gutierrez;3;2001;-6;Men
+3532;Mik Winterink;3;2001;-6;Men
+3533;Vladimir Popov;3;2001;-6;Men
+3534;Martin Harizanov;3;2001;-6;Men
+3535;Anthony Salavracos;3;2001;-6;Men
+3536;Francisco De Borja Prados;3;2001;-6;Men
+3537;Khaled Almoosawi;3;2001;-6;Men
+3538;Rashed AlObaidli;3;2001;-6;Men
+3539;Tom Couturier;3;2001;-6;Men
+3540;Saul Duran Heras;3;2001;-6;Men
+3541;Adam Ottosson;3;2001;-6;Men
+3542;David Catala Velasco;3;2001;-6;Men
+3543;Alonso Moreno Muñoz;3;2001;-6;Men
+3544;Eduard Medina Cuadradas;3;2001;-6;Men
+3545;Rafael Peiro Gonzalez;3;2001;-6;Men
+3546;Jorge Martinez;3;2001;-6;Men
+3547;David Lawrenson;3;2001;-6;Men
+3548;Emmanuel Martin;3;2001;-6;Men
+3549;Romain Potier;3;2001;-6;Men
+3550;Hernan Cortez;3;2001;-6;Men
+3551;Armando Soemarno;3;2001;-6;Men
+3552;Nikita Sidorov;3;2001;-6;Men
+3553;Arjen Robben;3;2001;-6;Men
+3554;Samuel Anton Romero;3;2001;-6;Men
+3555;Mohamed Bahlool;3;2001;-6;Men
+3556;Kavin Tamizh Vendan;3;2001;-6;Men
+3557;Mateu Riera Parra;3;2001;-6;Men
+3558;Kyle Isaacs;3;2001;-6;Men
+3559;Emanuele Fanti;3;2001;-6;Men
+3560;Luca Agostinacchio;3;2001;-6;Men
+3561;Santino Cordoba Torres;3;2001;-6;Men
+3562;Javier Beloqui;3;2001;-6;Men
+3563;Manuel Cholbi Llido;3;2001;-6;Men
+3564;Simone Vitulano;3;2001;-6;Men
+3565;David Canavezes;3;2001;-6;Men
+3566;Jon Southern;3;2001;-6;Men
+3567;Pierantonio Gherardi;3;2001;-6;Men
+3568;Nasser Rashdan;3;2001;-6;Men
+3569;Martin Torres Coggiola;3;2001;-6;Men
+3570;Fan Yang;3;2001;-6;Men
+3571;Weyers Meintjes;3;2001;0;Men
+3572;Jamie Gall;3;2001;-6;Men
+3573;Youssef Amin Safwat;3;2001;-6;Men
+3574;Lionel Aimar Cabrera Diaz;3;2001;-6;Men
+3575;Abdulaziz Almadani;3;2001;-6;Men
+3576;Arturo Muñoz Garcia;3;2001;-6;Men
+3577;Carlos Cuenca Navarro;3;2001;-6;Men
+3578;Ignasi Sugrañes Martinez;3;2001;-6;Men
+3579;Jonathan Almada Peralta;3;2001;-6;Men
+3580;Syed Imran Yusoof;3;2001;-6;Men
+3581;Jose Camilo Mesa;3;2001;-6;Men
+3582;Pratish Thadani;3;2001;0;Men
+3583;Scott Clayton;3;2001;-6;Men
+3584;Georgi Stoyanov;3;2001;-6;Men
+3585;Enric Batalla Lopez;2;2428;-29;Men
+3586;Tsubasa Suminaka;2;2428;-29;Men
+3587;Miguel Angel Mendez Velasco;2;2428;-29;Men
+3588;Sorin Petru Suba;2;2428;-29;Men
+3589;Mahmoud Mohasseb;2;2428;-29;Men
+3590;Franco Altube Casaseca;2;2428;-29;Men
+3591;Carlos Perez Garcia;2;2428;-29;Men
+3592;Kaiyu Li;2;2428;-29;Men
+3593;Arnaud Jadoul;2;2428;-29;Men
+3594;Sebastian Graap;2;2428;-29;Men
+3595;Carsten Hovestadt;2;2428;-29;Men
+3596;Matteo Pracchi;2;2428;-29;Men
+3597;Yury Lobanov;2;2428;-29;Men
+3598;Luís Augusto Neves Guerra;2;2428;-29;Men
+3599;Gabriel Toledo Amador;2;2428;-29;Men
+3600;Nicolas Vandermarliere;2;2428;-29;Men
+3601;Michael Anthony Kahn;2;2428;-29;Men
+3602;Daniel Herrera;2;2428;-29;Men
+3603;Jacopo Bartolini;2;2428;-29;Men
+3604;Loris Morvan;2;2428;-29;Men
+3605;Francisco Alcober Aleman;2;2428;-29;Men
+3606;Jose Miguel Sanchez Mañas;2;2428;-29;Men
+3607;Alexander Muravyev;2;2428;-29;Men
+3608;Nicolae-Adrian Rozorea;2;2428;-29;Men
+3609;Pierre Lebosse;2;2428;-29;Men
+3610;Alexandre Brym;2;2428;-29;Men
+3611;Georgios Hadjiconstantis;2;2428;-29;Men
+3612;Alberto Caballero;2;2428;-29;Men
+3613;Yida Ye;2;2428;-29;Men
+3614;Eduardo Franza;2;2428;-29;Men
+3615;Jose Chamorro Rodriguez;2;2428;-29;Men
+3616;Keiki Fukuda;2;2428;-29;Men
+3617;Fernando Gabriel Ingaramo;2;2428;-29;Men
+3618;Romain Luquet;2;2428;-29;Men
+3619;Qiaojie Wang;2;2428;-29;Men
+3620;Amadeo Baldini;2;2428;-29;Men
+3621;Jordan Cruz;2;2428;-29;Men
+3622;Joao Pedro Alves De Moraes;2;2428;-29;Men
+3623;Anton Uribe Chavert;2;2428;-29;Men
+3624;Ramon Camarena Gomez;2;2428;-29;Men
+3625;Yannick Martell Beuzit;2;2428;-29;Men
+3626;Mario Cordero;2;2428;-29;Men
+3627;Joel Andrew Suryadi;2;2428;0;Men
+3628;Luca Di Colli;2;2428;-29;Men
+3629;Mario Navarro Ramirez;2;2428;-29;Men
+3630;Gabriel Garcia;2;2428;-29;Men
+3631;Wahyu Diantoro;2;2428;-29;Men
+3632;Arno De Proost;2;2428;-29;Men
+3633;Francesc Bayona;2;2428;-461;Men
+3634;Alasdair Owers Bradley;2;2428;-29;Men
+3635;Lorenzo Dandieu;2;2428;-29;Men
+3636;Semal Robin;2;2428;-29;Men
+3637;Henrique Rosa De Freitas;2;2428;-29;Men
+3639;Denis Adrian Mocanu;2;2428;-29;Men
+3640;Eduardo Ladeveze;2;2428;-29;Men
+3641;Manuel Molines Lozano;2;2428;-29;Men
+3642;Madalin Ilinca;2;2428;-29;Men
+3643;Cleo Carvalho;2;2428;-29;Men
+3644;Javier Zafra;2;2428;-29;Men
+3645;Anton Yakovlev;2;2428;-29;Men
+3646;Tomas Agustin Gallardo;2;2428;-29;Men
+3647;Emilio Zwenger;2;2428;-29;Men
+3648;Raul Delgado Abril;2;2428;-29;Men
+3649;Gustavo Amastha;2;2428;-29;Men
+3650;Nicolas Lopez;2;2428;-29;Men
+3651;Beni Gomez Cabrera;2;2428;-29;Men
+3652;Rui Huo;2;2428;-29;Men
+3653;Abbas Makke;2;2428;-29;Men
+3654;Conrado Capilla Garcia;2;2428;-29;Men
+3655;Cesar Testoni;2;2428;-29;Men
+3656;Ger Buenanueva;2;2428;-29;Men
+3657;Alexander Khalanskii;2;2428;-29;Men
+3658;Vincenzo Aiello;2;2428;-29;Men
+3659;Ali AlShaikh;2;2428;-29;Men
+3660;Ebbe Badersten;2;2428;-29;Men
+3661;George Aerakis;2;2428;-29;Men
+3662;Juan Pablo Ruiz;2;2428;-29;Men
+3663;Alejandro Barrera Garcia;2;2428;-29;Men
+3664;Dan Alexandru Tomescu;2;2428;-29;Men
+3665;Ling Li;2;2428;-29;Men
+3666;Antonio Sierra Sampaio;2;2428;-29;Men
+3667;Pedro Antonio Zwan Bertin;2;2428;-29;Men
+3668;Christoph Krenn;2;2428;-29;Men
+3669;Paolo Calzavara;2;2428;-29;Men
+3670;Francisco Camus Salvarredi;2;2428;-29;Men
+3671;Alfredas Udra;2;2428;-29;Men
+3672;Alex Alcega Dominguez;2;2428;-29;Men
+3673;Pablo Andrés Palencia;2;2428;-29;Men
+3674;Manfredas Udra;2;2428;-29;Men
+3675;Elia Purita;2;2428;-29;Men
+3676;Alessandro Tonelli;2;2428;-29;Men
+3677;Tommaso Giachetti;2;2428;-29;Men
+3678;Mariano Gombi;2;2428;-29;Men
+3679;Walef Vinicius Silva;2;2428;-29;Men
+3680;Sebastiano Andrea Giustolisi;2;2428;-29;Men
+3681;Daisuke Shoyama;2;2428;-29;Men
+3682;Jose Falcon Castellanos;2;2428;-29;Men
+3683;Gioele Lorenzin;2;2428;-29;Men
+3684;Bernardo Terroso;2;2428;-29;Men
+3685;De Shen Heng;2;2428;-29;Men
+3686;William Wiseman;2;2428;-29;Men
+3687;Yuli Huang;2;2428;-29;Men
+3688;Joaquin Exequiel Blanco Gutierrez;2;2428;-29;Men
+3689;Sebastião Dias;2;2428;-29;Men
+3690;Goncalo Berredo;2;2428;-29;Men
+3691;Remi Maunier;2;2428;-29;Men
+3692;Bernardo Barreiros Ferreira;2;2428;-29;Men
+3693;Antonio Ledesma Castellò;2;2428;-29;Men
+3694;Andrea Milani;2;2428;-29;Men
+3695;Romain Rutkowski;2;2428;-29;Men
+3696;German Ziella;2;2428;-29;Men
+3697;Karim Alejandro Mignani Lemos;2;2428;-29;Men
+3698;Omar Amin;2;2428;-29;Men
+3699;Loïc Le Panse Fernandez;2;2428;-29;Men
+3700;Kevin Graff;2;2428;-29;Men
+3701;Marcelo Hernandezgamez;2;2428;-29;Men
+3702;Arturo Veiga Viñoly;2;2428;-29;Men
+3703;David Vuong;2;2428;-29;Men
+3704;Alejandro Andino Vallverdu;2;2428;-29;Men
+3705;Adrián Cabello Alaman;2;2428;-29;Men
+3706;Eric Bautheac;2;2428;-29;Men
+3707;Nicolas Pont;2;2428;-29;Men
+3708;Zhi Wang;2;2428;-29;Men
+3709;Andrey Malakhov;2;2428;-29;Men
+3710;Matias Nicolas Norre;2;2428;-29;Men
+3711;Bruno Juanito;2;2428;-29;Men
+3712;Hassan Ali;2;2428;-29;Men
+3713;Cesar Andrés Palencia;2;2428;-29;Men
+3714;Chenyang Fan;2;2428;-29;Men
+3715;Antonio Doria;2;2428;-29;Men
+3716;Victor Rossi;2;2428;-29;Men
+3717;Wenhao Wu;2;2428;-29;Men
+3718;Andrew Smith;2;2428;-29;Men
+3719;Ivan Sanchez Segui;2;2428;-29;Men
+3720;Jon Guerra Larrauri;2;2428;-29;Men
+3721;Tanguy Montoisy;2;2428;-29;Men
+3722;David Alten;2;2428;-29;Men
+3723;Theodoros Rousos;2;2428;-29;Men
+3724;Nikolas Zogaj;2;2428;-29;Men
+3725;Leonardo Bogo Marcatto;2;2428;-29;Men
+3726;Nicolas Fernandez Diaz;2;2428;-29;Men
+3727;Darren McMullen;2;2428;0;Men
+3728;Andrea Masoero;2;2428;-29;Men
+3729;Pierre Lagouardille;2;2428;-29;Men
+3730;Pedro Tellechea Omiste;2;2428;-29;Men
+3731;Thibaut Mordacq;2;2428;-29;Men
+3732;Miguel Baptista Da Silva;2;2428;-29;Men
+3733;Unax Arranz Maestre;2;2428;-29;Men
+3734;Nuno Quelhas;2;2428;-29;Men
+3735;Xiangling Li;2;2428;-29;Men
+3736;Camilo Velasco;2;2428;-29;Men
+3737;Guillermo Borrero Fernández De La Puente;2;2428;-29;Men
+3738;Gianluca Lalli;2;2428;-29;Men
+3739;David Garcia Gomez;2;2428;-29;Men
+3740;Santiago Fernandez Escarcena;2;2428;-29;Men
+3741;Xander Veys;2;2428;-29;Men
+3742;Carlos Miguel Ramoa;2;2428;-29;Men
+3743;Daan Veldhuis;2;2428;-29;Men
+3744;Carlos Rodriguez;2;2428;-29;Men
+3745;Hiroki Iwamoto;2;2428;-29;Men
+3746;Jan Hulshagen;2;2428;-29;Men
+3747;Adlan Bounemoura;2;2428;-29;Men
+3748;Mauricio Klenner Campos;2;2428;-29;Men
+3749;Lorenzo Maccarini;2;2428;-29;Men
+3750;Ronald Vargas;2;2428;-29;Men
+3751;Giulio De Lutiis;2;2428;-29;Men
+3752;Ryosuke Kizawa;2;2428;-29;Men
+3753;Juan Jose Medina Rico;2;2428;-29;Men
+3754;Anthony Galloo;2;2428;-29;Men
+3755;Laurent Payet;2;2428;-29;Men
+3756;Yaser Alhashemi;2;2428;-29;Men
+3757;Joao Moura;2;2428;-29;Men
+3758;Daniel Lopez Gutierrez;2;2428;-29;Men
+3759;Denis Ionut Sas;2;2428;-29;Men
+3760;Omran Falaknazi;2;2428;-29;Men
+3761;Wen Tian;2;2428;-29;Men
+3762;Miguel Roman Moreno;2;2428;-29;Men
+3763;Anton Agapov;2;2428;-29;Men
+3764;Noah Houareau;2;2428;-29;Men
+3765;Manfredo Pirone;2;2428;-29;Men
+3766;Mattia Bosatelli;2;2428;-29;Men
+3767;Juan Ignacio Gonzalez Jimenez;2;2428;-29;Men
+3768;Sergio Lopez Rodriguez;2;2428;-29;Men
+3769;Mattia Mena;2;2428;-29;Men
+3770;Lautaro Nicolas Garcia Saez;2;2428;-29;Men
+3771;Andy De Bruijne;2;2428;-29;Men
+3772;Miguel Ferreira;2;2428;-29;Men
+3773;Hikaru Yokoyama;2;2428;-29;Men
+3774;Fernando Delgado;2;2428;-29;Men
+3775;Javier Reiter;2;2428;-29;Men
+3776;Armando Caiazzo;2;2428;-29;Men
+3777;Haifeng Luo;2;2428;-29;Men
+3778;Ted Nilsson;2;2428;0;Men
+3779;Thibo Matthyssens;2;2428;-29;Men
+3780;Ulugbek Ismailov;2;2428;-29;Men
+3781;Robert Wezeman;2;2428;-29;Men
+3782;Jared Cooper Vespa;2;2428;-29;Men
+3783;Sergiu-Darie Mede?an;2;2428;-29;Men
+3784;Vito Morrone;2;2428;-29;Men
+3785;Pedro Kaminski;2;2428;-29;Men
+3786;Ian Salo;2;2428;-29;Men
+3787;Raditya Kirana Rianto;2;2428;-29;Men
+3788;Benoit Dardaine;2;2428;-29;Men
+3789;Bodhi De Muinck;2;2428;-29;Men
+3790;Franck Binisti;2;2428;-29;Men
+3791;Lucas Ladeveze;2;2428;-29;Men
+3792;Joao Guimaraes;2;2428;-29;Men
+3793;Adria Lombera;2;2428;-29;Men
+3794;Johannes Roscic;2;2428;-29;Men
+3795;Samat Zhexenov;2;2428;-29;Men
+3796;Aimar Benitez Bernet;2;2428;-29;Men
+3797;Axel Ezequiel Cardozo;2;2428;-29;Men
+3798;Mateo Giribaldi;2;2428;-29;Men
+3799;Alain Sassen;2;2428;-29;Men
+3800;Lucas Duffort;2;2428;-29;Men
+3801;Diego Ruiz Alcaide;2;2428;-29;Men
+3802;Calvin Wyatt;2;2428;-29;Men
+3803;Kevin Aguilar Lamarcha;2;2428;-29;Men
+3804;Benjamin Oakes;2;2428;-29;Men
+3805;Paul Soubies;2;2428;-29;Men
+3806;Jonas Vanhauwe;2;2428;-29;Men
+3807;Javier Quesada Dominguez;2;2428;-29;Men
+3808;Jorn Vande Moortele;2;2428;-29;Men
+3809;Alejandro Pina Lopez;2;2428;-29;Men
+3810;Nicolas Escavabaja;2;2428;-29;Men
+3811;Xavier Cardoso;2;2428;-29;Men
+3812;Jos Van Acker;2;2428;-29;Men
+3813;Edoardo Pennino Zugarelli;2;2428;-29;Men
+3814;Lautaro Aguilera;2;2428;-29;Men
+3815;Iacopo Zagaglioni;2;2428;-29;Men
+3816;Joaquin Paez;1;2689;-9;Men
+3817;Marco Fogliata;1;2689;-9;Men
+3818;Mario Lozano;1;2689;-9;Men
+3819;Sergio Grau Cervera;1;2689;-9;Men
+3820;Omar Althagib;1;2689;-9;Men
+3821;Javier Ignacio Cuadra Campusano;1;2689;-9;Men
+3822;Mariano Solano;1;2689;-9;Men
+3823;Maxime Moreau;1;2689;-290;Men
+3824;Marcos Felipe Guerra Alvarez;1;2689;-9;Men
+3825;Cristobal Matias Zamorano Lopez;1;2689;-9;Men
+3826;Patricio León Ancares;1;2689;-9;Men
+3827;Abdulaziz Alyafei;1;2689;-9;Men
+3828;Sebastian Burgos;1;2689;-9;Men
+3829;Giovanny Avello;1;2689;-9;Men
