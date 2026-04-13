@@ -41,8 +41,8 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 ### 📈 Page 1 — Competition Stats
 
 > Provides a high-level overview of player competition performance, match outcomes over time, and geographic distribution of players worldwide.
+> ![competition_stats](https://github.com/user-attachments/assets/1181b7f3-69e7-4459-ae17-72d69adeacfe)
 
-![Competition Stats](screenshots/competition_stats.png)
 
 **Key KPIs:**
 | Metric | Value |
@@ -66,8 +66,8 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 ### 🏆 Page 2 — Performance & Analytics
 
 > Deep-dives into individual player performance, ranking trends, and gender-based participation breakdown — ideal for scouting and sponsorship targeting.
+> ![performance_analytics](https://github.com/user-attachments/assets/ce782221-b717-4eac-bd5b-874d38688b82)
 
-![Performance Analytics](screenshots/performance_analytics.png)
 
 **Key KPIs:**
 | Metric | Value |
@@ -92,8 +92,8 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 ### 🎾 Page 3 — Equipment Insights
 
 > Analyzes equipment market performance, racket types, vendor revenues, and the relationship between equipment price and player win rate.
+>![equipment_insights](https://github.com/user-attachments/assets/1f637e54-c51d-49a7-bf17-500bca7db3c6)
 
-![Equipment Insights](screenshots/equipment_insights.png)
 
 **Key KPIs:**
 | Metric | Value |
@@ -115,8 +115,8 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 ### 🏅 Page 4 — Tournament Insights
 
 > Explores tournament-level data including prize money distribution, category breakdown, and AI-powered key influencer analysis on match outcomes.
+> ![tournament_insights](https://github.com/user-attachments/assets/8788dccb-bc0f-46b1-8ff3-ab6ed318ac44)
 
-![Tournament Insights](screenshots/tournament_insights.png)
 
 **Key KPIs:**
 | Metric | Value |
