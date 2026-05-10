@@ -157,16 +157,6 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 ![sdg_page_2](https://github.com/user-attachments/assets/2f7bca1c-72c7-4d79-9716-6218f592541f)
 ![sdg_page_3](https://github.com/user-attachments/assets/74c92b3d-ed21-4ee9-81d1-e229ff99abcf)
 
-**Key KPIs:**
-| Metric | Value |
-|--------|-------|
-| Win Rate % | 63.49% |
-| Total Matches | 5K |
-**Visuals:**
-- 📊 Horizontal bar chart: Matches Played by Country & Gender (Spain, France, UAE, Italy, Saudi Arabia…)
-- 📉 Line chart: Win Rate % by Month (seasonal performance trends)
-
-**Filters:** Tournaments · Country · Gender · Year (2024–2025)
 
 ---
 
