@@ -60,10 +60,9 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 **Key KPIs:**
 | Metric | Value |
 |--------|-------|
-| Points / Match | 73.28 |
-| Number of Appearances | 1.027K |
-| Match Played | 13 |
-| Match Wins | 8 |
+| Total Players | 309 |
+| Revenue 2025 & 2024 | 84.55M · 16.47M |
+| Total Matches | 5K |
 | Win Rate % | 63.49% |
 
 **Visuals:**
@@ -85,11 +84,14 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 **Key KPIs:**
 | Metric | Value |
 |--------|-------|
+| Total Players | 309 |
+| Men Players | 2K |
+| Women Players | 1K |
+| Match Played | 13 |
+| Match Win | 8 |
+| Points Earned | 975.90 |
 | Players Growth % | 215.87% |
-| Men Players | 2.418K |
-| Women Players | 1.411K |
-| Total Players 2025 | 199 |
-| Total Players 2024 | 63 |
+| Consistency | 73.28 |
 
 **Visuals:**
 - 📊 Horizontal bar chart: Top 10 Matchs Joués & Gagnés by player (Men & Women)
@@ -109,10 +111,10 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 **Key KPIs:**
 | Metric | Value |
 |--------|-------|
-| Performance Status | ✅ Exceeds Target |
-| Total Equipment Market Value | 129.24K |
-| Revenue by Product Type | 92.30M |
-| Active Players Count | 27 |
+| Equipment Market Revenue | 129.24K |
+| Product Revenue | 92.30M |
+| Active Players | 27 |
+| Equipment Efficiency % | 60.81% |
 
 **Visuals:**
 - 📊 Waterfall chart: Revenue Changes by Product Type & Vendor (Bullpadel, Head, Adidas, Siux)
@@ -132,12 +134,10 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 **Key KPIs:**
 | Metric | Value |
 |--------|-------|
-| Consistency Score | 73.28 |
-| Total Points | 42M |
-| Total Matches | 490K |
-| Season | 2026 Padel Tournament Season |
-| Tournaments | 21 |
-| Participants | 181,242 |
+| Number of Tournaments | 21 |
+| Total Players per Tournament | 202 |
+| Win Rate % | 64.15% |
+| Total Prize Money | 940.95M |
 
 **Visuals:**
 - 📊 Bar chart: Top 10 Tournaments by Total Prize Money *(Paris Major & Qatar Major lead)*
@@ -149,7 +149,7 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 ---
 
-### 🌱 Page 5 — SDG 3: Good Health & Well-Being
+### 🌱  SDG 3,8,9 & 17:
 
 > Dedicated page linking padel performance data to the UN Sustainable Development Goal 3 — tracking player health indicators, match consistency, and participation across countries and genders.
 
@@ -162,7 +162,6 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 |--------|-------|
 | Win Rate % | 63.49% |
 | Total Matches | 5K |
-
 **Visuals:**
 - 📊 Horizontal bar chart: Matches Played by Country & Gender (Spain, France, UAE, Italy, Saudi Arabia…)
 - 📉 Line chart: Win Rate % by Month (seasonal performance trends)
@@ -173,7 +172,6 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 ## 🤖 Machine Learning Models
 
-> ![ml_overview](https://github.com/user-attachments/assets/d45bae87-2205-417e-a8c5-8fa224dec5b7)
 
 ### 1. 🥇 Sponsor Player Classification
 **File:** `padel_sponsor_classification.ipynb`
@@ -195,7 +193,6 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 - Models: XGBoost, Scikit-learn classifiers
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`
 
-> ![sponsor_classification](https://github.com/user-attachments/assets/e2661a73-c828-441e-b475-edd86a1c914f)
 
 ---
 
@@ -338,35 +335,35 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 ### Pages & Features
 
 **🏠 Home Page**
-![web_home](https://github.com/user-attachments/assets/c8f48569-49ad-43f4-be6b-bcdb8a27f60c)
+![web_home](https://github.com/user-attachments/assets/518b1b36-294a-46f5-b9e1-8d0b739fb3d0)
 
 > Animated padel court landing page with role-based welcome, live ticker (Top Player, Top Country, Total Players, Matches Played), and navigation to all 4 modules.
 
 ---
 
 **📈 Competition Page**
-![web_competition](https://github.com/user-attachments/assets/8c7cdcf5-e45e-4824-aff4-86241cf3e53c)
+![web_competition](https://github.com/user-attachments/assets/3adf4595-4291-49ab-9cdb-48ccec8149ef)
 
 > KPIs: Total Players (3,829) · Revenue 2025 (701.66M) · Revenue 2024 (239.29M) · Total Matches (4,608). Visuals: Match Outcomes Over Last Two Years, Women vs Men Players donut, Top 3 Periods of Matches, Top 5 Countries by Tournaments, Win Rate % (64.15%).
 
 ---
 
 **🏆 Performance Page**
-![web_performance](https://github.com/user-attachments/assets/d1591b89-90b6-43b1-9212-bb649eda1491)
+![web_performance](https://github.com/user-attachments/assets/bf662ed2-bda2-44b4-8d30-1c0385a5eab2)
 
 > KPIs: Total Players (3,829) · Men Players (2,418) · Women Players (1,411) · Players Growth (208.16%). Visuals: Top 10 Players by Match Wins (Arturo Coello, Delfina Brea, Agustin Tapia…), Top 3 Players Overview (Matches/Wins/Losses), Player Match Performance radar, Consistency Score.
 
 ---
 
 **🏅 Tournaments Page**
-![web_tournaments](https://github.com/user-attachments/assets/c5d20b3b-93cb-4a03-850b-f158316dcdaf)
+![web_tournaments](https://github.com/user-attachments/assets/1716611b-722c-426b-8af1-7448ffe34e92)
 
 > KPIs: Avg Players/Tournament (81) · Win Rate % (64.15%) · Total Prize Money (940.95M). Visuals: Prize Money by Category (Major leads), Tournaments by Category donut (P1/P2/Major/Finals), Top 10 Tournaments by Prize Money, Players & Prize by Category.
 
 ---
 
 **🎾 Equipments Page**
-![web_equipments](https://github.com/user-attachments/assets/bebf797e-80fe-407b-ab4f-d947a245afb8)
+![web_equipments](https://github.com/user-attachments/assets/2e2e1111-d85a-48da-a0c3-7b364e474e93)
 
 > KPIs: Market Revenue (9.23M) · Product Revenue (10.00M) · Active Players (635). Visuals: Revenue by Vendor 2023–2025 (Adidas, Babolat, Bullpadel, Head, Siux, Starvie…), Equipment Performance by Price scatter (attaque vs polyvalente), Top 5 Vendor Revenue Yearly Growth, Racket Performance vs Target.
 
