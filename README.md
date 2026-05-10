@@ -39,7 +39,7 @@ The platform is aligned with key **Sustainable Development Goals (SDGs)**:
 The dashboard is structured around **4 interactive report pages**, each targeting a specific analytical perspective. It features a consistent teal & purple design theme, a side navigation bar with icon-based routing, dynamic filters (Gender, Year, Player, Category) applied across all pages, and **Row-Level Security (RLS)** to restrict data access per user role.
 
 ### 🏠 Home Page
-![dashboard_home](https://github.com/user-attachments/assets/6289f5fc-eaf2-4439-b509-1e925bf82fa8)
+![dashboard_home](https://github.com/user-attachments/assets/665a0e89-0265-4d0c-80da-7c7a08cbbbde)
 
 ### 🔐 Row-Level Security (RLS)
 
@@ -55,7 +55,7 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 > Provides a high-level overview of player competition performance, match outcomes over time, and geographic distribution of players worldwide.
 
-![competition_stats](https://github.com/user-attachments/assets/51802522-f94d-43d6-a90a-00d55caa0029)
+![competition_stats](https://github.com/user-attachments/assets/5c7e9c91-19ea-46f0-be80-3dd05761c0cb)
 
 **Key KPIs:**
 | Metric | Value |
@@ -80,7 +80,7 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 > Deep-dives into individual player performance, ranking trends, and gender-based participation breakdown — ideal for scouting and sponsorship targeting.
 
-![performance_analytics](https://github.com/user-attachments/assets/a4c982ff-1d1a-4baf-bd29-9ff5b2f3003c)
+![performance_analytics](https://github.com/user-attachments/assets/6e431397-5bb9-4919-86ed-7af11a9fdf3b)
 
 **Key KPIs:**
 | Metric | Value |
@@ -104,7 +104,7 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 > Analyzes equipment market performance, racket types, vendor revenues, and the relationship between equipment price and player win rate.
 
-![equipment_insights](https://github.com/user-attachments/assets/cf189940-8faf-4089-b809-66172e7aa3ab)
+![equipment_insights](https://github.com/user-attachments/assets/2e2703cd-937e-4007-a459-cc2d6ecda30a)
 
 **Key KPIs:**
 | Metric | Value |
@@ -127,7 +127,7 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 > Explores tournament-level data including prize money distribution, category breakdown, and AI-powered key influencer analysis on match outcomes.
 
-![tournament_insights](https://github.com/user-attachments/assets/529eb31d-af46-41ca-a5ba-ee7ee9583fb6)
+![tournament_insights](https://github.com/user-attachments/assets/9a2ab959-2b10-4039-bac7-4a4029c070a3)
 
 **Key KPIs:**
 | Metric | Value |
@@ -149,12 +149,31 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 ---
 
+### 🌱 Page 5 — SDG 3: Good Health & Well-Being
+
+> Dedicated page linking padel performance data to the UN Sustainable Development Goal 3 — tracking player health indicators, match consistency, and participation across countries and genders.
+
+![sdg_page_1](https://github.com/user-attachments/assets/428a7a32-7549-4a40-9ef0-87fbb3040a5b)
+![sdg_page_2](https://github.com/user-attachments/assets/2f7bca1c-72c7-4d79-9716-6218f592541f)
+![sdg_page_3](https://github.com/user-attachments/assets/74c92b3d-ed21-4ee9-81d1-e229ff99abcf)
+
+**Key KPIs:**
+| Metric | Value |
+|--------|-------|
+| Win Rate % | 63.49% |
+| Total Matches | 5K |
+
+**Visuals:**
+- 📊 Horizontal bar chart: Matches Played by Country & Gender (Spain, France, UAE, Italy, Saudi Arabia…)
+- 📉 Line chart: Win Rate % by Month (seasonal performance trends)
+
+**Filters:** Tournaments · Country · Gender · Year (2024–2025)
 
 ---
 
 ## 🤖 Machine Learning Models
 
-
+> ![ml_overview](https://github.com/user-attachments/assets/d45bae87-2205-417e-a8c5-8fa224dec5b7)
 
 ### 1. 🥇 Sponsor Player Classification
 **File:** `padel_sponsor_classification.ipynb`
@@ -176,6 +195,7 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 - Models: XGBoost, Scikit-learn classifiers
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`
 
+> ![sponsor_classification](https://github.com/user-attachments/assets/e2661a73-c828-441e-b475-edd86a1c914f)
 
 ---
 
