@@ -149,29 +149,12 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 
 ---
 
-### 🌱 Page 5 — SDG 3: Good Health & Well-Being
-
-> Dedicated page linking padel performance data to the UN Sustainable Development Goal 3 — tracking player health indicators, match consistency, and participation across countries and genders.
-
-![sdg_page](https://github.com/user-attachments/assets/a03d2032-0519-4671-8dfb-092b3fd2a20d)
-
-**Key KPIs:**
-| Metric | Value |
-|--------|-------|
-| Win Rate % | 63.49% |
-| Total Matches | 5K |
-
-**Visuals:**
-- 📊 Horizontal bar chart: Matches Played by Country & Gender (Spain, France, UAE, Italy, Saudi Arabia…)
-- 📉 Line chart: Win Rate % by Month (seasonal performance trends)
-
-**Filters:** Tournaments · Country · Gender · Year (2024–2025)
 
 ---
 
 ## 🤖 Machine Learning Models
 
-> ![ml_overview](https://github.com/user-attachments/assets/d45bae87-2205-417e-a8c5-8fa224dec5b7)
+
 
 ### 1. 🥇 Sponsor Player Classification
 **File:** `padel_sponsor_classification.ipynb`
@@ -193,7 +176,6 @@ The dashboard is structured around **4 interactive report pages**, each targetin
 - Models: XGBoost, Scikit-learn classifiers
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`
 
-> ![sponsor_classification](https://github.com/user-attachments/assets/e2661a73-c828-441e-b475-edd86a1c914f)
 
 ---
 
